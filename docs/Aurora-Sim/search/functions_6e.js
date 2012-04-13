@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['needsmeshing',['NeedsMeshing',['../d4/df0/classOpenSim_1_1Region_1_1Physics_1_1BulletSPlugin_1_1BSScene.html#adee37d04e33e6808b7aaf20cb051ca7e',1,'OpenSim::Region::Physics::BulletSPlugin::BSScene']]],
+  ['newagentinventoryrequest',['NewAgentInventoryRequest',['../df/d75/classOpenSim_1_1Services_1_1CapsService_1_1InventoryCAPS.html#abceb33f787e8fcd56b938121fc138682',1,'OpenSim::Services::CapsService::InventoryCAPS']]],
+  ['newuserconnection',['NewUserConnection',['../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#abb5d626411e4f7f763ede809f8f72922',1,'Aurora.Modules.EntityTransfer.EntityTransferModule.NewUserConnection()'],['../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a8718584741918acef8d8bd7a1350f94d',1,'OpenSim.Region.Framework.Interfaces.IEntityTransferModule.NewUserConnection()']]],
+  ['notecardagentinventory',['NoteCardAgentInventory',['../d8/d59/classAurora_1_1Modules_1_1Inventory_1_1LLClientInventory.html#a9efc71499eb33c78982aa3202bee25ee',1,'Aurora::Modules::Inventory::LLClientInventory']]],
+  ['numberofuseraccounts',['NumberOfUserAccounts',['../d9/d33/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IUserAccountService.html#a60bc55f52b5b9734626962619a6714ec',1,'OpenSim.Services.Interfaces.IUserAccountService.NumberOfUserAccounts()'],['../d0/d36/classAurora_1_1Modules_1_1IWCUserAccountConnector.html#aefebabc976f64e512f7a17c7c0b6e1f7',1,'Aurora.Modules.IWCUserAccountConnector.NumberOfUserAccounts()'],['../d4/d11/classOpenSim_1_1Services_1_1UserAccountService_1_1UserAccountService.html#accba2b8e16abd770f1b46dadb441f178',1,'OpenSim.Services.UserAccountService.UserAccountService.NumberOfUserAccounts()']]]
+];

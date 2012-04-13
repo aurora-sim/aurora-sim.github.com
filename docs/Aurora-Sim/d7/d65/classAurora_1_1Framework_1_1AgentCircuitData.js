@@ -1,0 +1,28 @@
+var classAurora_1_1Framework_1_1AgentCircuitData =
+[
+    [ "Copy", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a6ee986eae76e8e7edbe8b5bc3407089f", null ],
+    [ "FromOSD", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#aca694e30b2eebb03489d78d0bcec6310", null ],
+    [ "PackAgentCircuitData", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a8ee1023e6b95c0dfc304b33aef0c8b4d", null ],
+    [ "ToOSD", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a6144beb5b8d5729d575f3852ff7ca611", null ],
+    [ "UnpackAgentCircuitData", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#ac593d9dca4efda46eef21ac0f5c0e48a", null ],
+    [ "AgentID", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a1f65b23484f0ea10a230b8388bf7e2d6", null ],
+    [ "Appearance", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a4f02df4f11af77701597e4d41f7df426", null ],
+    [ "CapsPath", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a73b6e3ff000342996d1d70e5ca564860", null ],
+    [ "child", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a65a31b9717f8103b73a2bdaf676f9ebb", null ],
+    [ "circuitcode", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#af4f217f710029f6f1ea7a384dd063c39", null ],
+    [ "ClientIPEndPoint", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a095373aa1b27192e2812dc03e1017220", null ],
+    [ "DrawDistance", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a9ab0e09a203e13a70db719f386991884", null ],
+    [ "firstname", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#ae603370530c56eb2557e346188befd08", null ],
+    [ "IPAddress", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a32a237d26a398640a557c98fe071ec13", null ],
+    [ "lastname", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#ae5175781dc48586bad7d931623b57f3c", null ],
+    [ "OtherInformation", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a99a0b333917d838c4bda708b09542adc", null ],
+    [ "reallyischild", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a9bdf6411927693365e9eb28b523c5a09", null ],
+    [ "RegionUDPPort", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a5b33642823abb4b22ca973422d013734", null ],
+    [ "roothandle", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a0b07e0d843d3e93d75ff7bc6fc52c9ed", null ],
+    [ "SecureSessionID", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#ab79ff047e62db13c376b0fb308192922", null ],
+    [ "ServiceSessionID", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#af5566f484e2bfe6a01ba87d182a00cae", null ],
+    [ "ServiceURLs", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a707a409b930c836dbc13fa52e5d61953", null ],
+    [ "SessionID", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a2a77fd8eab1509b5eb71322a5f0c3406", null ],
+    [ "startpos", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a6c794729893142786134f9d27cf33a06", null ],
+    [ "teleportFlags", "d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html#a17c2136d1325aa7bdbf000141af6ff3b", null ]
+];

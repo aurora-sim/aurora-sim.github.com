@@ -1,0 +1,25 @@
+var classAurora_1_1Framework_1_1GroupProfileData =
+[
+    [ "GroupProfileData", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#adbf13f3da3bd4accebfc8f0479320f64", null ],
+    [ "GroupProfileData", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a0da8d62c1ac77aebf13dc31f81eff933", null ],
+    [ "FromKVP", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#aec8d96f5e956ea6839c4235372b5b575", null ],
+    [ "FromOSD", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a8042b2d9b1e3224aa2e341859c52bef6", null ],
+    [ "ToKVP", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a314a24f7acbbcdc1d35eb2225520c753", null ],
+    [ "ToOSD", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a2d1f883d5d0fc49d4959105f44d49b6e", null ],
+    [ "AllowPublish", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a63b96c215a0a947a8f30f04f825882c2", null ],
+    [ "Charter", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#af744a26ff66e68e4b9be06595b9e08fe", null ],
+    [ "FounderID", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a17b129d946b6c6c51ab98d954d084ce3", null ],
+    [ "GroupID", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a121cbbce29ca54c8a16218dbec356e15", null ],
+    [ "GroupMembershipCount", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a8db25726d938ee7714a43caf641fddd4", null ],
+    [ "GroupRolesCount", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a11607bcf0d5615fc9bab47038905ca89", null ],
+    [ "InsigniaID", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#acb579c0b663037b39d0870c7b28ca83a", null ],
+    [ "MaturePublish", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a36bd8ad56e8be3a6c01f5770b4b87c68", null ],
+    [ "MembershipFee", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a331fff6930a5b2f02e5603afdef76632", null ],
+    [ "MemberTitle", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#ac2b62b6b2f4ed941c03a5840df3f7e43", null ],
+    [ "Money", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#ad20d70b2eb56ef030e027c0ee51653e5", null ],
+    [ "Name", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a2d20c24807d0c754371bf3884ad8d9e5", null ],
+    [ "OpenEnrollment", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#ad5f0b9106e5dcb81e3472a73bad26def", null ],
+    [ "OwnerRole", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#ac5dd8107e50018289e78b9ba66f07fa9", null ],
+    [ "PowersMask", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#a39a613567d1fd8c77b3ed9b036e4cc2c", null ],
+    [ "ShowInList", "d6/d67/classAurora_1_1Framework_1_1GroupProfileData.html#aa15faf2f27a9c9adf0771c873ce876b5", null ]
+];

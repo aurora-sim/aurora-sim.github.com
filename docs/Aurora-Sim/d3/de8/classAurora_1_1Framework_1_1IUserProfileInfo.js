@@ -1,0 +1,28 @@
+var classAurora_1_1Framework_1_1IUserProfileInfo =
+[
+    [ "ProfileFlags", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a1e3d6560071fe0af40666ee35dbc4fd7", null ],
+    [ "FromKVP", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ac84d9a00d47fb409ef6425092006a7d8", null ],
+    [ "FromOSD", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#af3a675c8e567660a9a77679920da9c6b", null ],
+    [ "ToKVP", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a484b27ef2feff54a016ff6b22be9f345", null ],
+    [ "ToOSD", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a6e02dcfc68a6114dc7e1a36dfca3be2d", null ],
+    [ "ToOSD", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a4b1a4f356f34b4286c2b899373d62c02", null ],
+    [ "AArchiveName", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a3624f2a8a0ebc686faed25cbd5c2c7fe", null ],
+    [ "AboutText", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a33fc29e6393f21954eb1fac42b886611", null ],
+    [ "AllowPublish", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a54483539b201b4a78498688a4341feaa", null ],
+    [ "Created", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ab1fc489f33174b42e757d2e31bace290", null ],
+    [ "CustomType", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a6b656492f21b4b5ed51250c8f5bee819", null ],
+    [ "DisplayName", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ae5f510c36344a968e1846af90d753d99", null ],
+    [ "FirstLifeAboutText", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ae52504539e7de93b3fb99ef287d3567c", null ],
+    [ "FirstLifeImage", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#acab31db2d9c5b67ab235ee6e89f45386", null ],
+    [ "Image", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a7eb60ffefc89da2ff1ef0aaba538a84e", null ],
+    [ "IMViaEmail", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ab06b256492c8f572e08b2aae8f0a502a", null ],
+    [ "Interests", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#ad6bf4ee68a7939fd4b53ae6f17303d53", null ],
+    [ "IsNewUser", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a66295fbe06c0b45411f56b439c23c6bd", null ],
+    [ "MaturePublish", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a12ed8a01057455d6221bf1600fb1c7cd", null ],
+    [ "MembershipGroup", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a4fe067f8cd7b1fa275e9ecd8535de5ee", null ],
+    [ "Notes", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a2911c05c26831cb83e159e755ccacd20", null ],
+    [ "Partner", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#afae3657bae9e05ec722eb67bed7088a8", null ],
+    [ "PrincipalID", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a39f3e38df08f59d24687944626d354c7", null ],
+    [ "Visible", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a0af6d575ab0ed5f1f4ae7e11930487f7", null ],
+    [ "WebURL", "d3/de8/classAurora_1_1Framework_1_1IUserProfileInfo.html#a74ce85bc432fa67c2a25080870620bde", null ]
+];

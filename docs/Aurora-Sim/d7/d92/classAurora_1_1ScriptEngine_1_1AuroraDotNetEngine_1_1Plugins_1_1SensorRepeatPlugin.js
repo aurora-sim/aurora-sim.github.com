@@ -1,0 +1,27 @@
+var classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin =
+[
+    [ "AddRegion", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a7b1df62e91617e33a12573d6df7dbbd7", null ],
+    [ "AddRegion", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a11f96ccb12c539d63dd89bfb21b54bb1", null ],
+    [ "Check", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a84dc245c2ade43525e9f62af49d7b53b", null ],
+    [ "Check", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a7bf7914d0218af6d24d4066c2c360792", null ],
+    [ "CreateFromData", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a12fbcc8e5db13bf8b0ff0b61713b37be", null ],
+    [ "CreateFromData", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a12fbcc8e5db13bf8b0ff0b61713b37be", null ],
+    [ "Dispose", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a5589cdc9b09ef9746a1dd01ef13089ed", null ],
+    [ "Dispose", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a5589cdc9b09ef9746a1dd01ef13089ed", null ],
+    [ "findPrimsScene", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#afe3aca9b4ba833b06300401c8a7b76b6", null ],
+    [ "findPrimsScene", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#ab945dc10c20b8aa1a4267cd2fdd41a9e", null ],
+    [ "findPrimsScene", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#ab214a3c4b47919e29f6b97303d5a1c1b", null ],
+    [ "findPrimsScene", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#aec962efcefd0ffc24b1e2cd99840b4b3", null ],
+    [ "GetSerializationData", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a136c46f20422eace10cd36d2313189f4", null ],
+    [ "GetSerializationData", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a136c46f20422eace10cd36d2313189f4", null ],
+    [ "Initialize", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a67e978fc36bbda356929e140dab923d7", null ],
+    [ "Initialize", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a67e978fc36bbda356929e140dab923d7", null ],
+    [ "RemoveScript", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a91580b2c1287327d7d802749af21129d", null ],
+    [ "RemoveScript", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a91580b2c1287327d7d802749af21129d", null ],
+    [ "SenseOnce", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#ab0d446c592b10c871d9dc253acc03cbf", null ],
+    [ "SenseOnce", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#ab0d446c592b10c871d9dc253acc03cbf", null ],
+    [ "SetSenseRepeatEvent", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a8fbc40ed3be4876ecf273ff6a9ccf59e", null ],
+    [ "SetSenseRepeatEvent", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a8fbc40ed3be4876ecf273ff6a9ccf59e", null ],
+    [ "m_ScriptEngine", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a35460387c1f177133f5e381473ef619e", null ],
+    [ "Name", "d7/d92/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1Plugins_1_1SensorRepeatPlugin.html#a229cff572890b249cfc7359309571cc3", null ]
+];

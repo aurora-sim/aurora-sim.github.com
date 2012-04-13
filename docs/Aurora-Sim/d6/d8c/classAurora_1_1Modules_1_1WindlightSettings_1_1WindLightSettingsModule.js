@@ -1,0 +1,27 @@
+var classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule =
+[
+    [ "AddRegion", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a4ce45ebf33562a8696efed8db728b5a7", null ],
+    [ "BeginLoadModuleFromArchive", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a837e01f4a6987241c5d374a7fe3d654f", null ],
+    [ "checkAltitude", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#adf175bf49aeb1a8ddcbe91bff51ffbb0", null ],
+    [ "CheckOverRideParcels", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#aecdae2618724dbb07753856157b96b83", null ],
+    [ "Close", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a3c7923d484ab62b59e1c6d7b198e5d38", null ],
+    [ "EndLoadModuleFromArchive", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#ade59fab8e0948f25ba15309ca4aa08dc", null ],
+    [ "FindRegionWindLight", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a06e4bd77377ce705af8cf4b1086d6fcd", null ],
+    [ "FindRegionWindLight", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#af60c7dd142dca4a143375bff7e010f66", null ],
+    [ "Initialise", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a6e0cf9befe8af86b465d1680697fefbc", null ],
+    [ "LoadModuleFromArchive", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#ad0e9b78d9632fa00144fbdaa0048c5d5", null ],
+    [ "OnRegisterCaps", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a5927d455f2481f4aba36ef78b7e1cfaa", null ],
+    [ "PostInitialise", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a5893c59515a8e9d04f0051b2111fd39f", null ],
+    [ "RegionLoaded", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a8457ca04743baa752a50256e9d22a511", null ],
+    [ "RemoveRegion", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#afe76855cbef7abe69fda2d2189b55185", null ],
+    [ "SaveModuleToArchive", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a7f5c9167712ad845604204147a8b3a14", null ],
+    [ "SaveWindLightSettings", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a6945cf260a7c7feda3f1a7b9f17af557", null ],
+    [ "SendProfileToClient", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a0afbb3be359c0b4dfab355f11b1704e2", null ],
+    [ "SendProfileToClient", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a95e6533b7064a91cccd12666da07cc64", null ],
+    [ "SendProfileToClientEQ", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a0512d3f367b295cf7fa25a7de5dc241f", null ],
+    [ "SendWindlightProfileTargeted", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#af9420de6b6b1a4f54d79317512dab08f", null ],
+    [ "EnableWindLight", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#aecd2c63eba584982d688deaa9d39c963", null ],
+    [ "IsArchiving", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#ae2a36852333da8fb14d266227ea19c86", null ],
+    [ "Name", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#a9933a297189c5706f31f92731effb6e2", null ],
+    [ "ReplaceableInterface", "d6/d8c/classAurora_1_1Modules_1_1WindlightSettings_1_1WindLightSettingsModule.html#af094068863498eb823db2477751f5325", null ]
+];

@@ -1,0 +1,26 @@
+var classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates =
+[
+    [ "ThrottleRates", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#afef1aa3aa3f4de46eb4bec7169f363b1", null ],
+    [ "GetLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#af0c0177302175cbec2bde3ad43316f02", null ],
+    [ "GetRate", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a91e2ff617b8ad3be590859bb142ea581", null ],
+    [ "Asset", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#af01d2c084d42f76243ecb0ed96d3221c", null ],
+    [ "AssetLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a086164bdbb2124377f9f0f74ad5c2af2", null ],
+    [ "AvatarInfo", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a94c6ad9c2b99bcdfe9227048a71b4626", null ],
+    [ "AvatarInfoLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a5db219b272faf41c16563c641943c635", null ],
+    [ "Cloud", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#af3281377282a063cf555580d2a328dd7", null ],
+    [ "CloudLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a62d684ec7b30c25dbda000a264c38b2c", null ],
+    [ "Land", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a3322d8a5b923e6ba0caf3706bfac8398", null ],
+    [ "LandLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a646a4e1ef71965b46ddd001bf04de4d4", null ],
+    [ "Resend", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a566ed6d4c6e2680d2aa4f245bef3e35e", null ],
+    [ "ResendLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a5c2a950caeb225d3daff40e1a360ad37", null ],
+    [ "State", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#af4d606c572d4dff8342ef42059782d47", null ],
+    [ "StateLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#ad85624565a3d905513617699f055a692", null ],
+    [ "Task", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a707bbcb818d7790624f78445094614de", null ],
+    [ "TaskLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a41d1756b13e7412b03e76f775ae92680", null ],
+    [ "Texture", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#adae0cdb45978dabf3368561041138acf", null ],
+    [ "TextureLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#ae236f8db91c1ef49e3f9c0fa0356e7b0", null ],
+    [ "Total", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a302359af39e708ffaaa2358a136c727b", null ],
+    [ "TotalLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a1ca3936a5b48e4c94f1ac38a40499c65", null ],
+    [ "Wind", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#aca92636805f4a54c8d14df9255376e83", null ],
+    [ "WindLimit", "db/dd6/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1ThrottleRates.html#a4803e6079f8e600fce607e5a2ebec209", null ]
+];

@@ -1,0 +1,26 @@
+var classAurora_1_1Modules_1_1SimProtection_1_1SimProtection =
+[
+    [ "AddRegion", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a91427b5aa133fca045f969d649eb7831", null ],
+    [ "Close", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a62cb21ab38d1dbb4b5a3b820f10809d5", null ],
+    [ "Initialise", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a416995c4094074369fce985de7ac8212", null ],
+    [ "PostInitialise", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a5ba630038395bd8e0a3399e1d568bed4", null ],
+    [ "RegionLoaded", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a58defa3b953beb3c0b1dad4693a8c7c8", null ],
+    [ "RemoveRegion", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a46288a19430c42a290a919404841d843", null ],
+    [ "AllowDisablePhysics", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a7fb6fcf9d97e7fc645248e396d27cab7", null ],
+    [ "AllowDisableScripts", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#adcf3b0d05eab3933ddb773cd84135031", null ],
+    [ "DisabledPhysicsStartTime", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a177d289a7e926f474f148cd589579e3f", null ],
+    [ "DisabledScriptStartTime", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#aea2c674086acbe8b887f86cf160046bb", null ],
+    [ "KillSimOnZeroFPS", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a5ef28f88f65789ca9adf5d15665c26cb", null ],
+    [ "m_Enabled", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a9561a7dc34991ecfcd5fd325ada3e416", null ],
+    [ "m_scene", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#ae77846ee777c25ceb56f1578a83b6f8b", null ],
+    [ "m_statsReporter", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a4cad208147b1cf4b24dda1acb9686d05", null ],
+    [ "MinutesBeforeZeroFPSKills", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#abfbeec961a81ad284a20b3ad9cd69c88", null ],
+    [ "PercentToBeginShutDownOfServices", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a26462e40db72eda1bdf0ca75900204de", null ],
+    [ "SimZeroFPSStartTime", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a1f6a946cb42143df2abaffe231367ded", null ],
+    [ "TimeAfterToReenablePhysics", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a74d9b029480fc20a5234999981ec2ff3", null ],
+    [ "TimeAfterToReenableScripts", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#aca048e6526dc9534ac81b456bbc011db", null ],
+    [ "TimeBetweenChecks", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a2d33d4c99ac65728710a06d1c771b717", null ],
+    [ "TimerToCheckHeartbeat", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#acd86c5ff7da846c41e6cb64d120033b1", null ],
+    [ "Name", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#a0f679991e7b5faea27a7e020058d2296", null ],
+    [ "ReplaceableInterface", "de/de2/classAurora_1_1Modules_1_1SimProtection_1_1SimProtection.html#ad733b1da18b30c0ae4568eb9eacd7779", null ]
+];

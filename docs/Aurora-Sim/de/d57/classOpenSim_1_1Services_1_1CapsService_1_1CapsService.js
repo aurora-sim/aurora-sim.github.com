@@ -1,0 +1,25 @@
+var classOpenSim_1_1Services_1_1CapsService_1_1CapsService =
+[
+    [ "AddCapsForRegion", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ad3d1d0906c64024b85d6c06b323a9a8f", null ],
+    [ "CreateCAPS", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ae372b15d7106407ea8c8268f7d57d6a6", null ],
+    [ "CreateCAPS", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a03dd7a60a0f9e4fef2219f470f04b1b3", null ],
+    [ "FinishedStartup", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a88a8c9484430e4bf5dc32027dc948bfc", null ],
+    [ "GetCapsForRegion", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a126a974fd9cea0ded463c8be387f614b", null ],
+    [ "GetClientCapsService", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#aee2de76cfd301bbe291a70317fce18f9", null ],
+    [ "GetClientsCapsServices", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ac2b44ffd09075247a30771748cc066ff", null ],
+    [ "GetOrCreateClientCapsService", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a06607ce84b102cf9896f82b332bd57c6", null ],
+    [ "GetRegionsCapsServices", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ab35c042bdc59759a55ba6c4d5ac4633f", null ],
+    [ "Initialize", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a0763c0d8ad13c7f2b87687f84f68108e", null ],
+    [ "RemoveCAPS", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ac6f8ae3fc892cbe8d00bb80424a5ec9c", null ],
+    [ "RemoveCapsForRegion", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#aa9161bf039ed21c1898ab9acac6e921a", null ],
+    [ "ShowUsers", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a723807b69aaf62f691ea6ad3d5df4c21", null ],
+    [ "Start", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a6c0192762114594119ec09591243ff46", null ],
+    [ "m_ClientCapsServices", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a8e23161ccc60a6d4538a6ae8130f285e", null ],
+    [ "m_RegionCapsServices", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ac1c8908afd3cc1d9161c145fcb09c402", null ],
+    [ "m_registry", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ad350e17d08053d9dcda52d3829678cb3", null ],
+    [ "m_server", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#afddd0f78c7b919d29d438b07e3d05366", null ],
+    [ "HostUri", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ab14e94024ef12c8be58a743f0c3dd62a", null ],
+    [ "Name", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ae0005b4d039238ee4048b66e8a6b6293", null ],
+    [ "Registry", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#ac4157fcc1287f8ff49a89ea5dac4a3bb", null ],
+    [ "Server", "de/d57/classOpenSim_1_1Services_1_1CapsService_1_1CapsService.html#a7cc53cf2cea1b5b427c20fa5509967bd", null ]
+];

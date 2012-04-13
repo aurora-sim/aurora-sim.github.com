@@ -1,0 +1,25 @@
+var classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule =
+[
+    [ "AddRegion", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a97989fc2d6f24c36e77157e3d9b53fc6", null ],
+    [ "Close", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a0a70f1f4386173b141d590f85766cb48", null ],
+    [ "ConvertGridInstantMessageToXMLRPC", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a180e85189de78c898057621ae6640e5c", null ],
+    [ "ConvertGridInstantMessageToXMLRPCXML", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#ac4fcab75096ca89e9860ec712e006e0c", null ],
+    [ "doIMSending", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a89991b00a66ed0bc5bf5ae68778adad1", null ],
+    [ "GridInstantMessageCompleted", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#aedcb860946ba799bc2b9c0ac7476fe90", null ],
+    [ "GridInstantMessageDelegate", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a7ba8c25a31a168c457b46dd922ccf0eb", null ],
+    [ "Initialise", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a9549fdaf8196b78d221158c86fcc00b7", null ],
+    [ "PostInitialise", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#ac5791e96aae86c6a063a97886b7a6518", null ],
+    [ "processXMLRPCGridInstantMessage", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#aa9134d9a2d3eeb4ff9b7f9e28081dfaf", null ],
+    [ "RegionLoaded", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a8b5258e04a7188c408bffeb4a4b9aac8", null ],
+    [ "RemoveRegion", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a31701eae67c2558a5d0b9ed8d71c73fc", null ],
+    [ "SendGridInstantMessageViaXMLRPC", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a8610cdc9ab1837e49d395aaa39f76401", null ],
+    [ "SendGridInstantMessageViaXMLRPCAsync", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a51c4aedefd776c6654ac89c4959769e3", null ],
+    [ "SendInstantMessage", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#adf6addc1550b5dfc2ddc383d746df5fc", null ],
+    [ "SendInstantMessages", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#ad363686684fc99e83a9c643c7fcd3bb8", null ],
+    [ "SendMultipleGridInstantMessageViaXMLRPC", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a0de10dbc69763abc0655b61c7412569a", null ],
+    [ "IMUsersCache", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a49ad7598a5fa9f5cb25dca38e34b9555", null ],
+    [ "m_Scenes", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a23c160b9d805b03535f325c4019667e8", null ],
+    [ "Name", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#aa20c5a0504051984cc696ca6ae4b4662", null ],
+    [ "ReplaceableInterface", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a59f03c90a2214fb85e106b6b04e5bb72", null ],
+    [ "OnUndeliveredMessage", "d9/dea/classAurora_1_1Modules_1_1Chat_1_1MessageTransferModule.html#a5baed537c44c79bdc593214465b077af", null ]
+];

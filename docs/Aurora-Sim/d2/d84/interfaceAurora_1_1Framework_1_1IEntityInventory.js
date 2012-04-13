@@ -1,0 +1,27 @@
+var interfaceAurora_1_1Framework_1_1IEntityInventory =
+[
+    [ "AddInventoryItem", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#aa78c2c5bdf07902f7f1f39d67066bcac", null ],
+    [ "AddInventoryItemExclusive", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#aa6cc5c0d55236f6e702621120fc455b6", null ],
+    [ "ApplyGodPermissions", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#abe831d8249a79c36a12d30256bda7be5", null ],
+    [ "ApplyNextOwnerPermissions", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a59d88e05ed6446dba23487c01297c21c", null ],
+    [ "ContainsScripts", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a34a8e15e86b3670a284c9bb8448acda7", null ],
+    [ "ForceInventoryPersistence", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a871c0fbd995f6d1669e033fd7a1a5a22", null ],
+    [ "GetInventoryItem", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#ae9ea7585545d543878190e305dc664cb", null ],
+    [ "GetInventoryItems", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a4d7d413c1a87bb5605c18bdf5270537e", null ],
+    [ "GetInventoryItems", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a05c0efeeb4228551cf3018d391e0b34f", null ],
+    [ "GetInventoryList", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a4873329bd0b058b296bb9cedaa65ae79", null ],
+    [ "GetRezReadySceneObject", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#aa9c945c503db7881da1fdf8130eab1c7", null ],
+    [ "MaskEffectivePermissions", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a3c617b6dda27ed1493a753b6b7762647", null ],
+    [ "RemoveInventoryItem", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a31983ddaa343c77a94d8ee3828122b29", null ],
+    [ "RemoveScriptInstance", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a403e16aaa45c20f1f6cb2a2d36a2922c", null ],
+    [ "RequestInventoryFile", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#ac654682f5ae4f2b4b6119429723ef5e0", null ],
+    [ "RestoreInventoryItems", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#aacdebf7a2734e5ce69b7418fd27a65cc", null ],
+    [ "SaveScriptStateSaves", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#aa63ab5f577d624267124b0d99a5607bb", null ],
+    [ "UpdateInventoryItem", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#ad8125ba85cdc297facbda40051022b88", null ],
+    [ "UpdateInventoryItem", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a40bf515dab5181c849e7eaaf27136d40", null ],
+    [ "assetData", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a86825ff9facbf8b24755af88b4da6592", null ],
+    [ "postOnRez", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#ae61aec5834ce230ab68e8f5099a25f70", null ],
+    [ "startParam", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a1bd9b5d19954a82ff86591574f7bc77b", null ],
+    [ "stateSource", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a495f83022cc353ef484a51e35b93888e", null ],
+    [ "HasInventoryChanged", "d2/d84/interfaceAurora_1_1Framework_1_1IEntityInventory.html#a7ccb4d9bf439890460cddacbfa1c7428", null ]
+];

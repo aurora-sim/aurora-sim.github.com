@@ -1,0 +1,25 @@
+var classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse =
+[
+    [ "OSHttpResponse", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#ab4f03d0f690649964edb9f129aff48c4", null ],
+    [ "OSHttpResponse", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a99886311c44059d5abe817989ccb9760", null ],
+    [ "OSHttpResponse", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a042b4e232aa66efe6b9e1c827314ad99", null ],
+    [ "OSHttpResponse", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a0233fd640ec5eeb390c69fbb00d050f7", null ],
+    [ "AddHeader", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a78e39e966be1cbc187106aeb4f3afb04", null ],
+    [ "FreeContext", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a1c7bde0433eb57cd79434e93224fa1c4", null ],
+    [ "Send", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a1122eda9ac8b5f0ad43ff62eb1d3b72f", null ],
+    [ "_httpResponse", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a206f14ca07999840daccb951484a4e22", null ],
+    [ "Body", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#af41e6cc8b0d1d37a1095fbf0cb7078b7", null ],
+    [ "ContentEncoding", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a0cf9eef9661b56b6b49c24fc9b38cf6c", null ],
+    [ "ContentLength", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a7ffbbb1eac8a9b7d0a1b08b3aefb285a", null ],
+    [ "ContentLength64", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a6727c30a2724a88d18c45c75d454a289", null ],
+    [ "ContentType", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a76c1e944c1da548eec4bc6db2711d74c", null ],
+    [ "KeepAlive", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a012352d900b44b061e1ee16d801212a0", null ],
+    [ "KeepAliveTimeout", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#ad5d12f516c68c8b7bbffe8d4ea25ffb3", null ],
+    [ "OutputStream", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a937625c5b3a0657b3ef267ce03e493ef", null ],
+    [ "ProtocolVersion", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a4faa0d1728479b778d5b3abbcffa27c3", null ],
+    [ "RedirectLocation", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#a64e8b5a0da25591c717ae99c392c821d", null ],
+    [ "ReuseContext", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#ac72236065c47ac3dc58883059a414948", null ],
+    [ "SendChunked", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#aacdb5be22bf0e17a555f23e18a886cbd", null ],
+    [ "StatusCode", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#ad97f8e4afd6688c51588d3d1921b58db", null ],
+    [ "StatusDescription", "d3/d3d/classAurora_1_1Framework_1_1Servers_1_1HttpServer_1_1OSHttpResponse.html#af8102a3fb814daaddd14b02690639f75", null ]
+];

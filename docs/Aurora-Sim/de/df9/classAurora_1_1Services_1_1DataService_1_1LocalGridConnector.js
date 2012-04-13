@@ -1,0 +1,25 @@
+var classAurora_1_1Services_1_1DataService_1_1LocalGridConnector =
+[
+    [ "Count", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#aa0213e53cfd4e0a16f15e6f656b30f73", null ],
+    [ "Count", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ade29d9d5ce852c89ef7032e072efe599", null ],
+    [ "Delete", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a2134411bd943de178b356e3e24e4bddc", null ],
+    [ "DeleteAll", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#aca7494751b1df6183efadceff058e79f", null ],
+    [ "Dispose", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a492d3f67508abcf9c9ba58633bdb756b", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a5ccb9975b297fafe4af47acd90c7e583", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a6576caec476aa0409d1ef62b26af4ec5", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a4b52034b01db9ba373b82333f39dd70b", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a8924bda45369410b3501c61b7b6e5ee5", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ad29e9692a5c599408b3f69a23647e84f", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#adc3fee1738023e7b75983550f2057fa3", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#afb8d83e3577ce22dd2f67866f34386f5", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a0246dae3bb69575715aa95b6cc511aa3", null ],
+    [ "GetDefaultRegions", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ad6959beed91b320f28e45d8b0ac9f341", null ],
+    [ "GetFallbackRegions", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ab9006352f067c97872cce4c36fa09bd5", null ],
+    [ "GetNeighbours", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a1bb9f516c63aa179b9e38a31942c876c", null ],
+    [ "GetSafeRegions", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a59835a599d849139d53c894c717d3312", null ],
+    [ "GetZero", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#add5c7bf8e426a7d162968c39913ff8cd", null ],
+    [ "Initialize", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a757cf349886eaf1821af77ae962ac651", null ],
+    [ "ParseQuery", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#abd7500779b4d20cf67d480d52f3d1aa1", null ],
+    [ "Store", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a2788d0b00221c69d733a45186b7f56cc", null ],
+    [ "Name", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a853f38c035618b25a9e796ddfd003110", null ]
+];

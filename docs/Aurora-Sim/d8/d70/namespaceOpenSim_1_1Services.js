@@ -1,0 +1,27 @@
+var namespaceOpenSim_1_1Services =
+[
+    [ "AgentHandler", "dc/ddb/classOpenSim_1_1Services_1_1AgentHandler.html", null ],
+    [ "AgentInfoService", "d5/d37/classOpenSim_1_1Services_1_1AgentInfoService.html", null ],
+    [ "BaseService", "de/dbc/classOpenSim_1_1Services_1_1BaseService.html", null ],
+    [ "CenomeMemoryAssetCache", "d7/dd8/classOpenSim_1_1Services_1_1CenomeMemoryAssetCache.html", null ],
+    [ "EQMEventPoster", "d9/d47/classOpenSim_1_1Services_1_1EQMEventPoster.html", null ],
+    [ "EventQueueHandler", "d5/daf/classOpenSim_1_1Services_1_1EventQueueHandler.html", null ],
+    [ "FlotsamAssetCache", "d5/d67/classOpenSim_1_1Services_1_1FlotsamAssetCache.html", null ],
+    [ "GlynnTuckerAssetCache", "d8/d5c/classOpenSim_1_1Services_1_1GlynnTuckerAssetCache.html", null ],
+    [ "GridInfoHandlers", "db/dc0/classOpenSim_1_1Services_1_1GridInfoHandlers.html", null ],
+    [ "GridInfoServerInConnector", "d6/d42/classOpenSim_1_1Services_1_1GridInfoServerInConnector.html", null ],
+    [ "HeloServerGetHandler", "d3/d5e/classOpenSim_1_1Services_1_1HeloServerGetHandler.html", null ],
+    [ "HeloServiceConnector", "df/da8/classOpenSim_1_1Services_1_1HeloServiceConnector.html", null ],
+    [ "HeloServiceInConnector", "d5/d71/classOpenSim_1_1Services_1_1HeloServiceInConnector.html", null ],
+    [ "LLLoginHandlers", "d5/d9d/classOpenSim_1_1Services_1_1LLLoginHandlers.html", null ],
+    [ "LLLoginServiceInConnector", "d8/dfb/classOpenSim_1_1Services_1_1LLLoginServiceInConnector.html", null ],
+    [ "MethodImplementation", "dd/d7e/classOpenSim_1_1Services_1_1MethodImplementation.html", null ],
+    [ "ObjectHandler", "d3/d05/classOpenSim_1_1Services_1_1ObjectHandler.html", null ],
+    [ "OpenIdServerConnector", "df/d69/classOpenSim_1_1Services_1_1OpenIdServerConnector.html", null ],
+    [ "OpenIdStreamHandler", "d1/dcb/classOpenSim_1_1Services_1_1OpenIdStreamHandler.html", null ],
+    [ "ProviderMemoryStore", "d9/d1b/classOpenSim_1_1Services_1_1ProviderMemoryStore.html", null ],
+    [ "Scheduler", "dc/d9c/classOpenSim_1_1Services_1_1Scheduler.html", null ],
+    [ "ServerConnector", "df/d5d/classOpenSim_1_1Services_1_1ServerConnector.html", null ],
+    [ "ServerHandler", "dc/d8f/classOpenSim_1_1Services_1_1ServerHandler.html", null ],
+    [ "SimulationServiceInConnector", "d3/d89/classOpenSim_1_1Services_1_1SimulationServiceInConnector.html", null ]
+];

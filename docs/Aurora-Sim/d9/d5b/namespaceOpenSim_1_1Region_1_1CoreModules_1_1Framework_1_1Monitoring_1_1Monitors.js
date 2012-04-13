@@ -1,0 +1,26 @@
+var namespaceOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors =
+[
+    [ "AgentCountMonitor", "d2/d7b/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1AgentCountMonitor.html", null ],
+    [ "AgentUpdateMonitor", "d6/dcf/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1AgentUpdateMonitor.html", null ],
+    [ "AssetMonitor", "d9/d34/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1AssetMonitor.html", null ],
+    [ "ChildAgentCountMonitor", "dd/df8/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ChildAgentCountMonitor.html", null ],
+    [ "GCMemoryMonitor", "d7/df5/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1GCMemoryMonitor.html", null ],
+    [ "ImageFrameTimeMonitor", "d8/d06/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ImageFrameTimeMonitor.html", null ],
+    [ "LastFrameTimeMonitor", "d3/dbf/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1LastFrameTimeMonitor.html", null ],
+    [ "LoginMonitor", "da/d80/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1LoginMonitor.html", null ],
+    [ "NetworkMonitor", "dc/d1c/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1NetworkMonitor.html", null ],
+    [ "ObjectCountMonitor", "df/d52/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ObjectCountMonitor.html", null ],
+    [ "ObjectUpdateMonitor", "df/dd8/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ObjectUpdateMonitor.html", null ],
+    [ "OtherFrameMonitor", "d4/d2f/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1OtherFrameMonitor.html", null ],
+    [ "PhysicsFrameMonitor", "df/dee/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1PhysicsFrameMonitor.html", null ],
+    [ "PhysicsSyncFrameMonitor", "df/de6/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1PhysicsSyncFrameMonitor.html", null ],
+    [ "PhysicsUpdateFrameMonitor", "da/d0f/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1PhysicsUpdateFrameMonitor.html", null ],
+    [ "PWSMemoryMonitor", "d2/dd2/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1PWSMemoryMonitor.html", null ],
+    [ "ScriptCountMonitor", "d6/d47/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ScriptCountMonitor.html", null ],
+    [ "ScriptFrameTimeMonitor", "d3/d91/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ScriptFrameTimeMonitor.html", null ],
+    [ "SimFrameMonitor", "dd/d11/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1SimFrameMonitor.html", null ],
+    [ "SleepFrameMonitor", "d7/d43/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1SleepFrameMonitor.html", null ],
+    [ "ThreadCountMonitor", "db/d4f/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1ThreadCountMonitor.html", null ],
+    [ "TimeDilationMonitor", "d7/d6d/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1TimeDilationMonitor.html", null ],
+    [ "TotalFrameMonitor", "d9/d6e/classOpenSim_1_1Region_1_1CoreModules_1_1Framework_1_1Monitoring_1_1Monitors_1_1TotalFrameMonitor.html", null ]
+];

@@ -1,0 +1,28 @@
+var classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService =
+[
+    [ "AddCapsServiceForRegion", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ab71bd53ba81e4b725f5e9c9fd9a579a5", null ],
+    [ "Close", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a70de2a5c5a786142859bef8776d4bdee", null ],
+    [ "GetCapsService", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a90f895e444845eaecd4c4abdea0cb4b3", null ],
+    [ "GetCapsServices", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a701dc2676889bd433bcfd750ea1b6924", null ],
+    [ "GetOrCreateCapsService", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#adeb62c86cc6f24c55edddd9594657998", null ],
+    [ "GetRootCapsService", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a2e5a196f7366914ee3a106cee15d9ea7", null ],
+    [ "Initialise", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ab3532f76dc3557d49d3fe626fcf8988a", null ],
+    [ "RemoveCAPS", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a1d824ee89ffc5a9dc2020b484618b840", null ],
+    [ "m_account", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a1192ac471283c088f05cc2a76c02dcda", null ],
+    [ "m_agentID", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#aa2a9411fe6e90f3318ddcd36cd60b9c0", null ],
+    [ "m_callbackHasCome", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a57282aa69b8e88a650c4f1149a1a0170", null ],
+    [ "m_CapsService", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#aa28f468f166b29f827ff3c4860df9ac0", null ],
+    [ "m_clientEndPoint", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a0ea5f362d2bdb9bd42cf772070d887c5", null ],
+    [ "m_inTeleport", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#aec75671f444e7bc4c5ca6e1f3eaecdcc", null ],
+    [ "m_RegionCapsServices", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a42502ec09b983fa5fdf078d3cfaf0009", null ],
+    [ "m_requestToCancelTeleport", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ac4521884a93b816c7d325de6c4f3883b", null ],
+    [ "AccountInfo", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ae0b7d362702377331994db7c723fdb7d", null ],
+    [ "AgentID", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a753aeae35fc375ae6e196a43c20dba14", null ],
+    [ "CallbackHasCome", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a96ffe1fdb8a167c9bff343e5721ede51", null ],
+    [ "ClientEndPoint", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a8702afbf2a92dd19ae764fca646079ae", null ],
+    [ "HostUri", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a0ec4114270cbbbcf82335ca8dd5f1fb3", null ],
+    [ "InTeleport", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ab4b540a323423bd7821f92c6a2589772", null ],
+    [ "Registry", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a7cebee75dcb40ee318d78f95cbb5007c", null ],
+    [ "RequestToCancelTeleport", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#ae14cf240a95b4dad903f8700bb8ca2f1", null ],
+    [ "Server", "d0/d3e/classOpenSim_1_1Services_1_1CapsService_1_1PerClientBasedCapsService.html#a045caa5a1999504d8adc7222f9efa3ca", null ]
+];

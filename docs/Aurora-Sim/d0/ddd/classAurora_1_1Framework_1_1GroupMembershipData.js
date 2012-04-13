@@ -1,0 +1,26 @@
+var classAurora_1_1Framework_1_1GroupMembershipData =
+[
+    [ "GroupMembershipData", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a431d0c2c3b86428450c4837f91d1cfbb", null ],
+    [ "GroupMembershipData", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#ae408ee0be00d70fcbb313df071ca91e8", null ],
+    [ "FromKVP", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a5922222cdaef608ba876db67f42455ca", null ],
+    [ "FromOSD", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a24fbe027fa58479123ef5ffadbce4d87", null ],
+    [ "ToKVP", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a7f06781721f821125149e6b8618c5fe4", null ],
+    [ "ToOSD", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a9155a8f1e755926c42ebfbc8590b936c", null ],
+    [ "AcceptNotices", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a74e6a69219b6e707601b594a2afa2086", null ],
+    [ "Active", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a39db5820b37ff88648dec6c9957aff0c", null ],
+    [ "ActiveRole", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#ad6b8add656c9ef7add72f1ebabf0da70", null ],
+    [ "AllowPublish", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a818eb6e5d8197cdbb77600d4bf7a08a6", null ],
+    [ "Charter", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a7e6a63f0b22c9de93daeeff3a1aa7184", null ],
+    [ "Contribution", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a2fdb8f4a4af64a5554aea3f1c1691c45", null ],
+    [ "FounderID", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a6ddb383f2b3996fa6cfe47bbd1c48b49", null ],
+    [ "GroupID", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a6b50bef331ed61d287b3a10502e25abc", null ],
+    [ "GroupName", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#acd1d96d83e274fab6210588a4f8c2c28", null ],
+    [ "GroupPicture", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a606259c5392432e072fbdfa39aa664e0", null ],
+    [ "GroupPowers", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a6484e0da10899d791dfddd9926de0327", null ],
+    [ "GroupTitle", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a2ea6aa7cd7212bfdade8a83e25480981", null ],
+    [ "ListInProfile", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#ad48ba48b62f086b2da4cd99aebbc80c3", null ],
+    [ "MaturePublish", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a425fb9e32660c27a592fa912835958a1", null ],
+    [ "MembershipFee", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#aee66509b176dd4532e22af1c6acb5462", null ],
+    [ "OpenEnrollment", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a46de66e1b0a6cfff31d5c14198ed4f84", null ],
+    [ "ShowInList", "d0/ddd/classAurora_1_1Framework_1_1GroupMembershipData.html#a68ab44282c6ca8d507fc3a2f70746e34", null ]
+];
