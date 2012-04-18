@@ -16,12 +16,21 @@ var searchData=
   ['mediatype',['MediaType',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#ace55cea3978111f2ef2d3896136c0f1f',1,'Aurora\Addon\WebUI\LandData\MediaType()'],['../interfaceAurora_1_1Framework_1_1LandData.html#ace55cea3978111f2ef2d3896136c0f1f',1,'Aurora\Framework\LandData\MediaType()']]],
   ['mediaurl',['MediaURL',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#af7a23b835b82ba44a773b0bfa052aaae',1,'Aurora\Addon\WebUI\LandData\MediaURL()'],['../interfaceAurora_1_1Framework_1_1LandData.html#af7a23b835b82ba44a773b0bfa052aaae',1,'Aurora\Framework\LandData\MediaURL()']]],
   ['mediawidth',['MediaWidth',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#addd33c3c0b3506e4726c3140a95d1abc',1,'Aurora\Addon\WebUI\LandData\MediaWidth()'],['../interfaceAurora_1_1Framework_1_1LandData.html#addd33c3c0b3506e4726c3140a95d1abc',1,'Aurora\Framework\LandData\MediaWidth()']]],
+  ['mediumtext',['MediumText',['../classAurora_1_1Framework_1_1ColumnType.html#ac0ccb0f5a6e6d738dbdfd791483c8ebd',1,'Aurora::Framework::ColumnType']]],
   ['membershipfee',['MembershipFee',['../classAurora_1_1Addon_1_1WebUI_1_1GroupRecord.html#aa2edd92bd6ead3c414d0ff11a8e2c91a',1,'Aurora\Addon\WebUI\GroupRecord\MembershipFee()'],['../interfaceAurora_1_1Framework_1_1GroupRecord.html#aa2edd92bd6ead3c414d0ff11a8e2c91a',1,'Aurora\Framework\GroupRecord\MembershipFee()']]],
   ['mesh',['Mesh',['../classOpenMetaverse_1_1AssetType.html#a99f825a249c1d97449d9465f25e0fbcc',1,'OpenMetaverse::AssetType']]],
   ['message',['Message',['../classAurora_1_1Addon_1_1WebUI_1_1GroupNoticeData.html#af1991e0448f9277f0939d142e4aa2c94',1,'Aurora::Addon::WebUI::GroupNoticeData']]],
+  ['migrate',['Migrate',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a9d5f1455a79d67c3056211779cf0d815',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['migrationmanager',['MigrationManager',['../classAurora_1_1DataManager_1_1Migration_1_1MigrationManager.html',1,'Aurora::DataManager::Migration']]],
+  ['migrationname',['MigrationName',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a186b8e1f8ce66e485fa8c4824b8842b7',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['migrationoperationdescription',['MigrationOperationDescription',['../classAurora_1_1DataManager_1_1Migration_1_1MigrationOperationDescription.html',1,'Aurora::DataManager::Migration']]],
+  ['migrationoperationtypes',['MigrationOperationTypes',['../classAurora_1_1DataManager_1_1Migration_1_1MigrationOperationTypes.html',1,'Aurora::DataManager::Migration']]],
+  ['migrator',['Migrator',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html',1,'Aurora::DataManager::Migration']]],
   ['monolithicregionlookup',['MonolithicRegionLookup',['../classAurora_1_1Addon_1_1MapAPI.html#a4f92eead3734c38d01a228d1854a3ccb',1,'Aurora::Addon::MapAPI']]],
   ['multifilter',['multiFilter',['../classAurora_1_1Framework_1_1QueryFilter_1_1multiFilter.html',1,'Aurora::Framework::QueryFilter']]],
   ['musicurl',['MusicURL',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#a27d30f0c721b51725feab479073b05ed',1,'Aurora\Addon\WebUI\LandData\MusicURL()'],['../interfaceAurora_1_1Framework_1_1LandData.html#a27d30f0c721b51725feab479073b05ed',1,'Aurora\Framework\LandData\MusicURL()']]],
   ['myflags',['MyFlags',['../classAurora_1_1Addon_1_1WebUI_1_1FriendInfo.html#ae5008998f0151cd2a65104ca4d2b203e',1,'Aurora::Addon::WebUI::FriendInfo']]],
-  ['myoutfitsfolder',['MyOutfitsFolder',['../classOpenMetaverse_1_1AssetType.html#a4426b8a53b34be71952f816120ad2e5c',1,'OpenMetaverse::AssetType']]]
+  ['myoutfitsfolder',['MyOutfitsFolder',['../classOpenMetaverse_1_1AssetType.html#a4426b8a53b34be71952f816120ad2e5c',1,'OpenMetaverse::AssetType']]],
+  ['mysql_2ephp',['mysql.php',['../mysql_8php.html',1,'']]],
+  ['mysqldataloader',['MySQLDataLoader',['../classlibAurora_1_1DataManager_1_1MySQLDataLoader.html',1,'libAurora::DataManager']]]
 ];

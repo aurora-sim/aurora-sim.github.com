@@ -1,7 +1,9 @@
 var searchData=
 [
   ['abstractapi',['abstractAPI',['../classAurora_1_1Addon_1_1abstractAPI.html',1,'Aurora::Addon']]],
+  ['abstractiterator',['abstractIterator',['../classAurora_1_1Framework_1_1ColumnDefinition_1_1abstractIterator.html',1,'Aurora::Framework::ColumnDefinition']]],
   ['abstractiterator',['abstractIterator',['../classlibAurora_1_1abstractIterator.html',1,'libAurora']]],
+  ['abstractiterator',['abstractIterator',['../classAurora_1_1Framework_1_1IndexDefinition_1_1abstractIterator.html',1,'Aurora::Framework::IndexDefinition']]],
   ['abstractiteratorarrayaccess',['abstractIteratorArrayAccess',['../classlibAurora_1_1abstractIteratorArrayAccess.html',1,'libAurora']]],
   ['abstractlazyloadingseekableiterator',['abstractLazyLoadingSeekableIterator',['../classAurora_1_1Addon_1_1WebUI_1_1abstractLazyLoadingSeekableIterator.html',1,'Aurora::Addon::WebUI']]],
   ['abstractseekableeventdataiterator',['abstractSeekableEventDataIterator',['../classAurora_1_1Addon_1_1WebUI_1_1abstractSeekableEventDataIterator.html',1,'Aurora::Addon::WebUI']]],

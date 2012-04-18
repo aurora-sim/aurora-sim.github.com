@@ -15,9 +15,16 @@ var searchData=
   ['regionsizez',['RegionSizeZ',['../classAurora_1_1Addon_1_1WebUI_1_1GridRegion.html#a0083b93601b151edb0cfb0be375fea74',1,'Aurora\Addon\WebUI\GridRegion\RegionSizeZ()'],['../interfaceAurora_1_1Services_1_1Interfaces_1_1GridRegion.html#a0083b93601b151edb0cfb0be375fea74',1,'Aurora\Services\Interfaces\GridRegion\RegionSizeZ()']]],
   ['regiontype',['RegionType',['../classAurora_1_1Addon_1_1WebUI_1_1GridRegion.html#a6815035b4eb6130563ce2c835fe86787',1,'Aurora\Addon\WebUI\GridRegion\RegionType()'],['../interfaceAurora_1_1Services_1_1Interfaces_1_1GridRegion.html#a6815035b4eb6130563ce2c835fe86787',1,'Aurora\Services\Interfaces\GridRegion\RegionType()']]],
   ['removegroupnotice',['RemoveGroupNotice',['../classAurora_1_1Addon_1_1WebUI.html#a6da23e36f36acf6f31b109e73a6e27d0',1,'Aurora::Addon::WebUI']]],
+  ['removeindices',['RemoveIndices',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a73a66de9ab3aa349045a22103fbcbc30',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['removeschema',['RemoveSchema',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a2458205b0b29ad4e73cd98b25d91e080',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['renameschema',['RenameSchema',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#ab0be9c15f35aecd45801e6d1e149bd92',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['renametable',['RenameTable',['../interfaceAurora_1_1Framework_1_1IDataConnector.html#a281230b33fc9fdb4339593e9ea66d04e',1,'Aurora\Framework\IDataConnector\RenameTable()'],['../classlibAurora_1_1DataManager_1_1DataManagerBase.html#a281230b33fc9fdb4339593e9ea66d04e',1,'libAurora\DataManager\DataManagerBase\RenameTable()']]],
   ['reportername',['ReporterName',['../classAurora_1_1Addon_1_1WebUI_1_1AbuseReport.html#ad98a348d643b945f977275ef1964e39e',1,'Aurora::Addon::WebUI::AbuseReport']]],
   ['resetavatar',['ResetAvatar',['../classAurora_1_1Addon_1_1WebUI.html#a1be7d290d18f4c1f967b46d43babeda1',1,'Aurora::Addon::WebUI']]],
   ['resethomeonteleport',['ResetHomeOnTeleport',['../classAurora_1_1Addon_1_1WebUI_1_1EstateSettings.html#a59308fee7c50ffce9de4b5ee22f57ca5',1,'Aurora\Addon\WebUI\EstateSettings\ResetHomeOnTeleport()'],['../interfaceAurora_1_1Framework_1_1EstateSettings.html#a59308fee7c50ffce9de4b5ee22f57ca5',1,'Aurora\Framework\EstateSettings\ResetHomeOnTeleport()']]],
+  ['restoretemptablestoreal',['RestoreTempTablesToReal',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a95600bd9aea0ab4404eba1e1d9bf3ed5',1,'Aurora::DataManager::Migration::Migrator']]],
+  ['returnexecute',['returnExecute',['../classlibAurora_1_1DataManager_1_1PDO.html#a0af8c8db01e6d466268e0becac36dc08',1,'libAurora::DataManager::PDO']]],
   ['rewind',['rewind',['../classlibAurora_1_1abstractIterator.html#ae619dcf2218c21549cb65d875bbc6c9c',1,'libAurora::abstractIterator']]],
-  ['rlinfo',['RLInfo',['../classAurora_1_1Addon_1_1WebUI_1_1UserProfile.html#a57d2cc9f9743f236b3d97702707684aa',1,'Aurora::Addon::WebUI::UserProfile']]]
+  ['rlinfo',['RLInfo',['../classAurora_1_1Addon_1_1WebUI_1_1UserProfile.html#a57d2cc9f9743f236b3d97702707684aa',1,'Aurora::Addon::WebUI::UserProfile']]],
+  ['rollbackoperation',['RollBackOperation',['../classAurora_1_1DataManager_1_1Migration_1_1MigrationManager.html#a09b2449c4673ba775d38d2ac41455977',1,'Aurora::DataManager::Migration::MigrationManager']]]
 ];

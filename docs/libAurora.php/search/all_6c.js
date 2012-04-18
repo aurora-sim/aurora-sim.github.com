@@ -1,5 +1,6 @@
 var searchData=
 [
+  ['datamanager',['DataManager',['../namespacelibAurora_1_1DataManager.html',1,'libAurora']]],
   ['landdata',['LandData',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html',1,'Aurora::Addon::WebUI']]],
   ['landdata',['LandData',['../interfaceAurora_1_1Framework_1_1LandData.html',1,'Aurora::Framework']]],
   ['landingtype',['LandingType',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#aca7f86ee7a45ba0ddef10cb77adbf655',1,'Aurora\Addon\WebUI\LandData\LandingType()'],['../interfaceAurora_1_1Framework_1_1LandData.html#aca7f86ee7a45ba0ddef10cb77adbf655',1,'Aurora\Framework\LandData\LandingType()']]],
@@ -10,12 +11,14 @@ var searchData=
   ['lastname',['LastName',['../classAurora_1_1Addon_1_1WebUI_1_1abstractUser.html#acf2c54b7fd06550cd64cf72194709a2c',1,'Aurora\Addon\WebUI\abstractUser\LastName()'],['../interfaceAurora_1_1Services_1_1Interfaces_1_1User.html#acf2c54b7fd06550cd64cf72194709a2c',1,'Aurora\Services\Interfaces\User\LastName()']]],
   ['leased',['Leased',['../classOpenMetaverse_1_1ParcelStatus.html#a85c9de5f6e73aecaf699736e434d4cf6',1,'OpenMetaverse::ParcelStatus']]],
   ['leasepending',['LeasePending',['../classOpenMetaverse_1_1ParcelStatus.html#ae327b0b5fceec76e3ac9f3242de63450',1,'OpenMetaverse::ParcelStatus']]],
-  ['lengthexception',['LengthException',['../classAurora_1_1Addon_1_1LengthException.html',1,'Aurora::Addon']]],
   ['lengthexception',['LengthException',['../classAurora_1_1LengthException.html',1,'Aurora']]],
-  ['lengthexception',['LengthException',['../classlibAurora_1_1LengthException.html',1,'libAurora']]],
   ['lengthexception',['LengthException',['../classAurora_1_1Addon_1_1MapAPI_1_1LengthException.html',1,'Aurora::Addon::MapAPI']]],
+  ['lengthexception',['LengthException',['../classAurora_1_1Addon_1_1LengthException.html',1,'Aurora::Addon']]],
+  ['lengthexception',['LengthException',['../classlibAurora_1_1LengthException.html',1,'libAurora']]],
   ['lengthexception',['LengthException',['../classAurora_1_1Addon_1_1WebUI_1_1LengthException.html',1,'Aurora::Addon::WebUI']]],
+  ['libaurora',['libAurora',['../namespacelibAurora.html',1,'']]],
   ['linden',['Linden',['../classOpenMetaverse_1_1ParcelCategory.html#a3aa77bb4e52f61abf4d5aef4aec09493',1,'OpenMetaverse::ParcelCategory']]],
+  ['linearresults',['linearResults',['../classlibAurora_1_1DataManager_1_1PDO.html#a6d9965858267620b0e6f519481fabab4',1,'libAurora::DataManager::PDO']]],
   ['link',['Link',['../classOpenMetaverse_1_1AssetType.html#adbd612a2d9d85ae782040e5c8be98970',1,'OpenMetaverse\AssetType\Link()'],['../namespaceAurora_1_1Addon_1_1WebUI_1_1Template.html#a62fa6b4c5620c968cd166e3f0d91fd4e',1,'Aurora\Addon\WebUI\Template\link()']]],
   ['linkfolder',['LinkFolder',['../classOpenMetaverse_1_1AssetType.html#a1158b6e0c13b325397d805c5c69ac58d',1,'OpenMetaverse::AssetType']]],
   ['load_2ephp',['load.php',['../Aurora_2load_8php.html',1,'']]],
@@ -24,6 +27,8 @@ var searchData=
   ['lockedout',['LockedOut',['../classAurora_1_1Framework_1_1RegionFlags.html#a3c12c2d1aa3bd4e44fdb1d8956151886',1,'Aurora::Framework::RegionFlags']]],
   ['login',['Login',['../classAurora_1_1Addon_1_1WebUI.html#a4a533e4b69f7790e6b74bff620275edc',1,'Aurora::Addon::WebUI']]],
   ['loginenabled',['LoginEnabled',['../classAurora_1_1Addon_1_1WebUI_1_1OnlineStatus.html#a8d9d529219f78d8d1b292b369a1cb6d2',1,'Aurora::Addon::WebUI::OnlineStatus']]],
+  ['longblob',['LongBlob',['../classAurora_1_1Framework_1_1ColumnType.html#ae4fa8724884beb4631545008a9ae8565',1,'Aurora::Framework::ColumnType']]],
+  ['longtext',['LongText',['../classAurora_1_1Framework_1_1ColumnType.html#a863d0a344841872b711fca3faa33b63c',1,'Aurora::Framework::ColumnType']]],
   ['lostandfoundfolder',['LostAndFoundFolder',['../classOpenMetaverse_1_1AssetType.html#a6289eb8ad9361f306d743f9befc79bd5',1,'OpenMetaverse::AssetType']]],
   ['lslbytecode',['LSLBytecode',['../classOpenMetaverse_1_1AssetType.html#aa3f8a97dab5b6de2372fdcce8ed62031',1,'OpenMetaverse::AssetType']]],
   ['lsltext',['LSLText',['../classOpenMetaverse_1_1AssetType.html#aeb611fd1f4f491a39db4b9c054275a89',1,'OpenMetaverse::AssetType']]]

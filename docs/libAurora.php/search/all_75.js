@@ -1,15 +1,18 @@
 var searchData=
 [
   ['unbanuser',['UnBanUser',['../classAurora_1_1Addon_1_1WebUI.html#a98002344edb3c59e0e61a73bf8dff082',1,'Aurora::Addon::WebUI']]],
-  ['unexpectedvalueexception',['UnexpectedValueException',['../classlibAurora_1_1UnexpectedValueException.html',1,'libAurora']]],
   ['unexpectedvalueexception',['UnexpectedValueException',['../classAurora_1_1Addon_1_1WebUI_1_1UnexpectedValueException.html',1,'Aurora::Addon::WebUI']]],
+  ['unexpectedvalueexception',['UnexpectedValueException',['../classAurora_1_1Addon_1_1MapAPI_1_1UnexpectedValueException.html',1,'Aurora::Addon::MapAPI']]],
+  ['unexpectedvalueexception',['UnexpectedValueException',['../classlibAurora_1_1UnexpectedValueException.html',1,'libAurora']]],
   ['unexpectedvalueexception',['UnexpectedValueException',['../classAurora_1_1Addon_1_1UnexpectedValueException.html',1,'Aurora::Addon']]],
   ['unexpectedvalueexception',['UnexpectedValueException',['../classAurora_1_1UnexpectedValueException.html',1,'Aurora']]],
-  ['unexpectedvalueexception',['UnexpectedValueException',['../classAurora_1_1Addon_1_1MapAPI_1_1UnexpectedValueException.html',1,'Aurora::Addon::MapAPI']]],
-  ['unknown',['Unknown',['../classOpenMetaverse_1_1AssetType.html#a62ab6fc3422b1ea1b6d4ce5740ce4443',1,'OpenMetaverse::AssetType']]],
+  ['unique',['Unique',['../classAurora_1_1Framework_1_1IndexType.html#afda3f2f9c4976aa818f08249b3bab306',1,'Aurora::Framework::IndexType']]],
+  ['unknown',['Unknown',['../classAurora_1_1Framework_1_1ColumnType.html#a62ab6fc3422b1ea1b6d4ce5740ce4443',1,'Aurora\Framework\ColumnType\Unknown()'],['../classOpenMetaverse_1_1AssetType.html#a62ab6fc3422b1ea1b6d4ce5740ce4443',1,'OpenMetaverse\AssetType\Unknown()']]],
   ['unsignedintegerfilter',['unsignedIntegerFilter',['../classAurora_1_1Framework_1_1QueryFilter_1_1unsignedIntegerFilter.html',1,'Aurora::Framework::QueryFilter']]],
   ['unsquishuuid',['unsquishUUID',['../namespaceAurora_1_1Addon_1_1WebUI_1_1Template.html#aab815bca749f35f6021d462779264ddb',1,'Aurora::Addon::WebUI::Template']]],
   ['update',['Update',['../interfaceAurora_1_1Framework_1_1IGenericData.html#a7dae8d4b8ddaa54008b7a4306dafd5bc',1,'Aurora\Framework\IGenericData\Update()'],['../classlibAurora_1_1DataManager_1_1PDO.html#a7dae8d4b8ddaa54008b7a4306dafd5bc',1,'libAurora\DataManager\PDO\Update()'],['../classlibAurora_1_1DataManager_1_1DataManagerBase.html#a7dae8d4b8ddaa54008b7a4306dafd5bc',1,'libAurora\DataManager\DataManagerBase\Update()']]],
+  ['updatetable',['UpdateTable',['../classlibAurora_1_1DataManager_1_1MySQLDataLoader.html#a82952df63e5d0df584955f2c22858bed',1,'libAurora\DataManager\MySQLDataLoader\UpdateTable()'],['../classlibAurora_1_1DataManager_1_1DataManagerBase.html#afcd2bb43a70ec8d6f2295cf93c9b73e2',1,'libAurora\DataManager\DataManagerBase\UpdateTable()']]],
+  ['upgradetotarget',['UpgradeToTarget',['../classAurora_1_1DataManager_1_1Migration_1_1MigrationOperationTypes.html#a36e2a1a072ec70f8e779cee982ad20a8',1,'Aurora::DataManager::Migration::MigrationOperationTypes']]],
   ['useglobaltime',['UseGlobalTime',['../classAurora_1_1Addon_1_1WebUI_1_1EstateSettings.html#ad3d83ab092151e0327949a0f215f3419',1,'Aurora\Addon\WebUI\EstateSettings\UseGlobalTime()'],['../interfaceAurora_1_1Framework_1_1EstateSettings.html#ad3d83ab092151e0327949a0f215f3419',1,'Aurora\Framework\EstateSettings\UseGlobalTime()']]],
   ['user',['User',['../interfaceAurora_1_1Services_1_1Interfaces_1_1User.html',1,'Aurora::Services::Interfaces']]],
   ['user_2ephp',['User.php',['../User_8php.html',1,'']]],
@@ -18,5 +21,6 @@ var searchData=
   ['userlocation',['UserLocation',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#a5615e0425a9e45aa2b068ec00e78eab0',1,'Aurora\Addon\WebUI\LandData\UserLocation()'],['../interfaceAurora_1_1Framework_1_1LandData.html#a5615e0425a9e45aa2b068ec00e78eab0',1,'Aurora\Framework\LandData\UserLocation()']]],
   ['userlookat',['UserLookAt',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#a6c319642b56a8e75d3a22947a019f38e',1,'Aurora\Addon\WebUI\LandData\UserLookAt()'],['../interfaceAurora_1_1Framework_1_1LandData.html#a6c319642b56a8e75d3a22947a019f38e',1,'Aurora\Framework\LandData\UserLookAt()']]],
   ['username',['UserName',['../classAurora_1_1Addon_1_1WebUI_1_1AbuseReport.html#a5dcd38b42163fa32b19f8593f90cd134',1,'Aurora::Addon::WebUI::AbuseReport']]],
-  ['userprofile',['UserProfile',['../classAurora_1_1Addon_1_1WebUI_1_1UserProfile.html',1,'Aurora::Addon::WebUI']]]
+  ['userprofile',['UserProfile',['../classAurora_1_1Addon_1_1WebUI_1_1UserProfile.html',1,'Aurora::Addon::WebUI']]],
+  ['uuid',['UUID',['../classAurora_1_1Framework_1_1ColumnType.html#a74b892c8c0b86bf9d04c5819898c51e7',1,'Aurora::Framework::ColumnType']]]
 ];

@@ -9,6 +9,7 @@ var searchData=
   ['active',['Active',['../classAurora_1_1Addon_1_1WebUI_1_1AbuseReport.html#ab6b519076e04037d4d0c2252ec234092',1,'Aurora::Addon::WebUI::AbuseReport']]],
   ['addgroupnotice',['AddGroupNotice',['../classAurora_1_1Addon_1_1WebUI.html#a4fe3c1b1ef588a16ac693bc33b4c7c31',1,'Aurora::Addon::WebUI']]],
   ['address',['Address',['../classAurora_1_1Addon_1_1WebUI_1_1RLInfo.html#ac98de6c9250be1b4e3446d9989e058b3',1,'Aurora::Addon::WebUI::RLInfo']]],
+  ['addschema',['AddSchema',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a567c861bd29d953add955446cd7446a1',1,'Aurora::DataManager::Migration::Migrator']]],
   ['adminlogin',['AdminLogin',['../classAurora_1_1Addon_1_1WebUI.html#a4a4dba6f1a1cd2b1d3996cc03a9cb7c8',1,'Aurora::Addon::WebUI']]],
   ['allowdirectteleport',['AllowDirectTeleport',['../classAurora_1_1Addon_1_1WebUI_1_1EstateSettings.html#ab6c3cd7954751309d4f79872566daa69',1,'Aurora\Addon\WebUI\EstateSettings\AllowDirectTeleport()'],['../interfaceAurora_1_1Framework_1_1EstateSettings.html#ab6c3cd7954751309d4f79872566daa69',1,'Aurora\Framework\EstateSettings\AllowDirectTeleport()']]],
   ['allowlandmark',['AllowLandmark',['../classAurora_1_1Addon_1_1WebUI_1_1EstateSettings.html#a77f48c38256b684ad364f439f730fd47',1,'Aurora\Addon\WebUI\EstateSettings\AllowLandmark()'],['../interfaceAurora_1_1Framework_1_1EstateSettings.html#a77f48c38256b684ad364f439f730fd47',1,'Aurora\Framework\EstateSettings\AllowLandmark()']]],

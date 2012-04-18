@@ -113,14 +113,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 <div class="header">
   <div class="summary">
 <a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-static-methods">Static Public Member Functions</a> &#124;
 <a href="#pub-attribs">Data Fields</a> &#124;
-<a href="#pro-static-methods">Static Protected Member Functions</a>  </div>
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a>  </div>
   <div class="headertitle">
 <div class="title">DataManagerBase Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p>abstract implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IGenericData.html" title="Implemenetation of IGenericData from Aurora-Sim.">Aurora::Framework::IGenericData</a>  
+<p>abstract implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IDataConnector.html" title="Transposition of the IDataConnector interface from aurora-sim.">Aurora::Framework::IDataConnector</a>  
  <a href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for DataManagerBase:</div>
@@ -128,48 +131,582 @@ Inheritance diagram for DataManagerBase:</div>
  <div class="center">
   <img src="classlibAurora_1_1DataManager_1_1DataManagerBase.png" usemap="#DataManagerBase_map" alt=""/>
   <map id="DataManagerBase_map" name="DataManagerBase_map">
-<area href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IGenericData." alt="PDO" shape="rect" coords="0,56,117,80"/>
+<area href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IDataConnector." alt="PDO" shape="rect" coords="0,56,121,80"/>
+<area href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html" title="mysql-specific PDO implementation of Aurora::Framework::IDataConnector" alt="MySQLDataLoader" shape="rect" coords="0,112,121,136"/>
 </map>
  </div></div>
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
+<tr class="memitem:a1147893b58aa2513214fad0cbc8629f2"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a1147893b58aa2513214fad0cbc8629f2">__construct</a> ($connectionString, $migratorName, $validateTables)</td></tr>
+<tr class="memdesc:a1147893b58aa2513214fad0cbc8629f2"><td class="mdescLeft">&#160;</td><td class="mdescRight">Connect to database. We're deviating from the c# design here, using the constructor to connect to the database rather than a method that can be used anywhere during runtime.  <a href="#a1147893b58aa2513214fad0cbc8629f2"></a><br/></td></tr>
+<tr class="memitem:abee3e3411334e55310365093acccad2f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#abee3e3411334e55310365093acccad2f">CopyTableToTable</a> ($sourceTableName, $destinationTableName, ColDefs $columnDefinitions, IndexDefs $indexDefinitions)</td></tr>
+<tr class="memdesc:abee3e3411334e55310365093acccad2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">copy tables  <a href="#abee3e3411334e55310365093acccad2f"></a><br/></td></tr>
+<tr class="memitem:ac0eaaeadda475b8458b0e376cbcafcef"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ac0eaaeadda475b8458b0e376cbcafcef"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ac0eaaeadda475b8458b0e376cbcafcef">CreateTable</a> ($table, ColDefs $columns, IndexDefs $indexDefinitions)</td></tr>
+<tr class="memdesc:ac0eaaeadda475b8458b0e376cbcafcef"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
 <tr class="memitem:ab9414c3a7b2efcd46b0b5e84b0688920"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab9414c3a7b2efcd46b0b5e84b0688920"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab9414c3a7b2efcd46b0b5e84b0688920">Delete</a> ($table, QueryFilter $queryFilter=null)</td></tr>
-<tr class="memdesc:ab9414c3a7b2efcd46b0b5e84b0688920"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memdesc:ab9414c3a7b2efcd46b0b5e84b0688920"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memitem:a90aa534a3ea547c02b38093d14b7016c"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a90aa534a3ea547c02b38093d14b7016c"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a90aa534a3ea547c02b38093d14b7016c">DropTable</a> ($tableName)</td></tr>
+<tr class="memdesc:a90aa534a3ea547c02b38093d14b7016c"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memitem:a372237a7e8d880d0aea9f54f9f6ac951"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a372237a7e8d880d0aea9f54f9f6ac951">EnsureTableExists</a> ($tableName, ColDefs $columnDefinitions, IndexDefs $indexDefinitions, array $renameColumns=null)</td></tr>
+<tr class="memdesc:a372237a7e8d880d0aea9f54f9f6ac951"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether the data table exists and that the columns and indices are correct, creating the table if it doesn't exist.  <a href="#a372237a7e8d880d0aea9f54f9f6ac951"></a><br/></td></tr>
+<tr class="memitem:a602e647a3e995e3cf95414280f3dfeb1"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a602e647a3e995e3cf95414280f3dfeb1">GetAuroraVersion</a> ($migratorName)</td></tr>
+<tr class="memdesc:a602e647a3e995e3cf95414280f3dfeb1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the latest version of the database.  <a href="#a602e647a3e995e3cf95414280f3dfeb1"></a><br/></td></tr>
+<tr class="memitem:a6530807b517615f2de350eaa5b1bfa3b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a6530807b517615f2de350eaa5b1bfa3b">HasBreakingChanges</a> ()</td></tr>
+<tr class="memdesc:a6530807b517615f2de350eaa5b1bfa3b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates whether a migrator has breaking changes or not.  <a href="#a6530807b517615f2de350eaa5b1bfa3b"></a><br/></td></tr>
 <tr class="memitem:a98f47863f04403147310e6b5c7528705"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a98f47863f04403147310e6b5c7528705"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a98f47863f04403147310e6b5c7528705">Insert</a> ($table, array $values)</td></tr>
-<tr class="memdesc:a98f47863f04403147310e6b5c7528705"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memdesc:a98f47863f04403147310e6b5c7528705"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
 <tr class="memitem:ab0f24ff6505379def27546aaceb0dc20"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab0f24ff6505379def27546aaceb0dc20"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab0f24ff6505379def27546aaceb0dc20">Query</a> (array $wantedValue, $table, QueryFilter $queryFilter=null, array $sort=null, $start=null, $count=null)</td></tr>
-<tr class="memdesc:ab0f24ff6505379def27546aaceb0dc20"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memdesc:ab0f24ff6505379def27546aaceb0dc20"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memitem:a281230b33fc9fdb4339593e9ea66d04e"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a281230b33fc9fdb4339593e9ea66d04e"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a281230b33fc9fdb4339593e9ea66d04e">RenameTable</a> ($oldTableName, $newTableName)</td></tr>
+<tr class="memdesc:a281230b33fc9fdb4339593e9ea66d04e"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method performs argument validation then passes the task off to a protected method to be implemented elsewhere. <br/></td></tr>
+<tr class="memitem:a02f82db71bbc670474229552ba4126aa"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a02f82db71bbc670474229552ba4126aa"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a02f82db71bbc670474229552ba4126aa">TableExists</a> ($table)</td></tr>
+<tr class="memdesc:a02f82db71bbc670474229552ba4126aa"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
 <tr class="memitem:a7dae8d4b8ddaa54008b7a4306dafd5bc"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7dae8d4b8ddaa54008b7a4306dafd5bc"></a>
 &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a7dae8d4b8ddaa54008b7a4306dafd5bc">Update</a> ($table, array $set, QueryFilter $queryFilter=null)</td></tr>
-<tr class="memdesc:a7dae8d4b8ddaa54008b7a4306dafd5bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">This method only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memdesc:a7dae8d4b8ddaa54008b7a4306dafd5bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memitem:afcd2bb43a70ec8d6f2295cf93c9b73e2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afcd2bb43a70ec8d6f2295cf93c9b73e2"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#afcd2bb43a70ec8d6f2295cf93c9b73e2">UpdateTable</a> ($table, ColDefs $column, IndexDefs $indices, array $renameColumns)</td></tr>
+<tr class="memdesc:afcd2bb43a70ec8d6f2295cf93c9b73e2"><td class="mdescLeft">&#160;</td><td class="mdescRight">This implementation only performs argument validation to save duplication of code. <br/></td></tr>
+<tr class="memitem:a8b70ee9059179ee257925891442b3e60"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a8b70ee9059179ee257925891442b3e60">VerifyTableExists</a> ($tableName, ColDefs $columnDefinitions, IndexDefs $indexDefinitions)</td></tr>
+<tr class="memdesc:a8b70ee9059179ee257925891442b3e60"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check whether the data table exists and that the columns and indices are correct.  <a href="#a8b70ee9059179ee257925891442b3e60"></a><br/></td></tr>
+<tr class="memitem:a63395994c54d603d01fd6e7190932caf"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a63395994c54d603d01fd6e7190932caf">WriteAuroraVersion</a> (<a class="el" href="classlibAurora_1_1Version.html">Version</a> $version, $MigrationName)</td></tr>
+<tr class="memdesc:a63395994c54d603d01fd6e7190932caf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set the version of the database.  <a href="#a63395994c54d603d01fd6e7190932caf"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="pub-static-methods"></a>
+Static Public Member Functions</h2></td></tr>
+<tr class="memitem:a311e5cb35839997669d07326f9a7867f"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a311e5cb35839997669d07326f9a7867f">Identifier</a> ()</td></tr>
+<tr class="memdesc:a311e5cb35839997669d07326f9a7867f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Name of the connector.  <a href="#a311e5cb35839997669d07326f9a7867f"></a><br/></td></tr>
 <tr><td colspan="2"><h2><a name="pub-attribs"></a>
 Data Fields</h2></td></tr>
+<tr class="memitem:a2f8c723275d204cba2809119004fd4ae"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a2f8c723275d204cba2809119004fd4ae"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a2f8c723275d204cba2809119004fd4ae">COLUMN_NAME</a> = 'name'</td></tr>
+<tr class="memdesc:a2f8c723275d204cba2809119004fd4ae"><td class="mdescLeft">&#160;</td><td class="mdescRight">string name of migrator name column <br/></td></tr>
+<tr class="memitem:a60e2c787ff0f66a6eed70c6c29d374dd"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a60e2c787ff0f66a6eed70c6c29d374dd"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a60e2c787ff0f66a6eed70c6c29d374dd">COLUMN_VERSION</a> = 'version'</td></tr>
+<tr class="memdesc:a60e2c787ff0f66a6eed70c6c29d374dd"><td class="mdescLeft">&#160;</td><td class="mdescRight">string name of version column <br/></td></tr>
+<tr class="memitem:a1396bf782d72240efd741f15a04c2ac4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1396bf782d72240efd741f15a04c2ac4"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a1396bf782d72240efd741f15a04c2ac4">Identifier</a> = '<a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html">DataManagerBase</a>'</td></tr>
+<tr class="memdesc:a1396bf782d72240efd741f15a04c2ac4"><td class="mdescLeft">&#160;</td><td class="mdescRight">string although interface constants can't be overridden, class constants can. <br/></td></tr>
+<tr class="memitem:a199bf16bb63ac384ff26c782ac8e914e"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a199bf16bb63ac384ff26c782ac8e914e"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a199bf16bb63ac384ff26c782ac8e914e">regex_Query_arg_field</a> = '/^[A-z][A-z0-9_]+$/'</td></tr>
+<tr class="memdesc:a199bf16bb63ac384ff26c782ac8e914e"><td class="mdescLeft">&#160;</td><td class="mdescRight">string Regular expression used to validate field names <br/></td></tr>
 <tr class="memitem:afa22535d3757d88738fd176c9a6dadb2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afa22535d3757d88738fd176c9a6dadb2"></a>
 const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#afa22535d3757d88738fd176c9a6dadb2">regex_Query_arg_table</a> = '/^[A-z0-9_]+$/'</td></tr>
-<tr class="memdesc:afa22535d3757d88738fd176c9a6dadb2"><td class="mdescLeft">&#160;</td><td class="mdescRight">string Regular expression used to validate the $table argument of <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab0f24ff6505379def27546aaceb0dc20" title="This method only performs argument validation to save duplication of code.">libAurora::DataManager::DataManagerBase::Query()</a> <br/></td></tr>
+<tr class="memdesc:afa22535d3757d88738fd176c9a6dadb2"><td class="mdescLeft">&#160;</td><td class="mdescRight">string Regular expression used to validate the $table argument of <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab0f24ff6505379def27546aaceb0dc20" title="This implementation only performs argument validation to save duplication of code.">libAurora::DataManager::DataManagerBase::Query()</a> <br/></td></tr>
+<tr class="memitem:a185b3696fefd4204a424f524e47f379a"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a185b3696fefd4204a424f524e47f379a"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a185b3696fefd4204a424f524e47f379a">VERSION_TABLE_NAME</a> = 'aurora_migrator_version'</td></tr>
+<tr class="memdesc:a185b3696fefd4204a424f524e47f379a"><td class="mdescLeft">&#160;</td><td class="mdescRight">string name of version control table <br/></td></tr>
+<tr><td colspan="2"><h2><a name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a901c51080f12d4d008f6d6c3a7207962"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a901c51080f12d4d008f6d6c3a7207962">CopyAllDataBetweenMatchingTables</a> ($sourceTableName, $destinationTableName, ColDefs $columnDefinitions, IndexDefs $indexDefinitions)</td></tr>
+<tr class="memdesc:a901c51080f12d4d008f6d6c3a7207962"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copies data between tables.  <a href="#a901c51080f12d4d008f6d6c3a7207962"></a><br/></td></tr>
+<tr class="memitem:a1d9007c3ad93ab281dd3f9824148dca8"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1d9007c3ad93ab281dd3f9824148dca8"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a1d9007c3ad93ab281dd3f9824148dca8">ensureVersionTableExists</a> ()</td></tr>
+<tr class="memdesc:a1d9007c3ad93ab281dd3f9824148dca8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks if the version table exists in the database and creates it if necessary. <br/></td></tr>
+<tr class="memitem:a2f7050f417365e2752188d71c0faa03f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a2f7050f417365e2752188d71c0faa03f">ExtractColumnsFromTable</a> ($tableName)</td></tr>
+<tr class="memdesc:a2f7050f417365e2752188d71c0faa03f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extract the existing column definitions from a table.  <a href="#a2f7050f417365e2752188d71c0faa03f"></a><br/></td></tr>
+<tr class="memitem:a673e7705b167879179d7c7250af51c5d"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a673e7705b167879179d7c7250af51c5d">ExtractIndicesFromTable</a> ($tableName)</td></tr>
+<tr class="memdesc:a673e7705b167879179d7c7250af51c5d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Extract the existing index definitions from a table.  <a href="#a673e7705b167879179d7c7250af51c5d"></a><br/></td></tr>
+<tr class="memitem:a6be98aaf2316312818dfd4b3c4760e60"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a6be98aaf2316312818dfd4b3c4760e60">ForceRenameTable</a> ($oldTableName, $newTableName)</td></tr>
 <tr><td colspan="2"><h2><a name="pro-static-methods"></a>
 Static Protected Member Functions</h2></td></tr>
-<tr class="memitem:ac3e492d0c4e25a9222cd4bd91013b752"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ac3e492d0c4e25a9222cd4bd91013b752"></a>
-static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ac3e492d0c4e25a9222cd4bd91013b752">validateArg_table</a> ($table)</td></tr>
-<tr class="memdesc:ac3e492d0c4e25a9222cd4bd91013b752"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs validation on table names. <br/></td></tr>
+<tr class="memitem:a313a790bef1ac214e2a778f7d0d9cad4"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a313a790bef1ac214e2a778f7d0d9cad4">GetColumnTypeStringSymbol</a> (ColumnTypeDef $coldef)</td></tr>
+<tr class="memdesc:a313a790bef1ac214e2a778f7d0d9cad4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a column type definition object to an implementation-appropriate string.  <a href="#a313a790bef1ac214e2a778f7d0d9cad4"></a><br/></td></tr>
+<tr class="memitem:ae070217c95cad67484120042c63e7e15"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ae070217c95cad67484120042c63e7e15"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ae070217c95cad67484120042c63e7e15">validateArg_field</a> ()</td></tr>
+<tr class="memdesc:ae070217c95cad67484120042c63e7e15"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs validation on field names. <br/></td></tr>
+<tr class="memitem:a380ddf617d87f2fcc94a370aede95970"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a380ddf617d87f2fcc94a370aede95970"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a380ddf617d87f2fcc94a370aede95970">validateArg_table</a> ()</td></tr>
+<tr class="memdesc:a380ddf617d87f2fcc94a370aede95970"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs validation on table names. <br/></td></tr>
+<tr><td colspan="2"><h2><a name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:ae6903a5d16888c4e1c3505df6b64a6e6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ae6903a5d16888c4e1c3505df6b64a6e6"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ae6903a5d16888c4e1c3505df6b64a6e6">$hasBreakingChanges</a> = false</td></tr>
+<tr class="memdesc:ae6903a5d16888c4e1c3505df6b64a6e6"><td class="mdescLeft">&#160;</td><td class="mdescRight">boolean TRUE if the migrator makes breaking changes to tables, FALSE otherwise <br/></td></tr>
 </table>
 <hr/><a name="details" id="details"></a><h2>Detailed Description</h2>
-<div class="textblock"><p>abstract implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IGenericData.html" title="Implemenetation of IGenericData from Aurora-Sim.">Aurora::Framework::IGenericData</a> </p>
+<div class="textblock"><p>abstract implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IDataConnector.html" title="Transposition of the IDataConnector interface from aurora-sim.">Aurora::Framework::IDataConnector</a> </p>
+</div><hr/><h2>Constructor &amp; Destructor Documentation</h2>
+<a class="anchor" id="a1147893b58aa2513214fad0cbc8629f2"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a1147893b58aa2513214fad0cbc8629f2">__construct</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>connectionString</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>migratorName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>validateTables</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [abstract]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
 
-<p>Definition at line <a class="el" href="DataManager_8php_source.html#l00014">14</a> of file <a class="el" href="DataManager_8php_source.html">DataManager.php</a>.</p>
-</div><hr/>The documentation for this class was generated from the following file:<ul>
-<li>libAurora/<a class="el" href="DataManager_8php_source.html">DataManager.php</a></li>
+<p>Connect to database. We're deviating from the c# design here, using the constructor to connect to the database rather than a method that can be used anywhere during runtime. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$connectionString</td><td>database connection string </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$migratorName</td><td>migrator module </td></tr>
+    <tr><td class="paramtype">boolean</td><td class="paramname">$validateTables</td><td>specifying TRUE must attempt to validate tables after connecting to the database </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<hr/><h2>Member Function Documentation</h2>
+<a class="anchor" id="a901c51080f12d4d008f6d6c3a7207962"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a901c51080f12d4d008f6d6c3a7207962">CopyAllDataBetweenMatchingTables</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>sourceTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>destinationTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ColDefs $&#160;</td>
+          <td class="paramname"><em>columnDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IndexDefs $&#160;</td>
+          <td class="paramname"><em>indexDefinitions</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [abstract, protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Copies data between tables. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$sourceTableName</td><td>table to copy from </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$destinationTableName</td><td>table to copy to </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$columnDefinitions</td><td>instance of <a class="el" href="classAurora_1_1Framework_1_1ColumnDefinition_1_1Iterator.html" title="strongly-typed array for column definitions">Aurora::Framework::ColumnDefinition::Iterator</a> column definitions </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$indexDefinitions</td><td>instance of <a class="el" href="classAurora_1_1Framework_1_1IndexDefinition_1_1Iterator.html" title="strongly-typed array for index definitions">Aurora::Framework::IndexDefinition::Iterator</a> index definitions </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Reimplemented in <a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a901c51080f12d4d008f6d6c3a7207962">PDO</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="abee3e3411334e55310365093acccad2f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#abee3e3411334e55310365093acccad2f">CopyTableToTable</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>sourceTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>destinationTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ColDefs $&#160;</td>
+          <td class="paramname"><em>columnDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IndexDefs $&#160;</td>
+          <td class="paramname"><em>indexDefinitions</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>copy tables </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$sourceTableName</td><td>name of table to copy from </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$destinationTableName</td><td>name of table to copy to </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$columnDefinitions</td><td>instance of Aurora::DataManager::Migration::ColumnDefinition::Iterator </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$indexDefinitions</td><td>instance of Aurora::DataManager::Migration::IndexDefinition::Iterator </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="a372237a7e8d880d0aea9f54f9f6ac951"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a372237a7e8d880d0aea9f54f9f6ac951">EnsureTableExists</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>tableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ColDefs $&#160;</td>
+          <td class="paramname"><em>columnDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IndexDefs $&#160;</td>
+          <td class="paramname"><em>indexDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">array $&#160;</td>
+          <td class="paramname"><em>renameColumns</em> = <code>null</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Check whether the data table exists and that the columns and indices are correct, creating the table if it doesn't exist. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$tableName</td><td>name of the table </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$columnDefinitions</td><td>instance of Aurora::DataManager::Migration::ColumnDefinition::Iterator </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$indexDefinitions</td><td>instance of Aurora::DataManager::Migration::IndexDefinition::Iterator </td></tr>
+    <tr><td class="paramtype">mixed</td><td class="paramname">$renameColumns</td><td>array of columns to rename or NULL </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>boolean TRUE if the table exists as described, FALSE otherwise </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a2f7050f417365e2752188d71c0faa03f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a2f7050f417365e2752188d71c0faa03f">ExtractColumnsFromTable</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>tableName</em></td><td>)</td>
+          <td><code> [abstract, protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Extract the existing column definitions from a table. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$tableName</td><td>name of table to extract columns from. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>object instance of <a class="el" href="classAurora_1_1Framework_1_1ColumnDefinition_1_1Iterator.html" title="strongly-typed array for column definitions">Aurora::Framework::ColumnDefinition::Iterator</a> </dd></dl>
+
+<p>Reimplemented in <a class="el" href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html#a2f7050f417365e2752188d71c0faa03f">MySQLDataLoader</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a673e7705b167879179d7c7250af51c5d"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a673e7705b167879179d7c7250af51c5d">ExtractIndicesFromTable</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>tableName</em></td><td>)</td>
+          <td><code> [abstract, protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Extract the existing index definitions from a table. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$tableName</td><td>name of table to extract columns from. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>object instance of <a class="el" href="classAurora_1_1Framework_1_1IndexDefinition_1_1Iterator.html" title="strongly-typed array for index definitions">Aurora::Framework::IndexDefinition::Iterator</a> with array keys being the names of indices </dd></dl>
+
+<p>Reimplemented in <a class="el" href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html#a673e7705b167879179d7c7250af51c5d">MySQLDataLoader</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a6be98aaf2316312818dfd4b3c4760e60"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a6be98aaf2316312818dfd4b3c4760e60">ForceRenameTable</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>oldTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>newTableName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+<p>Performs table renaming without checking for table existance. This implementation only performs argument validation to save duplication of code. Unlike the c# code, we're making this a protected method </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$oldTableName</td><td>current table name </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$newTableName</td><td>new table name </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section see"><dt>See also:</dt><dd><a class="el" href="interfaceAurora_1_1Framework_1_1IDataConnector.html#a281230b33fc9fdb4339593e9ea66d04e" title="Rename the table from $oldTableName to $newTableName.">Aurora::Framework::IDataConnector::RenameTable()</a> </dd></dl>
+
+<p>Reimplemented in <a class="el" href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html#a6be98aaf2316312818dfd4b3c4760e60">MySQLDataLoader</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a602e647a3e995e3cf95414280f3dfeb1"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a602e647a3e995e3cf95414280f3dfeb1">GetAuroraVersion</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>migratorName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Gets the latest version of the database. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$migratorName</td><td>corresponds to <a class="el" href="classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a186b8e1f8ce66e485fa8c4824b8842b7">Aurora::DataManager::Migration::Migrator::MigrationName</a> </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>object instance of <a class="el" href="classlibAurora_1_1Version.html" title="class for handling version definitions and comparisons where version numbers are in the major...">libAurora::Version</a> corresponds to <a class="el" href="classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a62e44de9100d83ee01f5b4875b49a02b">Aurora::DataManager::Migration::Migrator::Version</a> </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a313a790bef1ac214e2a778f7d0d9cad4"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a313a790bef1ac214e2a778f7d0d9cad4">GetColumnTypeStringSymbol</a> </td>
+          <td>(</td>
+          <td class="paramtype">ColumnTypeDef $&#160;</td>
+          <td class="paramname"><em>coldef</em></td><td>)</td>
+          <td><code> [static, abstract, protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Converts a column type definition object to an implementation-appropriate string. </p>
+<p>In c#, this is an object method, not a class method. It's also public, whereas here we make it protected </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">object</td><td class="paramname">$coldef</td><td>an instance of <a class="el" href="classAurora_1_1Framework_1_1ColumnTypeDef.html" title="Column type definition.">Aurora::Framework::ColumnTypeDef</a> </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>string implementation-appropriate string </dd></dl>
+
+<p>Reimplemented in <a class="el" href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html#a313a790bef1ac214e2a778f7d0d9cad4">MySQLDataLoader</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a6530807b517615f2de350eaa5b1bfa3b"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a6530807b517615f2de350eaa5b1bfa3b">HasBreakingChanges</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Indicates whether a migrator has breaking changes or not. </p>
+<dl class="section return"><dt>Returns:</dt><dd>boolean TRUE if the migrator makes breaking changes to tables, FALSE otherwise </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a311e5cb35839997669d07326f9a7867f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a1396bf782d72240efd741f15a04c2ac4">Identifier</a> </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td><code> [static, final]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Name of the connector. </p>
+<dl class="section return"><dt>Returns:</dt><dd>string Name of the connector </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a8b70ee9059179ee257925891442b3e60"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a8b70ee9059179ee257925891442b3e60">VerifyTableExists</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>tableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ColDefs $&#160;</td>
+          <td class="paramname"><em>columnDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IndexDefs $&#160;</td>
+          <td class="paramname"><em>indexDefinitions</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Check whether the data table exists and that the columns and indices are correct. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$tableName</td><td>name of the table </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$columnDefinitions</td><td>instance of Aurora::DataManager::Migration::ColumnDefinition::Iterator </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$indexDefinitions</td><td>instance of Aurora::DataManager::Migration::IndexDefinition::Iterator </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>boolean TRUE if the table exists as described, FALSE otherwise </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a63395994c54d603d01fd6e7190932caf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a63395994c54d603d01fd6e7190932caf">WriteAuroraVersion</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="classlibAurora_1_1Version.html">Version</a> $&#160;</td>
+          <td class="paramname"><em>version</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>MigrationName</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Set the version of the database. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$version</td><td>version to write to the database </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$MigrationName</td><td>migrator module to write to the database </td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<hr/>The documentation for this class was generated from the following file:<ul>
+<li>libAurora/<a class="el" href="libAurora_2DataManager_8php.html">DataManager.php</a></li>
 </ul>
 </div><!-- contents -->
 </div>
   <div id="nav-path" class="navpath">
     <ul>
-      <li class="navelem"><b>libAurora</b>      </li>
-      <li class="navelem"><b>DataManager</b>      </li>
+      <li class="navelem"><a class="el" href="namespacelibAurora.html">libAurora</a>      </li>
+      <li class="navelem"><a class="el" href="namespacelibAurora_1_1DataManager.html">DataManager</a>      </li>
       <li class="navelem"><a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html">DataManagerBase</a>      </li>
 
     <li class="footer">Generated by

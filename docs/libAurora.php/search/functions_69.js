@@ -1,6 +1,7 @@
 var searchData=
 [
   ['i',['i',['../classAurora_1_1Addon_1_1WebUI_1_1Template_1_1FormProblem.html#a73e4ce7a056932cccdb802b637135bfd',1,'Aurora\Addon\WebUI\Template\FormProblem\i()'],['../classAurora_1_1Addon_1_1WebUI_1_1Configs.html#a73e4ce7a056932cccdb802b637135bfd',1,'Aurora\Addon\WebUI\Configs\i()'],['../classGlobals.html#a73e4ce7a056932cccdb802b637135bfd',1,'Globals\i()']]],
+  ['identifier',['Identifier',['../interfaceAurora_1_1Framework_1_1IDataConnector.html#a311e5cb35839997669d07326f9a7867f',1,'Aurora\Framework\IDataConnector\Identifier()'],['../classlibAurora_1_1DataManager_1_1DataManagerBase.html#a311e5cb35839997669d07326f9a7867f',1,'libAurora\DataManager\DataManagerBase\Identifier()']]],
   ['image',['Image',['../classAurora_1_1Addon_1_1WebUI_1_1UserProfile.html#a66d0d6da3b89580352c28d37b57df5bb',1,'Aurora::Addon::WebUI::UserProfile']]],
   ['infouuid',['InfoUUID',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#ab77ea4e39b2357634d706d1792aa2163',1,'Aurora\Addon\WebUI\LandData\InfoUUID()'],['../interfaceAurora_1_1Framework_1_1LandData.html#ab77ea4e39b2357634d706d1792aa2163',1,'Aurora\Framework\LandData\InfoUUID()']]],
   ['insert',['Insert',['../interfaceAurora_1_1Framework_1_1IGenericData.html#a98f47863f04403147310e6b5c7528705',1,'Aurora\Framework\IGenericData\Insert()'],['../classlibAurora_1_1DataManager_1_1PDO.html#a98f47863f04403147310e6b5c7528705',1,'libAurora\DataManager\PDO\Insert()'],['../classlibAurora_1_1DataManager_1_1DataManagerBase.html#a98f47863f04403147310e6b5c7528705',1,'libAurora\DataManager\DataManagerBase\Insert()']]],

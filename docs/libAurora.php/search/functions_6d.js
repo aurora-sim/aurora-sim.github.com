@@ -16,6 +16,7 @@ var searchData=
   ['mediawidth',['MediaWidth',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#addd33c3c0b3506e4726c3140a95d1abc',1,'Aurora\Addon\WebUI\LandData\MediaWidth()'],['../interfaceAurora_1_1Framework_1_1LandData.html#addd33c3c0b3506e4726c3140a95d1abc',1,'Aurora\Framework\LandData\MediaWidth()']]],
   ['membershipfee',['MembershipFee',['../classAurora_1_1Addon_1_1WebUI_1_1GroupRecord.html#aa2edd92bd6ead3c414d0ff11a8e2c91a',1,'Aurora\Addon\WebUI\GroupRecord\MembershipFee()'],['../interfaceAurora_1_1Framework_1_1GroupRecord.html#aa2edd92bd6ead3c414d0ff11a8e2c91a',1,'Aurora\Framework\GroupRecord\MembershipFee()']]],
   ['message',['Message',['../classAurora_1_1Addon_1_1WebUI_1_1GroupNoticeData.html#af1991e0448f9277f0939d142e4aa2c94',1,'Aurora::Addon::WebUI::GroupNoticeData']]],
+  ['migrate',['Migrate',['../classAurora_1_1DataManager_1_1Migration_1_1Migrator.html#a9d5f1455a79d67c3056211779cf0d815',1,'Aurora::DataManager::Migration::Migrator']]],
   ['monolithicregionlookup',['MonolithicRegionLookup',['../classAurora_1_1Addon_1_1MapAPI.html#a4f92eead3734c38d01a228d1854a3ccb',1,'Aurora::Addon::MapAPI']]],
   ['musicurl',['MusicURL',['../classAurora_1_1Addon_1_1WebUI_1_1LandData.html#a27d30f0c721b51725feab479073b05ed',1,'Aurora\Addon\WebUI\LandData\MusicURL()'],['../interfaceAurora_1_1Framework_1_1LandData.html#a27d30f0c721b51725feab479073b05ed',1,'Aurora\Framework\LandData\MusicURL()']]],
   ['myflags',['MyFlags',['../classAurora_1_1Addon_1_1WebUI_1_1FriendInfo.html#ae5008998f0151cd2a65104ca4d2b203e',1,'Aurora::Addon::WebUI::FriendInfo']]]

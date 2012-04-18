@@ -64,7 +64,6 @@ var classAurora_1_1Addon_1_1WebUI =
     [ "SetWebLoginKey", "classAurora_1_1Addon_1_1WebUI.html#a3079bb84fb4c3bf56d88847eb4a7fdff", null ],
     [ "TempBanUser", "classAurora_1_1Addon_1_1WebUI.html#aad1846e80e3ca412363c83dfa92e51ee", null ],
     [ "UnBanUser", "classAurora_1_1Addon_1_1WebUI.html#a98002344edb3c59e0e61a73bf8dff082", null ],
-    [ "WebUIClientImplementationData", "classAurora_1_1Addon_1_1WebUI.html#acacfe684b69bc379ecc225c37572dd17", null ],
     [ "$GridInfo", "classAurora_1_1Addon_1_1WebUI.html#a89d5b470485363ed5bbc759d1e885227", null ],
     [ "$password", "classAurora_1_1Addon_1_1WebUI.html#a607686ef9f99ea7c42f4f3dd3dbb2b0d", null ],
     [ "$serviceURL", "classAurora_1_1Addon_1_1WebUI.html#a9e612b03617c70ac9c8ee664edc04389", null ],

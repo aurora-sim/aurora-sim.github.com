@@ -112,13 +112,17 @@ var searchBox = new SearchBox("searchBox", "search",false,'Search');
 
 <div class="header">
   <div class="summary">
-<a href="#pub-methods">Public Member Functions</a>  </div>
+<a href="#pub-methods">Public Member Functions</a> &#124;
+<a href="#pub-attribs">Data Fields</a> &#124;
+<a href="#pro-methods">Protected Member Functions</a> &#124;
+<a href="#pro-static-methods">Static Protected Member Functions</a> &#124;
+<a href="#pro-attribs">Protected Attributes</a>  </div>
   <div class="headertitle">
 <div class="title">PDO Class Reference</div>  </div>
 </div><!--header-->
 <div class="contents">
 
-<p><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IGenericData.">PDO</a> implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IGenericData.html" title="Implemenetation of IGenericData from Aurora-Sim.">Aurora::Framework::IGenericData</a>.  
+<p><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IDataConnector.">PDO</a> implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IDataConnector.html" title="Transposition of the IDataConnector interface from aurora-sim.">Aurora::Framework::IDataConnector</a>.  
  <a href="classlibAurora_1_1DataManager_1_1PDO.html#details">More...</a></p>
 <div class="dynheader">
 Inheritance diagram for PDO:</div>
@@ -126,56 +130,192 @@ Inheritance diagram for PDO:</div>
  <div class="center">
   <img src="classlibAurora_1_1DataManager_1_1PDO.png" usemap="#PDO_map" alt=""/>
   <map id="PDO_map" name="PDO_map">
-<area href="classlibAurora_1_1DataManager_1_1DataManagerBase.html" title="abstract implementation of Aurora::Framework::IGenericData" alt="DataManagerBase" shape="rect" coords="0,0,117,24"/>
+<area href="classlibAurora_1_1DataManager_1_1DataManagerBase.html" title="abstract implementation of Aurora::Framework::IDataConnector" alt="DataManagerBase" shape="rect" coords="0,0,121,24"/>
+<area href="classlibAurora_1_1DataManager_1_1MySQLDataLoader.html" title="mysql-specific PDO implementation of Aurora::Framework::IDataConnector" alt="MySQLDataLoader" shape="rect" coords="0,112,121,136"/>
 </map>
  </div></div>
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a37d01092f8fad6014fc1df47986488c6"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a37d01092f8fad6014fc1df47986488c6">__construct</a> (\<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a> $<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a>)</td></tr>
-<tr class="memdesc:a37d01092f8fad6014fc1df47986488c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">This will later be turned into a protected method with instantation being driven by a public static method modeled on the c# Aurora::Framework::IGenericData::ConnectToDatabase()  <a href="#a37d01092f8fad6014fc1df47986488c6"></a><br/></td></tr>
+<tr class="memitem:a209983446f946b5974802f9d54d0354b"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a209983446f946b5974802f9d54d0354b">__construct</a> ($connectionString, $migratorName, $validateTables, $forceBreakingChanges=false)</td></tr>
+<tr class="memdesc:a209983446f946b5974802f9d54d0354b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Connect to database. We're deviating from the c# design here, using the constructor to connect to the database rather than a method that can be used anywhere during runtime.  <a href="#a209983446f946b5974802f9d54d0354b"></a><br/></td></tr>
 <tr class="memitem:ab9414c3a7b2efcd46b0b5e84b0688920"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#ab9414c3a7b2efcd46b0b5e84b0688920">Delete</a> ($table, QueryFilter $queryFilter=null)</td></tr>
 <tr class="memdesc:ab9414c3a7b2efcd46b0b5e84b0688920"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs a delete query.  <a href="#ab9414c3a7b2efcd46b0b5e84b0688920"></a><br/></td></tr>
+<tr class="memitem:a90aa534a3ea547c02b38093d14b7016c"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a90aa534a3ea547c02b38093d14b7016c">DropTable</a> ($tableName)</td></tr>
+<tr class="memdesc:a90aa534a3ea547c02b38093d14b7016c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Drops a table.  <a href="#a90aa534a3ea547c02b38093d14b7016c"></a><br/></td></tr>
 <tr class="memitem:a98f47863f04403147310e6b5c7528705"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a98f47863f04403147310e6b5c7528705">Insert</a> ($table, array $values)</td></tr>
 <tr class="memdesc:a98f47863f04403147310e6b5c7528705"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs an insert query.  <a href="#a98f47863f04403147310e6b5c7528705"></a><br/></td></tr>
 <tr class="memitem:ab0f24ff6505379def27546aaceb0dc20"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#ab0f24ff6505379def27546aaceb0dc20">Query</a> (array $wantedValue, $table, QueryFilter $queryFilter=null, array $sort=null, $start=null, $count=null)</td></tr>
 <tr class="memdesc:ab0f24ff6505379def27546aaceb0dc20"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs a select query.  <a href="#ab0f24ff6505379def27546aaceb0dc20"></a><br/></td></tr>
 <tr class="memitem:a7dae8d4b8ddaa54008b7a4306dafd5bc"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a7dae8d4b8ddaa54008b7a4306dafd5bc">Update</a> ($table, array $set, QueryFilter $queryFilter=null)</td></tr>
 <tr class="memdesc:a7dae8d4b8ddaa54008b7a4306dafd5bc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Performs an update query.  <a href="#a7dae8d4b8ddaa54008b7a4306dafd5bc"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="pub-attribs"></a>
+Data Fields</h2></td></tr>
+<tr class="memitem:a1396bf782d72240efd741f15a04c2ac4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1396bf782d72240efd741f15a04c2ac4"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a1396bf782d72240efd741f15a04c2ac4">Identifier</a> = '<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a>'</td></tr>
+<tr class="memdesc:a1396bf782d72240efd741f15a04c2ac4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Name of the connector. <br/></td></tr>
+<tr class="memitem:abab148bf09eb1e2e24b88e0ae30ac1d5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="abab148bf09eb1e2e24b88e0ae30ac1d5"></a>
+const&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#abab148bf09eb1e2e24b88e0ae30ac1d5">regex_up</a> = '/(;user=(.+);password=(.+);?)/'</td></tr>
+<tr class="memdesc:abab148bf09eb1e2e24b88e0ae30ac1d5"><td class="mdescLeft">&#160;</td><td class="mdescRight">string regular expression for finding username &amp; password that have been fudged into the <a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IDataConnector.">PDO</a> DSN string. <br/></td></tr>
+<tr><td colspan="2"><h2><a name="pro-methods"></a>
+Protected Member Functions</h2></td></tr>
+<tr class="memitem:a901c51080f12d4d008f6d6c3a7207962"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a901c51080f12d4d008f6d6c3a7207962">CopyAllDataBetweenMatchingTables</a> ($sourceTableName, $destinationTableName, ColDefs $columnDefinitions, IndexDefs $indexDefinitions)</td></tr>
+<tr class="memdesc:a901c51080f12d4d008f6d6c3a7207962"><td class="mdescLeft">&#160;</td><td class="mdescRight">Copies data between tables.  <a href="#a901c51080f12d4d008f6d6c3a7207962"></a><br/></td></tr>
+<tr><td colspan="2"><h2><a name="pro-static-methods"></a>
+Static Protected Member Functions</h2></td></tr>
+<tr class="memitem:a4c554f22d6703fc27492cdded1f50d8b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4c554f22d6703fc27492cdded1f50d8b"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a4c554f22d6703fc27492cdded1f50d8b">bindValues</a> (PDOStatement $sth, array $ps)</td></tr>
+<tr class="memdesc:a4c554f22d6703fc27492cdded1f50d8b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Binds values to queries. <br/></td></tr>
+<tr class="memitem:aca37a48d575fff493090bb7a3445d98e"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#aca37a48d575fff493090bb7a3445d98e">ConvertTypeToColumnType</a> ($typeString)</td></tr>
+<tr class="memdesc:aca37a48d575fff493090bb7a3445d98e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Converts a type string to a column type definition object.  <a href="#aca37a48d575fff493090bb7a3445d98e"></a><br/></td></tr>
+<tr class="memitem:a6d9965858267620b0e6f519481fabab4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6d9965858267620b0e6f519481fabab4"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a6d9965858267620b0e6f519481fabab4">linearResults</a> (PDOStatement $sth)</td></tr>
+<tr class="memdesc:a6d9965858267620b0e6f519481fabab4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the results of a query as a one-dimensional array. <br/></td></tr>
+<tr class="memitem:aca3126e87de6cfdec1669ba4e41e5583"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aca3126e87de6cfdec1669ba4e41e5583"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#aca3126e87de6cfdec1669ba4e41e5583">prepareSth</a> (\<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a> $<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a>, PDOStatement &amp;$sth=null, $query)</td></tr>
+<tr class="memdesc:aca3126e87de6cfdec1669ba4e41e5583"><td class="mdescLeft">&#160;</td><td class="mdescRight">Prepares a query. <br/></td></tr>
+<tr class="memitem:a0af8c8db01e6d466268e0becac36dc08"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a0af8c8db01e6d466268e0becac36dc08"></a>
+static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a0af8c8db01e6d466268e0becac36dc08">returnExecute</a> (PDOStatement $sth)</td></tr>
+<tr class="memdesc:a0af8c8db01e6d466268e0becac36dc08"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns and executes. <br/></td></tr>
+<tr><td colspan="2"><h2><a name="pro-attribs"></a>
+Protected Attributes</h2></td></tr>
+<tr class="memitem:acdb2149c05a21fe144fb05ec524a51f3"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="acdb2149c05a21fe144fb05ec524a51f3"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#acdb2149c05a21fe144fb05ec524a51f3">$PDO</a></td></tr>
+<tr class="memdesc:acdb2149c05a21fe144fb05ec524a51f3"><td class="mdescLeft">&#160;</td><td class="mdescRight">object an instance of <a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IDataConnector.">PDO</a> <br/></td></tr>
 </table>
 <hr/><a name="details" id="details"></a><h2>Detailed Description</h2>
-<div class="textblock"><p><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IGenericData.">PDO</a> implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IGenericData.html" title="Implemenetation of IGenericData from Aurora-Sim.">Aurora::Framework::IGenericData</a>. </p>
-
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00017">17</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
+<div class="textblock"><p><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IDataConnector.">PDO</a> implementation of <a class="el" href="interfaceAurora_1_1Framework_1_1IDataConnector.html" title="Transposition of the IDataConnector interface from aurora-sim.">Aurora::Framework::IDataConnector</a>. </p>
 </div><hr/><h2>Constructor &amp; Destructor Documentation</h2>
-<a class="anchor" id="a37d01092f8fad6014fc1df47986488c6"></a>
+<a class="anchor" id="a209983446f946b5974802f9d54d0354b"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a37d01092f8fad6014fc1df47986488c6">__construct</a> </td>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a209983446f946b5974802f9d54d0354b">__construct</a> </td>
           <td>(</td>
-          <td class="paramtype">\<a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a> $&#160;</td>
-          <td class="paramname"><em>PDO</em></td><td>)</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>connectionString</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
           <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>migratorName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>validateTables</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>forceBreakingChanges</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
         </tr>
       </table>
 </div>
 <div class="memdoc">
 
-<p>This will later be turned into a protected method with instantation being driven by a public static method modeled on the c# Aurora::Framework::IGenericData::ConnectToDatabase() </p>
+<p>Connect to database. We're deviating from the c# design here, using the constructor to connect to the database rather than a method that can be used anywhere during runtime. </p>
+<p>Important note! Unlike the equivalent c#, this class does not create databases- the database must be created beforehand by the user (except in the case of SQLite) </p>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
-    <tr><td class="paramtype">object</td><td class="paramname">$PDO</td><td>an instance of <a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html" title="PDO implementation of Aurora::Framework::IGenericData.">PDO</a> </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$connectionString</td><td>database connection string </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$migratorName</td><td>migrator module </td></tr>
+    <tr><td class="paramtype">boolean</td><td class="paramname">$validateTables</td><td>specifying TRUE must attempt to validate tables after connecting to the database </td></tr>
+    <tr><td class="paramtype">boolean</td><td class="paramname">$forceBreakingChanges</td><td>TRUE forces breaking changes to be applied </td></tr>
   </table>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00026">26</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
-
 </div>
 </div>
 <hr/><h2>Member Function Documentation</h2>
+<a class="anchor" id="aca37a48d575fff493090bb7a3445d98e"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">static <a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#aca37a48d575fff493090bb7a3445d98e">ConvertTypeToColumnType</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>typeString</em></td><td>)</td>
+          <td><code> [static, protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Converts a type string to a column type definition object. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$typeString</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd>object an instance of <a class="el" href="classAurora_1_1Framework_1_1ColumnTypeDef.html" title="Column type definition.">Aurora::Framework::ColumnTypeDef</a> </dd></dl>
+
+</div>
+</div>
+<a class="anchor" id="a901c51080f12d4d008f6d6c3a7207962"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a901c51080f12d4d008f6d6c3a7207962">CopyAllDataBetweenMatchingTables</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>sourceTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>destinationTableName</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">ColDefs $&#160;</td>
+          <td class="paramname"><em>columnDefinitions</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">IndexDefs $&#160;</td>
+          <td class="paramname"><em>indexDefinitions</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [protected]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Copies data between tables. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$sourceTableName</td><td>table to copy from </td></tr>
+    <tr><td class="paramtype">string</td><td class="paramname">$destinationTableName</td><td>table to copy to </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$columnDefinitions</td><td>instance of <a class="el" href="classAurora_1_1Framework_1_1ColumnDefinition_1_1Iterator.html" title="strongly-typed array for column definitions">Aurora::Framework::ColumnDefinition::Iterator</a> column definitions </td></tr>
+    <tr><td class="paramtype">object</td><td class="paramname">$indexDefinitions</td><td>instance of <a class="el" href="classAurora_1_1Framework_1_1IndexDefinition_1_1Iterator.html" title="strongly-typed array for index definitions">Aurora::Framework::IndexDefinition::Iterator</a> index definitions </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a901c51080f12d4d008f6d6c3a7207962">DataManagerBase</a>.</p>
+
+</div>
+</div>
 <a class="anchor" id="ab9414c3a7b2efcd46b0b5e84b0688920"></a>
 <div class="memitem">
 <div class="memproto">
@@ -213,7 +353,32 @@ Public Member Functions</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab9414c3a7b2efcd46b0b5e84b0688920">DataManagerBase</a>.</p>
 
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00211">211</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
+</div>
+</div>
+<a class="anchor" id="a90aa534a3ea547c02b38093d14b7016c"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html#a90aa534a3ea547c02b38093d14b7016c">DropTable</a> </td>
+          <td>(</td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>tableName</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Drops a table. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramtype">string</td><td class="paramname">$tableName</td><td>name of table to drop </td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a90aa534a3ea547c02b38093d14b7016c">DataManagerBase</a>.</p>
 
 </div>
 </div>
@@ -253,8 +418,6 @@ Public Member Functions</h2></td></tr>
 <dl class="section return"><dt>Returns:</dt><dd>bool TRUE on success, FALSE otherwise </dd></dl>
 
 <p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a98f47863f04403147310e6b5c7528705">DataManagerBase</a>.</p>
-
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00149">149</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
 
 </div>
 </div>
@@ -323,8 +486,6 @@ Public Member Functions</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#ab0f24ff6505379def27546aaceb0dc20">DataManagerBase</a>.</p>
 
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00088">88</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="a7dae8d4b8ddaa54008b7a4306dafd5bc"></a>
@@ -371,19 +532,17 @@ Public Member Functions</h2></td></tr>
 
 <p>Reimplemented from <a class="el" href="classlibAurora_1_1DataManager_1_1DataManagerBase.html#a7dae8d4b8ddaa54008b7a4306dafd5bc">DataManagerBase</a>.</p>
 
-<p>Definition at line <a class="el" href="pdo_8php_source.html#l00180">180</a> of file <a class="el" href="pdo_8php_source.html">pdo.php</a>.</p>
-
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>libAurora/DataManager/<a class="el" href="pdo_8php_source.html">pdo.php</a></li>
+<li>libAurora/DataManager/<a class="el" href="pdo_8php.html">pdo.php</a></li>
 </ul>
 </div><!-- contents -->
 </div>
   <div id="nav-path" class="navpath">
     <ul>
-      <li class="navelem"><b>libAurora</b>      </li>
-      <li class="navelem"><b>DataManager</b>      </li>
+      <li class="navelem"><a class="el" href="namespacelibAurora.html">libAurora</a>      </li>
+      <li class="navelem"><a class="el" href="namespacelibAurora_1_1DataManager.html">DataManager</a>      </li>
       <li class="navelem"><a class="el" href="classlibAurora_1_1DataManager_1_1PDO.html">PDO</a>      </li>
 
     <li class="footer">Generated by

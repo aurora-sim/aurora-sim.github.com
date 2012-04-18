@@ -144,8 +144,6 @@ Static Public Member Functions</h2></td></tr>
 <hr/><a name="details" id="details"></a><h2>Detailed Description</h2>
 <div class="textblock"><p>Class used for globally-available stuff, because a) define and const only support scalar values, and b) the global operate is ugly. </p>
 <p>We're making this "final" for semantic reasons. The suggested usage is: <a class="el" href="classGlobals.html#a73e4ce7a056932cccdb802b637135bfd" title="Returns an instance of Globals via a singelton pattern.">Globals::i()</a>-&gt;foo = 'bar'; echo <a class="el" href="classGlobals.html#a73e4ce7a056932cccdb802b637135bfd" title="Returns an instance of Globals via a singelton pattern.">Globals::i()</a>-&gt;foo; <a class="el" href="classGlobals.html#a73e4ce7a056932cccdb802b637135bfd" title="Returns an instance of Globals via a singelton pattern.">Globals::i()</a>-&gt;baz = function(){ return 'bat'; }; echo <a class="el" href="classGlobals.html#a73e4ce7a056932cccdb802b637135bfd" title="Returns an instance of Globals via a singelton pattern.">Globals::i()</a>-&gt;baz(); </p>
-
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00396">396</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
 </div><hr/><h2>Member Function Documentation</h2>
 <a class="anchor" id="af581fc28a714ab44d6329ee55524d44a"></a>
 <div class="memitem">
@@ -181,8 +179,6 @@ Static Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd>mixed returns the value of the callback given the supplied $arguments or throws an exception if the specified $name is not callable for whatever reason. </dd></dl>
-
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00470">470</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
 
 </div>
 </div>
@@ -221,8 +217,6 @@ Static Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd>mixed wraps to <a class="el" href="classGlobals.html#af581fc28a714ab44d6329ee55524d44a" title="Here&#39;s the fun bit. Support for adding anonymous functions.">Globals::__call()</a> </dd></dl>
 
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00485">485</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="abc8e9e31bb15c8a44c3210ec551407c8"></a>
@@ -249,8 +243,6 @@ Static Public Member Functions</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd>mixed </dd></dl>
 
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00441">441</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="a8f132f051b7cd7d570ccb9f6e2bb4201"></a>
@@ -276,8 +268,6 @@ Static Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd>TRUE if the property has been set, FALSE otherwise. </dd></dl>
-
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00450">450</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
 
 </div>
 </div>
@@ -316,8 +306,6 @@ Static Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00425">425</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="a8a93654c7bfe3f0a9bb7af531e513d44"></a>
@@ -343,8 +331,6 @@ Static Public Member Functions</h2></td></tr>
   </dd>
 </dl>
 
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00458">458</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
-
 </div>
 </div>
 <a class="anchor" id="a73e4ce7a056932cccdb802b637135bfd"></a>
@@ -365,12 +351,10 @@ Static Public Member Functions</h2></td></tr>
 <p>Marv's habit here is to use single-letter method names for singelton (i), registry (r) and factory (f) methods. Although in this scheme singelton should probably have "s" instead of "i", what we're returning is the sole instance of a class (emphasis on instance). The instance is held as a static variable inside the method because we want to ensure it's not interfered with by other methods. </p>
 <dl class="section return"><dt>Returns:</dt><dd>object an instance of <a class="el" href="classGlobals.html" title="Class used for globally-available stuff, because a) define and const only support scalar values...">Globals</a> </dd></dl>
 
-<p>Definition at line <a class="el" href="Aurora_2load_8php_source.html#l00408">408</a> of file <a class="el" href="Aurora_2load_8php_source.html">load.php</a>.</p>
-
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>Aurora/<a class="el" href="Aurora_2load_8php_source.html">load.php</a></li>
+<li>Aurora/<a class="el" href="Aurora_2load_8php.html">load.php</a></li>
 </ul>
 </div><!-- contents -->
 </div>
