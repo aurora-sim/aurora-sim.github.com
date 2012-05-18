@@ -133,30 +133,26 @@ Inheritance diagram for Aurora.Services.DataService.Connectors.Database.Asset.Lo
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a59e3806cb431af1200c471cefb6896dd"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#a59e3806cb431af1200c471cefb6896dd">Delete</a> (UUID id)</td></tr>
 <tr class="memdesc:a59e3806cb431af1200c471cefb6896dd"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete the asset from the database and file system.  <a href="#a59e3806cb431af1200c471cefb6896dd"></a><br/></td></tr>
-<tr class="memitem:a3ab76f3d13cd05933c4f1eb734e33362"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a3ab76f3d13cd05933c4f1eb734e33362"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>Delete</b> (UUID id, bool ignoreFlags)</td></tr>
+<tr class="memitem:a3ab76f3d13cd05933c4f1eb734e33362"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#a3ab76f3d13cd05933c4f1eb734e33362">Delete</a> (UUID id, bool ignoreFlags)</td></tr>
+<tr class="memdesc:a3ab76f3d13cd05933c4f1eb734e33362"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delete the asset from the database and file system and ignores the asset flags.  <a href="#a3ab76f3d13cd05933c4f1eb734e33362"></a><br/></td></tr>
 <tr class="memitem:aee86d0105d7943eca0392f7ad7b4ef62"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#aee86d0105d7943eca0392f7ad7b4ef62">ExistsAsset</a> (UUID uuid)</td></tr>
 <tr class="memdesc:aee86d0105d7943eca0392f7ad7b4ef62"><td class="mdescLeft">&#160;</td><td class="mdescRight">Check to see if a asset exists.  <a href="#aee86d0105d7943eca0392f7ad7b4ef62"></a><br/></td></tr>
-<tr class="memitem:ad7d449d8d8d3a70a2c824e03cf4497b1"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad7d449d8d8d3a70a2c824e03cf4497b1"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>FileCheck</b> (string hashCode, byte[] results, bool waserror)</td></tr>
 <tr class="memitem:abbb9a69c4d14153bbd8c5aa1ac489708"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#abbb9a69c4d14153bbd8c5aa1ac489708">GetAsset</a> (UUID uuid)</td></tr>
 <tr class="memdesc:abbb9a69c4d14153bbd8c5aa1ac489708"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a asset.  <a href="#abbb9a69c4d14153bbd8c5aa1ac489708"></a><br/></td></tr>
 <tr class="memitem:a5f38ab563d948fab36792d6918e18446"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#a5f38ab563d948fab36792d6918e18446">GetMeta</a> (UUID uuid)</td></tr>
 <tr class="memdesc:a5f38ab563d948fab36792d6918e18446"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get a asset without the actual data. You can always use MetaOnly Property to deterine if its there.  <a href="#a5f38ab563d948fab36792d6918e18446"></a><br/></td></tr>
 <tr class="memitem:aa508f5d70ccd841038c05a89602cff61"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#aa508f5d70ccd841038c05a89602cff61">Initialize</a> (<a class="el" href="../../d4/d82/interfaceAurora_1_1Framework_1_1IGenericData.html">IGenericData</a> genericData, IConfigSource source, <a class="el" href="../../d0/dda/interfaceAurora_1_1Framework_1_1IRegistryCore.html">IRegistryCore</a> simBase, string defaultConnectionString)</td></tr>
-<tr class="memdesc:aa508f5d70ccd841038c05a89602cff61"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the database plugin, performs migrations if needed.  <a href="#aa508f5d70ccd841038c05a89602cff61"></a><br/></td></tr>
-<tr class="memitem:acc1edd64881d7a3e2edf36a18012bb75"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="acc1edd64881d7a3e2edf36a18012bb75"></a>
-UUID&#160;</td><td class="memItemRight" valign="bottom"><b>Store</b> (<a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a> asset)</td></tr>
+<tr class="memdesc:aa508f5d70ccd841038c05a89602cff61"><td class="mdescLeft">&#160;</td><td class="mdescRight">Part of the Iservice.  <a href="#aa508f5d70ccd841038c05a89602cff61"></a><br/></td></tr>
+<tr class="memitem:acc1edd64881d7a3e2edf36a18012bb75"><td class="memItemLeft" align="right" valign="top">UUID&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#acc1edd64881d7a3e2edf36a18012bb75">Store</a> (<a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a> asset)</td></tr>
+<tr class="memdesc:acc1edd64881d7a3e2edf36a18012bb75"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores the <a class="el" href="../../de/de6/namespaceAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset.html">Asset</a> in the database.  <a href="#acc1edd64881d7a3e2edf36a18012bb75"></a><br/></td></tr>
 <tr class="memitem:abb2c726f460ae4b5b161f9418d3dbee9"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#abb2c726f460ae4b5b161f9418d3dbee9">StoreAsset</a> (<a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a> asset)</td></tr>
 <tr class="memdesc:abb2c726f460ae4b5b161f9418d3dbee9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stores the <a class="el" href="../../de/de6/namespaceAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset.html">Asset</a> in the database.  <a href="#abb2c726f460ae4b5b161f9418d3dbee9"></a><br/></td></tr>
-<tr class="memitem:aaef3c90b38b2001683769944b22017ef"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aaef3c90b38b2001683769944b22017ef"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>updateAccessTime</b> (string databaseTable, UUID assetID)</td></tr>
-<tr class="memitem:afd29989b7d413e2eec99d3cbba4ea840"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="afd29989b7d413e2eec99d3cbba4ea840"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>UpdateContent</b> (UUID id, byte[] assetdata, out UUID newID)</td></tr>
+<tr class="memitem:afd29989b7d413e2eec99d3cbba4ea840"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#afd29989b7d413e2eec99d3cbba4ea840">UpdateContent</a> (UUID id, byte[] assetdata, out UUID newID)</td></tr>
+<tr class="memdesc:afd29989b7d413e2eec99d3cbba4ea840"><td class="mdescLeft">&#160;</td><td class="mdescRight">Update just the content of the asset, will return a UUID.Zero if the asset does not exist. So check that afterwards.  <a href="#afd29989b7d413e2eec99d3cbba4ea840"></a><br/></td></tr>
 <tr><td colspan="2"><h2><a name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:ab56f7d0894b67eaa9198dc59b8015a2f"><td class="memItemLeft" align="right" valign="top">string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#ab56f7d0894b67eaa9198dc59b8015a2f">Name</a><code> [get]</code></td></tr>
-<tr class="memdesc:ab56f7d0894b67eaa9198dc59b8015a2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns the plugin name.  <a href="#ab56f7d0894b67eaa9198dc59b8015a2f"></a><br/></td></tr>
+<tr class="memdesc:ab56f7d0894b67eaa9198dc59b8015a2f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets interface name.  <a href="#ab56f7d0894b67eaa9198dc59b8015a2f"></a><br/></td></tr>
 </table>
 <hr/><h2>Member Function Documentation</h2>
 <a class="anchor" id="a59e3806cb431af1200c471cefb6896dd"></a>
@@ -175,6 +171,44 @@ Properties</h2></td></tr>
 <div class="memdoc">
 
 <p>Delete the asset from the database and file system. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>UUID of the asset you wish to delete</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+
+<p>Implements <a class="el" href="../../df/d35/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAssetDataPlugin.html">OpenSim.Services.Interfaces.IAssetDataPlugin</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a3ab76f3d13cd05933c4f1eb734e33362"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool <a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#a59e3806cb431af1200c471cefb6896dd">Aurora.Services.DataService.Connectors.Database.Asset.LocalAssetBlackholeConnector.Delete</a> </td>
+          <td>(</td>
+          <td class="paramtype">UUID&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>ignoreFlags</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Delete the asset from the database and file system and ignores the asset flags. </p>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
     <tr><td class="paramname">id</td><td>UUID of the asset you wish to delete</td></tr>
@@ -279,7 +313,7 @@ Properties</h2></td></tr>
           <td class="memname">void <a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#aa508f5d70ccd841038c05a89602cff61">Aurora.Services.DataService.Connectors.Database.Asset.LocalAssetBlackholeConnector.Initialize</a> </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../d4/d82/interfaceAurora_1_1Framework_1_1IGenericData.html">IGenericData</a>&#160;</td>
-          <td class="paramname"><em>GenericData</em>, </td>
+          <td class="paramname"><em>genericData</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -297,7 +331,7 @@ Properties</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>DefaultConnectionString</em>&#160;</td>
+          <td class="paramname"><em>defaultConnectionString</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -308,17 +342,46 @@ Properties</h2></td></tr>
 </div>
 <div class="memdoc">
 
-<p>Starts the database plugin, performs migrations if needed. </p>
+<p>Part of the Iservice. </p>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
-    <tr><td class="paramname">GenericData</td><td>The <a class="el" href="../../d5/d23/namespaceAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database.html">Database</a> Plugin</td></tr>
-    <tr><td class="paramname">source</td><td>Config if more parameters are needed</td></tr>
-    <tr><td class="paramname">DefaultConnectionString</td><td>The connection string to use</td></tr>
+    <tr><td class="paramname">genericData</td><td></td></tr>
+    <tr><td class="paramname">source</td><td></td></tr>
+    <tr><td class="paramname">simBase</td><td></td></tr>
+    <tr><td class="paramname">defaultConnectionString</td><td></td></tr>
   </table>
   </dd>
 </dl>
 
 <p>Implements <a class="el" href="../../d9/d9d/interfaceAurora_1_1Framework_1_1IAuroraDataPlugin.html#a7df81030ff57ccf902ba3f9ae24989ce">Aurora.Framework.IAuroraDataPlugin</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="acc1edd64881d7a3e2edf36a18012bb75"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">UUID <a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#acc1edd64881d7a3e2edf36a18012bb75">Aurora.Services.DataService.Connectors.Database.Asset.LocalAssetBlackholeConnector.Store</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d3/df2/classAurora_1_1Framework_1_1AssetBase.html">AssetBase</a>&#160;</td>
+          <td class="paramname"><em>asset</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Stores the <a class="el" href="../../de/de6/namespaceAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset.html">Asset</a> in the database. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">asset</td><td><a class="el" href="../../de/de6/namespaceAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset.html">Asset</a> you wish to store</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+
+<p>Implements <a class="el" href="../../df/d35/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAssetDataPlugin.html">OpenSim.Services.Interfaces.IAssetDataPlugin</a>.</p>
 
 </div>
 </div>
@@ -350,6 +413,51 @@ Properties</h2></td></tr>
 
 </div>
 </div>
+<a class="anchor" id="afd29989b7d413e2eec99d3cbba4ea840"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../df/d87/classAurora_1_1Services_1_1DataService_1_1Connectors_1_1Database_1_1Asset_1_1LocalAssetBlackholeConnector.html#afd29989b7d413e2eec99d3cbba4ea840">Aurora.Services.DataService.Connectors.Database.Asset.LocalAssetBlackholeConnector.UpdateContent</a> </td>
+          <td>(</td>
+          <td class="paramtype">UUID&#160;</td>
+          <td class="paramname"><em>id</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">byte[]&#160;</td>
+          <td class="paramname"><em>assetdata</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">out UUID&#160;</td>
+          <td class="paramname"><em>newID</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Update just the content of the asset, will return a UUID.Zero if the asset does not exist. So check that afterwards. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">id</td><td>UUID of asset you want to change</td></tr>
+    <tr><td class="paramname">assetdata</td><td></td></tr>
+    <tr><td class="paramname">newID</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Implements <a class="el" href="../../df/d35/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAssetDataPlugin.html">OpenSim.Services.Interfaces.IAssetDataPlugin</a>.</p>
+
+</div>
+</div>
 <hr/><h2>Property Documentation</h2>
 <a class="anchor" id="ab56f7d0894b67eaa9198dc59b8015a2f"></a>
 <div class="memitem">
@@ -362,8 +470,7 @@ Properties</h2></td></tr>
 </div>
 <div class="memdoc">
 
-<p>Returns the plugin name. </p>
-<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+<p>Gets interface name. </p>
 
 <p>Implements <a class="el" href="../../d9/d9d/interfaceAurora_1_1Framework_1_1IAuroraDataPlugin.html#a4a4ae03501675dec14259faab8b8c438">Aurora.Framework.IAuroraDataPlugin</a>.</p>
 

@@ -148,7 +148,7 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a4d185a45dd6ae181ae65927224b79b08"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d14/interfaceOpenSim_1_1Services_1_1Interfaces_1_1ISimulationService.html#a4d185a45dd6ae181ae65927224b79b08">Init</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene)</td></tr>
 <tr class="memdesc:a4d185a45dd6ae181ae65927224b79b08"><td class="mdescLeft">&#160;</td><td class="mdescRight">Add and set up the scene for the simulation module.  <a href="#a4d185a45dd6ae181ae65927224b79b08"></a><br/></td></tr>
 <tr class="memitem:adf94c5410201532b0c1ecf4818e4380e"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d14/interfaceOpenSim_1_1Services_1_1Interfaces_1_1ISimulationService.html#adf94c5410201532b0c1ecf4818e4380e">MakeChildAgent</a> (UUID AgentID, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> Region)</td></tr>
-<tr class="memdesc:adf94c5410201532b0c1ecf4818e4380e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes a root agent into a child agent in the given region.  <a href="#adf94c5410201532b0c1ecf4818e4380e"></a><br/></td></tr>
+<tr class="memdesc:adf94c5410201532b0c1ecf4818e4380e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes a root agent into a child agent in the given region DOES mark the agent as leaving (removes attachments among other things)  <a href="#adf94c5410201532b0c1ecf4818e4380e"></a><br/></td></tr>
 <tr class="memitem:a0cc2f5aa6eed6ffcfc6e0f310965d216"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d14/interfaceOpenSim_1_1Services_1_1Interfaces_1_1ISimulationService.html#a0cc2f5aa6eed6ffcfc6e0f310965d216">RemoveScene</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene)</td></tr>
 <tr class="memdesc:a0cc2f5aa6eed6ffcfc6e0f310965d216"><td class="mdescLeft">&#160;</td><td class="mdescRight">Remove the scene from the list of known scenes.  <a href="#a0cc2f5aa6eed6ffcfc6e0f310965d216"></a><br/></td></tr>
 <tr class="memitem:a50b77b094c18e55d837cad029e79db04"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../df/d14/interfaceOpenSim_1_1Services_1_1Interfaces_1_1ISimulationService.html#a50b77b094c18e55d837cad029e79db04">RetrieveAgent</a> (<a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> destination, UUID id, bool agentIsLeaving, out <a class="el" href="../../d2/d7d/classAurora_1_1Framework_1_1AgentData.html">AgentData</a> agent, out <a class="el" href="../../d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html">AgentCircuitData</a> circuitData)</td></tr>
@@ -488,7 +488,7 @@ Public Member Functions</h2></td></tr>
 </div>
 <div class="memdoc">
 
-<p>Makes a root agent into a child agent in the given region. </p>
+<p>Makes a root agent into a child agent in the given region DOES mark the agent as leaving (removes attachments among other things) </p>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
     <tr><td class="paramname">AgentID</td><td></td></tr>

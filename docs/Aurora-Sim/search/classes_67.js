@@ -10,6 +10,7 @@ var searchData=
   ['geomclass',['GeomClass',['../d7/db9/structOdeAPI_1_1d_1_1GeomClass.html',1,'OdeAPI::d']]],
   ['gesturesmodule',['GesturesModule',['../d7/d04/classAurora_1_1Modules_1_1Gestures_1_1GesturesModule.html',1,'Aurora::Modules::Gestures']]],
   ['gif',['GIF',['../d9/dcf/classAurora_1_1Modules_1_1Terrain_1_1FileLoaders_1_1GIF.html',1,'Aurora::Modules::Terrain::FileLoaders']]],
+  ['githubupdaterplugin',['GitHubUpdaterPlugin',['../d6/d0b/classOpenSim_1_1CoreApplicationPlugins_1_1GitHubUpdaterPlugin.html',1,'OpenSim::CoreApplicationPlugins']]],
   ['globaldefinitions',['GlobalDefinitions',['../da/dcb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions.html',1,'Aurora::ScriptEngine::AuroraDotNetEngine::CompilerTools']]],
   ['globaldefinitions_5f1',['GlobalDefinitions_1',['../d5/d78/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__1.html',1,'Aurora::ScriptEngine::AuroraDotNetEngine::CompilerTools']]],
   ['globaldefinitions_5f2',['GlobalDefinitions_2',['../d0/d18/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__2.html',1,'Aurora::ScriptEngine::AuroraDotNetEngine::CompilerTools']]],

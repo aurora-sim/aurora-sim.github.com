@@ -164,6 +164,8 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>FinishedStart
 <tr class="memdesc:a6bcf7f22250c0732dff349af8c770bc6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get the current flags of the given region.  <a href="#a6bcf7f22250c0732dff349af8c770bc6"></a><br/></td></tr>
 <tr class="memitem:a360704ffc4e11443a9c3a00a6c679eae"><td class="memItemLeft" align="right" valign="top">virtual List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a360704ffc4e11443a9c3a00a6c679eae">GetRegionRange</a> (UUID scopeID, int xmin, int xmax, int ymin, int ymax)</td></tr>
 <tr class="memdesc:a360704ffc4e11443a9c3a00a6c679eae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get all regions within the range of (xmin - xmax, ymin - ymax) (in meters)  <a href="#a360704ffc4e11443a9c3a00a6c679eae"></a><br/></td></tr>
+<tr class="memitem:ab1e465763049cf5c7d68047cacbbb19f"><td class="memItemLeft" align="right" valign="top">virtual List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#ab1e465763049cf5c7d68047cacbbb19f">GetRegionRange</a> (UUID scopeID, float centerX, float centerY, uint squareRangeFromCenterInMeters)</td></tr>
+<tr class="memdesc:ab1e465763049cf5c7d68047cacbbb19f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get all regions within the range of specified center.  <a href="#ab1e465763049cf5c7d68047cacbbb19f"></a><br/></td></tr>
 <tr class="memitem:a74763241589b0e611b51c5cfae9035ae"><td class="memItemLeft" align="right" valign="top">virtual List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a74763241589b0e611b51c5cfae9035ae">GetRegionsByName</a> (UUID scopeID, string name, int maxNumber)</td></tr>
 <tr class="memdesc:a74763241589b0e611b51c5cfae9035ae"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get information about regions starting with the provided name.  <a href="#a74763241589b0e611b51c5cfae9035ae"></a><br/></td></tr>
 <tr class="memitem:a47b6b5bf37987c069ad20a21a760835a"><td class="memItemLeft" align="right" valign="top">virtual int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a47b6b5bf37987c069ad20a21a760835a">GetRegionViewSize</a> ()</td></tr>
@@ -663,6 +665,59 @@ virtual string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><co
 <dl class="section return"><dt>Returns:</dt><dd></dd></dl>
 
 <p>Implements <a class="el" href="../../d9/d12/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IGridService.html#aa006a7b21de9ee2a3ebc75a82c1bc12d">OpenSim.Services.Interfaces.IGridService</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="ab1e465763049cf5c7d68047cacbbb19f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">virtual List&lt;<a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a>&gt; <a class="el" href="../../d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a360704ffc4e11443a9c3a00a6c679eae">OpenSim.Services.GridService.GridService.GetRegionRange</a> </td>
+          <td>(</td>
+          <td class="paramtype">UUID&#160;</td>
+          <td class="paramname"><em>scopeID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>centerX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>centerY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint&#160;</td>
+          <td class="paramname"><em>squareRangeFromCenterInMeters</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td><code> [virtual]</code></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Get all regions within the range of specified center. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">scopeID</td><td></td></tr>
+    <tr><td class="paramname">centerX</td><td></td></tr>
+    <tr><td class="paramname">centerY</td><td></td></tr>
+    <tr><td class="paramname">squareRangeFromCenterInMeters</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+
+<p>Implements <a class="el" href="../../d9/d12/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IGridService.html#aafb140357981b6c61de7fcdf52ba0bc4">OpenSim.Services.Interfaces.IGridService</a>.</p>
 
 </div>
 </div>

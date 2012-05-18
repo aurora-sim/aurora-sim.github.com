@@ -34,6 +34,7 @@ var interfaceAurora_1_1Framework_1_1IScenePresence =
     [ "AgentControlFlags", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#a72b6099da0f1e9474222dc930a8c7d3a", null ],
     [ "AllowMovement", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#a55bf43272a960840019acce0b49babbd", null ],
     [ "Animator", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#a38e87503dabea8c6e3edae85ea6fbf7d", null ],
+    [ "AttachmentsLoaded", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#a15f1313d6a384e3f7549169a6dd149ee", null ],
     [ "CallbackURI", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#acae0b83c2b2ed685e80b114a61d68256", null ],
     [ "CameraAtAxis", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#a25cca4616f9aa8bbebb42fbd1ae32695", null ],
     [ "CameraPosition", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html#aae3740ddb08c4262044b399c779099a8", null ],

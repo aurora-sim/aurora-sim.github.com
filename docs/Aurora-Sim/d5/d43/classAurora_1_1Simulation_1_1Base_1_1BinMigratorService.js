@@ -9,6 +9,7 @@ var classAurora_1_1Simulation_1_1Base_1_1BinMigratorService =
     [ "RunMigration5", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#af509cf5826daf12c3781317664a86977", null ],
     [ "RunMigration6", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#a4c8e8f36bca181bcd0dd847c1dba22e2", null ],
     [ "RunMigration7", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#af1562d1883fd591d6d49a1780ef62749", null ],
+    [ "RunMigration8", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#a271979684e84444c0e13ae14fba9cc21", null ],
     [ "SetBinVersion", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#a20ac9cb7f0a023c5a28668f4761a6b47", null ],
     [ "UpgradeToTarget", "d5/d43/classAurora_1_1Simulation_1_1Base_1_1BinMigratorService.html#aca813074841092e1bc59e7765ccfc8b8", null ]
 ];

@@ -29,31 +29,20 @@ var hierarchy =
     [ "Aurora.Modules.Archivers.ArchiveWriteRequestPreparation", "dc/d08/classAurora_1_1Modules_1_1Archivers_1_1ArchiveWriteRequestPreparation.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Argument", "d3/d3e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Argument.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ExpressionArgument", "df/d72/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ExpressionArgument.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ExpressionArgument_1", "dd/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ExpressionArgument__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ExpressionArgument_1", "dd/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ExpressionArgument__1.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ExpressionArgument", "df/d72/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ExpressionArgument.html", null ]
+      ] ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentDeclarationList", "d4/d1e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentDeclarationList.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentDeclarationList_1", "da/d7e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentDeclarationList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentDeclarationList_1", "da/d7e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentDeclarationList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentDeclarationList_2", "d1/dff/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentDeclarationList__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentDeclarationList_2", "d1/dff/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentDeclarationList__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_3", "df/d65/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_3", "df/d65/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__3.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_4", "d3/db9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__4.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_4", "d3/db9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__4.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_5", "dd/d6f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__5.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentDeclarationList_5", "dd/d6f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentDeclarationList__5.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentList", "d6/d5b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentList.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentList_1", "d0/df7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentList_1", "d0/df7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentList_2", "df/d38/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentList__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ArgumentList_2", "df/d38/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ArgumentList__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentList_3", "d0/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentList__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentList_3", "d0/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentList__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentList_4", "d5/d1b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentList__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.yyLSLSyntax.ArgumentList_4", "d5/d1b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1yyLSLSyntax_1_1ArgumentList__4.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.AssemblyResolver", "d4/dab/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1AssemblyResolver.html", null ],
@@ -65,60 +54,33 @@ var hierarchy =
     [ "Aurora.Modules.Agent.AssetTransaction.AssetXferUploader", "d5/db7/classAurora_1_1Modules_1_1Agent_1_1AssetTransaction_1_1AssetXferUploader.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Assignment", "d1/d20/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Assignment.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Assignment_1", "d6/d1a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Assignment__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Assignment_1", "d6/d1a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Assignment__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Assignment_2", "df/da1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Assignment__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Assignment_2", "df/da1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Assignment__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment", "d9/db8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_1", "d9/d68/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_1", "d9/d68/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_10", "de/d49/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__10.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_10", "de/d49/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__10.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_11", "d6/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__11.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_11", "d6/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__11.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_12", "dd/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__12.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_12", "dd/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__12.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_13", "d1/dbb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__13.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_13", "d1/dbb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__13.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_14", "d4/d30/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__14.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_14", "d4/d30/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__14.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_15", "d2/dc8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__15.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_15", "d2/dc8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__15.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_16", "db/d29/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__16.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_16", "db/d29/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__16.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_17", "df/dab/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__17.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_17", "df/dab/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__17.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_18", "d4/ddf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__18.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_18", "d4/ddf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__18.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_19", "d7/d08/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__19.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_19", "d7/d08/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__19.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_2", "db/d95/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_2", "db/d95/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_20", "d4/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__20.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_20", "d4/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__20.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_21", "db/d3b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__21.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_21", "db/d3b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__21.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_22", "d6/d61/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__22.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_22", "d6/d61/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__22.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_23", "d9/dc7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__23.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_23", "d9/dc7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__23.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_24", "dc/dfe/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__24.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_24", "dc/dfe/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__24.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_3", "d1/dd5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__3.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_3", "d1/dd5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__3.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_4", "dd/d6a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__4.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_4", "dd/d6a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__4.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_5", "d7/d5d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__5.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_5", "d7/d5d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__5.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_6", "d8/d37/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__6.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_6", "d8/d37/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__6.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_7", "de/d66/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__7.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_7", "de/d66/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__7.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_8", "db/d0d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_8", "db/d0d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_9", "d2/d2a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__9.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment_9", "d2/d2a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment__9.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.SimpleAssignment", "d9/db8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1SimpleAssignment.html", null ]
+      ] ]
     ] ],
     [ "Games.Pathfinding.AStar", "dc/d9a/classGames_1_1Pathfinding_1_1AStar.html", null ],
     [ "Games.Pathfinding.AStarNode", "d6/d2f/classGames_1_1Pathfinding_1_1AStarNode.html", [
@@ -223,8 +185,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Compiler", "d3/db1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Compiler.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.CompoundStatement", "dd/d3c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1CompoundStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.CompoundStatement_1", "d3/de4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1CompoundStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.CompoundStatement_1", "d3/de4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1CompoundStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.CompoundStatement_2", "d7/d0c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1CompoundStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.CompoundStatement_2", "d7/d0c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1CompoundStatement__2.html", null ]
     ] ],
     [ "OpenSim.Region.Physics.ConvexDecompositionDotNet.Concavity", "d5/d62/classOpenSim_1_1Region_1_1Physics_1_1ConvexDecompositionDotNet_1_1Concavity.html", null ],
@@ -267,28 +227,18 @@ var hierarchy =
     [ "Aurora.Framework.ConsolePluginCommand", "dd/dda/classAurora_1_1Framework_1_1ConsolePluginCommand.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant", "d2/dd1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_1", "d9/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_1", "d9/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_2", "dd/d71/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_2", "dd/d71/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_3", "d7/d93/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_3", "d7/d93/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_4", "d0/d80/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Constant_4", "d0/d80/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Constant__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ListConstant", "db/d88/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ListConstant.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ListConstant_1", "d8/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ListConstant__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ListConstant_1", "d8/d7a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ListConstant__1.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ListConstant", "db/d88/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ListConstant.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.RotationConstant", "dd/d42/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1RotationConstant.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.RotationConstant_1", "d2/d63/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1RotationConstant__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.RotationConstant_1", "d2/d63/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1RotationConstant__1.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.RotationConstant", "dd/d42/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1RotationConstant.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.VectorConstant", "d7/d02/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1VectorConstant.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.VectorConstant_1", "d9/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1VectorConstant__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.VectorConstant_1", "d9/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1VectorConstant__1.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.VectorConstant", "d7/d02/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1VectorConstant.html", null ]
+      ] ]
     ] ],
     [ "Aurora.Framework.Constants", "d1/d8e/classAurora_1_1Framework_1_1Constants.html", null ],
     [ "OdeAPI.d.Contact", "de/de3/structOdeAPI_1_1d_1_1Contact.html", null ],
@@ -318,7 +268,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DATASERVER_EVENT", "d8/d8d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DATASERVER__EVENT.html", null ],
     [ "Aurora.DataManager.DBGuid", "d2/dc8/classAurora_1_1DataManager_1_1DBGuid.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Declaration", "dc/d71/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Declaration.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Declaration_1", "d5/dd4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Declaration__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Declaration_1", "d5/dd4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Declaration__1.html", null ]
     ] ],
     [ "OpenSim.Region.Physics.ConvexDecompositionDotNet.DecompDesc", "d0/db7/classOpenSim_1_1Region_1_1Physics_1_1ConvexDecompositionDotNet_1_1DecompDesc.html", null ],
@@ -333,8 +282,6 @@ var hierarchy =
     [ "Aurora.Framework.DoubleValueDictionary< TKey, TValue1, TValue2 >", "d8/d3b/classAurora_1_1Framework_1_1DoubleValueDictionary-g.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DoWhileStatement", "d5/d6e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DoWhileStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DoWhileStatement_1", "d3/df6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DoWhileStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DoWhileStatement_1", "d3/df6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DoWhileStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DoWhileStatement_2", "de/db5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DoWhileStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.DoWhileStatement_2", "de/db5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1DoWhileStatement__2.html", null ]
     ] ],
     [ "Aurora.Modules.WorldMap.DrawStruct", "d9/d78/structAurora_1_1Modules_1_1WorldMap_1_1DrawStruct.html", null ],
@@ -347,7 +294,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ELSE", "d9/d97/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ELSE.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.EMAIL_EVENT", "d3/df2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1EMAIL__EVENT.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.EmptyStatement", "dd/d74/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1EmptyStatement.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.EmptyStatement_1", "d1/ddb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1EmptyStatement__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.EmptyStatement_1", "d1/ddb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1EmptyStatement__1.html", null ]
     ] ],
     [ "Aurora.Framework.EntityIntersection", "df/d30/classAurora_1_1Framework_1_1EntityIntersection.html", null ],
@@ -363,79 +309,44 @@ var hierarchy =
     [ "Aurora.Modules.Estate.EstateTerrainXferHandler", "d8/dc2/classAurora_1_1Modules_1_1Estate_1_1EstateTerrainXferHandler.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event", "d2/df4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_1", "d4/d8d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_1", "d4/d8d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_10", "de/de0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__10.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_10", "de/de0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__10.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_11", "d9/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__11.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_11", "d9/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__11.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_12", "d4/de9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__12.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_12", "d4/de9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__12.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_13", "d3/d2c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__13.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_13", "d3/d2c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__13.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_14", "d6/dcd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__14.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_14", "d6/dcd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__14.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_15", "d6/d19/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__15.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_15", "d6/d19/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__15.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_16", "df/dff/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__16.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_16", "df/dff/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__16.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_17", "d1/d99/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__17.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_17", "d1/d99/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__17.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_18", "d5/ddb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__18.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_18", "d5/ddb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__18.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_19", "d6/db2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__19.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_19", "d6/db2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__19.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_2", "de/da8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_2", "de/da8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_20", "d8/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__20.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_20", "d8/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__20.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_21", "d4/dc1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__21.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_21", "d4/dc1/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__21.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_22", "dc/deb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__22.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_22", "dc/deb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__22.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_23", "da/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__23.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_23", "da/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__23.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_24", "d2/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__24.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_24", "d2/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__24.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_25", "d4/de2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__25.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_25", "d4/de2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__25.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_26", "d1/dbb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__26.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_26", "d1/dbb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__26.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_27", "df/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__27.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_27", "df/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__27.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_28", "dd/dbd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__28.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_28", "dd/dbd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__28.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_29", "d2/db6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__29.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_29", "d2/db6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__29.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_3", "d5/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_3", "d5/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_30", "d7/d0d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__30.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_30", "d7/d0d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__30.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_31", "d0/d9b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__31.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_31", "d0/d9b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__31.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_32", "d0/db7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__32.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_32", "d0/db7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__32.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_33", "de/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__33.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_33", "de/d1f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__33.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_34", "df/d11/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__34.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_34", "df/d11/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__34.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_35", "d9/da9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__35.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_35", "d9/da9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__35.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_4", "d4/d13/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_4", "d4/d13/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_5", "d5/d05/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__5.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_5", "d5/d05/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__5.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_6", "d0/dce/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__6.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_6", "d0/dce/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__6.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_7", "d7/dc8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__7.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_7", "d7/dc8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__7.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_8", "db/d1b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__8.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_8", "db/d1b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__8.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_9", "db/d27/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__9.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Event_9", "db/d27/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Event__9.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.EventAbortException", "d7/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1EventAbortException.html", null ],
-    [ "Aurora.Framework.EventManager", "dc/d3f/classAurora_1_1Framework_1_1EventManager.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.EventManager", "da/d3d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1EventManager.html", null ],
+    [ "Aurora.Framework.EventManager", "dc/d3f/classAurora_1_1Framework_1_1EventManager.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.EventParams", "d5/dff/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1EventParams.html", null ],
     [ "OpenSim.Services.CapsService.EventQueueHelper", "df/dd6/classOpenSim_1_1Services_1_1CapsService_1_1EventQueueHelper.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.EXCLAMATION", "d8/dd5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1EXCLAMATION.html", null ],
@@ -445,119 +356,66 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Expression", "dc/d5a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Expression.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression", "df/d11/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_1", "d4/d23/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_1", "d4/d23/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_10", "db/d6d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__10.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_10", "db/d6d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__10.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_11", "db/d00/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__11.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_11", "db/d00/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__11.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_12", "dd/d3d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__12.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_12", "dd/d3d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__12.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_13", "d7/de0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__13.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_13", "d7/de0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__13.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_14", "d7/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__14.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_14", "d7/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__14.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_15", "d2/db4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__15.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_15", "d2/db4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__15.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_16", "d3/d67/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__16.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_16", "d3/d67/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__16.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_17", "d9/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__17.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_17", "d9/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__17.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_18", "d5/d4f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__18.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_18", "d5/d4f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__18.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_2", "db/dfa/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__2.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_2", "db/dfa/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__2.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_3", "dd/d9a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__3.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_3", "dd/d9a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__3.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_4", "d6/d58/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__4.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_4", "d6/d58/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__4.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_5", "dd/dba/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__5.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_5", "dd/dba/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__5.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_6", "da/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__6.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_6", "da/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__6.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_7", "df/d66/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__7.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_7", "df/d66/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__7.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_8", "dc/d46/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_8", "dc/d46/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_9", "d1/dcd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__9.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression_9", "d1/dcd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression__9.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.BinaryExpression", "df/d11/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1BinaryExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ConstantExpression", "d9/d56/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ConstantExpression.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ConstantExpression_1", "d0/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ConstantExpression__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ConstantExpression_1", "d0/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ConstantExpression__1.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ConstantExpression", "d9/d56/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ConstantExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCallExpression", "df/d8f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCallExpression.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCallExpression_1", "d6/d7c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCallExpression__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCallExpression_1", "d6/d7c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCallExpression__1.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCallExpression", "df/d8f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCallExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentExpression", "d2/df6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentDotExpression", "d1/d07/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentDotExpression.html", [
-          [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentDotExpression_1", "d9/d8e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentDotExpression__1.html", null ],
           [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentDotExpression_1", "d9/d8e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentDotExpression__1.html", null ]
         ] ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentDotExpression", "d1/d07/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentDotExpression.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentExpression_1", "d2/d81/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentExpression__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentExpression_1", "d2/d81/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentExpression__1.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IdentExpression", "d2/df6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IdentExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression", "de/dc4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_1", "d0/d08/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_1", "d0/d08/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_2", "d6/de7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_2", "d6/de7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_3", "d6/d4c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__3.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_3", "d6/d4c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__3.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_4", "df/d6e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__4.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_4", "df/d6e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__4.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_5", "d7/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__5.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_5", "d7/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__5.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_6", "d2/da8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__6.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_6", "d2/da8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__6.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_7", "d4/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__7.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_7", "d4/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__7.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_8", "da/d28/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__8.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression_8", "da/d28/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression__8.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IncrementDecrementExpression", "de/dc4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IncrementDecrementExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression", "da/dc5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression_1", "df/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression_1", "df/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression_2", "d1/dea/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression_2", "d1/dea/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression__2.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ParenthesisExpression", "da/dc5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ParenthesisExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression", "d1/d83/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_1", "db/d8c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_1", "db/d8c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_2", "d0/d9d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_2", "d0/d9d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__2.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_3", "d8/dcf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__3.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_3", "d8/dcf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__3.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_4", "de/d53/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__4.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_4", "de/d53/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__4.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_5", "df/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__5.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_5", "df/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__5.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_6", "d0/de3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__6.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_6", "d0/de3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__6.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_7", "d6/dc4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__7.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_7", "d6/dc4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__7.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_8", "d5/db3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_8", "d5/db3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__8.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_9", "d7/d89/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__9.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression_9", "d7/d89/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression__9.html", null ]
       ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.TypecastExpression", "d1/d83/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1TypecastExpression.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression", "d0/d0c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression.html", [
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_1", "d4/dab/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__1.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_1", "d4/dab/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__1.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_2", "d0/d62/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__2.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_2", "d0/d62/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__2.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_3", "d6/dd6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__3.html", null ],
         [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression_3", "d6/dd6/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression__3.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.UnaryExpression", "d0/d0c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1UnaryExpression.html", null ]
+      ] ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Extension", "da/dbc/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Extension.html", null ],
     [ "Aurora.Framework.Extensions", "d5/d8f/classAurora_1_1Framework_1_1Extensions.html", null ],
@@ -578,22 +436,15 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FOR", "d5/dfc/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FOR.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoop", "d8/d06/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoop.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoop_1", "dc/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoop__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoop_1", "dc/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoop__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoop_2", "df/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoop__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoop_2", "df/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoop__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement", "db/dcb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_1", "da/dbc/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_1", "da/dbc/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_2", "db/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_2", "db/dd8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_3", "dc/d09/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_3", "dc/d09/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_4", "d4/dd4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ForLoopStatement_4", "d4/dd4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ForLoopStatement__4.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCall", "de/d03/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCall.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCall_1", "db/db5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCall__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.FunctionCall_1", "db/db5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1FunctionCall__1.html", null ]
     ] ],
     [ "Aurora.Framework.GenericAccountCache< T >", "df/dd9/classAurora_1_1Framework_1_1GenericAccountCache-g.html", null ],
@@ -601,24 +452,16 @@ var hierarchy =
     [ "OdeAPI.d.GeomClass", "d7/db9/structOdeAPI_1_1d_1_1GeomClass.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions", "da/dcb/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_1", "d5/d78/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_1", "d5/d78/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_2", "d0/d18/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_2", "d0/d18/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_3", "db/daa/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_3", "db/daa/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_4", "d0/d1d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalDefinitions_4", "d0/d1d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalDefinitions__4.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalFunctionDefinition", "d6/d5c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalFunctionDefinition.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalFunctionDefinition_1", "db/df4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalFunctionDefinition__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalFunctionDefinition_1", "db/df4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalFunctionDefinition__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalFunctionDefinition_2", "d4/dcf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalFunctionDefinition__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalFunctionDefinition_2", "d4/dcf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalFunctionDefinition__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalVariableDeclaration", "d0/d52/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalVariableDeclaration.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalVariableDeclaration_1", "d5/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalVariableDeclaration__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalVariableDeclaration_1", "d5/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalVariableDeclaration__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalVariableDeclaration_2", "de/def/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalVariableDeclaration__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GlobalVariableDeclaration_2", "de/def/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GlobalVariableDeclaration__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.GREATER_EQUALS", "d4/de2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1GREATER__EQUALS.html", null ],
@@ -674,6 +517,7 @@ var hierarchy =
     [ "Aurora.Framework.IApplicationPlugin", "d5/d31/interfaceAurora_1_1Framework_1_1IApplicationPlugin.html", [
       [ "Aurora.Modules.Monitoring.MonitorModule", "d7/d29/classAurora_1_1Modules_1_1Monitoring_1_1MonitorModule.html", null ],
       [ "OpenSim.CoreApplicationPlugins.AuroraDataStartupPlugin", "d6/d98/classOpenSim_1_1CoreApplicationPlugins_1_1AuroraDataStartupPlugin.html", null ],
+      [ "OpenSim.CoreApplicationPlugins.GitHubUpdaterPlugin", "d6/d0b/classOpenSim_1_1CoreApplicationPlugins_1_1GitHubUpdaterPlugin.html", null ],
       [ "OpenSim.CoreApplicationPlugins.LoadRegionsPlugin", "db/de2/classOpenSim_1_1CoreApplicationPlugins_1_1LoadRegionsPlugin.html", null ],
       [ "OpenSim.CoreApplicationPlugins.RegionModulesControllerPlugin", "d0/d19/classOpenSim_1_1CoreApplicationPlugins_1_1RegionModulesControllerPlugin.html", null ],
       [ "OpenSim.CoreApplicationPlugins.RemoteAdminPlugin", "d9/d9f/classOpenSim_1_1CoreApplicationPlugins_1_1RemoteAdminPlugin.html", null ],
@@ -993,18 +837,6 @@ var hierarchy =
       [ "Aurora.Modules.Scripting.LoadImageURLModule", "dd/dd7/classAurora_1_1Modules_1_1Scripting_1_1LoadImageURLModule.html", null ],
       [ "Aurora.Modules.Scripting.VectorRenderModule", "d4/df9/classAurora_1_1Modules_1_1Scripting_1_1VectorRenderModule.html", null ]
     ] ],
-    [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IEntity", "df/d8f/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IEntity.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IAvatar", "da/d54/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IAvatar.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SPAvatar", "d6/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SPAvatar.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SPAvatar", "d6/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SPAvatar.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IAvatar", "da/d54/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IAvatar.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IObject", "d1/dd7/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IObject.html", [
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SOPObject", "df/d79/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SOPObject.html", null ],
-        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SOPObject", "df/d79/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SOPObject.html", null ]
-      ] ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IObject", "d1/dd7/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IObject.html", null ]
-    ] ],
     [ "Aurora.Framework.IEntity", "db/dc4/interfaceAurora_1_1Framework_1_1IEntity.html", [
       [ "Aurora.Framework.EntityBase", "d1/d03/classAurora_1_1Framework_1_1EntityBase.html", [
         [ "OpenSim.Region.Framework.Scenes.SceneObjectGroup", "d7/d2d/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1SceneObjectGroup.html", null ],
@@ -1023,6 +855,18 @@ var hierarchy =
       [ "Aurora.Framework.IScenePresence", "dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html", [
         [ "OpenSim.Region.Framework.Scenes.ScenePresence", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html", null ]
       ] ]
+    ] ],
+    [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IEntity", "df/d8f/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IEntity.html", [
+      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IAvatar", "da/d54/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IAvatar.html", [
+        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SPAvatar", "d6/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SPAvatar.html", null ],
+        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SPAvatar", "d6/d22/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SPAvatar.html", null ]
+      ] ],
+      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IAvatar", "da/d54/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IAvatar.html", null ],
+      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IObject", "d1/dd7/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IObject.html", [
+        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SOPObject", "df/d79/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SOPObject.html", null ],
+        [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.SOPObject", "df/d79/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1SOPObject.html", null ]
+      ] ],
+      [ "Aurora.ScriptEngine.AuroraDotNetEngine.MiniModule.IObject", "d1/dd7/interfaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1MiniModule_1_1IObject.html", null ]
     ] ],
     [ "OpenSim.Region.Framework.Interfaces.IEntityCountModule", "dc/dc0/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityCountModule.html", [
       [ "Aurora.Modules.Entities.EntityCount.EntityCountModule", "df/d7e/classAurora_1_1Modules_1_1Entities_1_1EntityCount_1_1EntityCountModule.html", null ]
@@ -1064,12 +908,8 @@ var hierarchy =
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement", "d6/df7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_1", "d4/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_1", "d4/dd9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_2", "da/d82/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_2", "da/d82/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_3", "d9/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_3", "d9/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_4", "d3/d8e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.IfStatement_4", "d3/d8e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1IfStatement__4.html", null ]
     ] ],
     [ "Aurora.Framework.CnmMemoryCache< TKey, TValue >.IGeneration", "df/d31/interfaceAurora_1_1Framework_1_1CnmMemoryCache-g_1_1IGeneration.html", null ],
@@ -1917,11 +1757,9 @@ var hierarchy =
     [ "OdeAPI.d.JointFeedback", "d0/dac/structOdeAPI_1_1d_1_1JointFeedback.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JUMP", "de/d31/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JUMP.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpLabel", "d9/df3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpLabel.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpLabel_1", "d1/dea/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpLabel__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpLabel_1", "d1/dea/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpLabel__1.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpStatement", "d9/d00/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpStatement.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpStatement_1", "de/d2d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpStatement__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.JumpStatement_1", "de/d2d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1JumpStatement__1.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.key", "d7/d67/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1key.html", null ],
@@ -1974,8 +1812,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.LSLInteger", "d3/da2/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1LSLInteger.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.LSLProgramRoot", "d9/d44/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1LSLProgramRoot.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.LSLProgramRoot_1", "d9/da2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1LSLProgramRoot__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.LSLProgramRoot_1", "d9/da2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1LSLProgramRoot__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.LSLProgramRoot_2", "d4/d33/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1LSLProgramRoot__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.LSLProgramRoot_2", "d4/d33/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1LSLProgramRoot__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.LSLString", "d6/d07/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1LSLString.html", null ],
@@ -2110,8 +1946,8 @@ var hierarchy =
     [ "OpenSim.Services.ProviderMemoryStore", "d9/d1b/classOpenSim_1_1Services_1_1ProviderMemoryStore.html", null ],
     [ "Aurora.Simulation.Base.WebUtils.QBasedComparer", "d3/d6b/classAurora_1_1Simulation_1_1Base_1_1WebUtils_1_1QBasedComparer.html", null ],
     [ "PrimMesher.Quat", "d8/d7e/structPrimMesher_1_1Quat.html", null ],
-    [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.Quaternion", "d6/d50/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1Quaternion.html", null ],
     [ "OdeAPI.d.Quaternion", "dd/df7/structOdeAPI_1_1d_1_1Quaternion.html", null ],
+    [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.Quaternion", "d6/d50/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1Quaternion.html", null ],
     [ "Aurora.Framework.QueryFilter", "d8/dc0/classAurora_1_1Framework_1_1QueryFilter.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.QueueItemStruct", "dc/d1a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1QueueItemStruct.html", null ],
     [ "OpenSim.Region.Physics.BulletSPlugin.RaycastHit", "d0/d77/structOpenSim_1_1Region_1_1Physics_1_1BulletSPlugin_1_1RaycastHit.html", null ],
@@ -2137,8 +1973,6 @@ var hierarchy =
     [ "OpenSim.Region.Framework.Scenes.ReturnInfo", "d8/d53/structOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ReturnInfo.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ReturnStatement", "d8/d0d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ReturnStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ReturnStatement_1", "d7/d30/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ReturnStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ReturnStatement_1", "d7/d30/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ReturnStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ReturnStatement_2", "d8/d4c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ReturnStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.ReturnStatement_2", "d8/d4c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1ReturnStatement__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.RIGHT_ANGLE", "d1/d8e/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1RIGHT__ANGLE.html", null ],
@@ -2188,8 +2022,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.StartPerformanceQueue", "d1/db9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1StartPerformanceQueue.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.State", "d6/d3a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1State.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.State_1", "d1/d21/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1State__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.State_1", "d1/d21/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1State__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.State_2", "dd/d06/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1State__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.State_2", "dd/d06/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1State__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.STATE", "de/d3a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1STATE.html", null ],
@@ -2197,59 +2029,37 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.STATE_EXIT_EVENT", "d9/dad/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1STATE__EXIT__EVENT.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateBody", "de/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateBody.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateBody_1", "dc/dfd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateBody__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateBody_1", "dc/dfd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateBody__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateBody_2", "d9/de9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateBody__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateBody_2", "d9/de9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateBody__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateChange", "d4/d79/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateChange.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateChange_1", "d2/d44/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateChange__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateChange_1", "d2/d44/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateChange__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateChange_2", "d5/d15/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateChange__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateChange_2", "d5/d15/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateChange__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateEvent", "d5/d57/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateEvent.html", [
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateEvent_1", "dd/d4f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateEvent__1.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StateEvent_1", "dd/d4f/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StateEvent__1.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement", "d3/d05/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_1", "df/d58/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_1", "df/d58/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_10", "d6/d14/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__10.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_10", "d6/d14/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__10.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_11", "dc/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__11.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_11", "dc/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__11.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_12", "de/d94/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__12.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_12", "de/d94/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__12.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_13", "dd/ddd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__13.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_13", "dd/ddd/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__13.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_2", "d9/dd5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_2", "d9/dd5/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_3", "d1/d64/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_3", "d1/d64/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_4", "d7/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_4", "d7/dd3/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_5", "d2/df7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__5.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_5", "d2/df7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__5.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_6", "df/d81/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__6.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_6", "df/d81/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__6.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_7", "d3/dc9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__7.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_7", "d3/dc9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__7.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_8", "d1/def/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__8.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_8", "d1/def/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__8.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_9", "d8/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__9.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Statement_9", "d8/df8/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Statement__9.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StatementList", "d2/d45/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StatementList.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StatementList_1", "df/d6b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StatementList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StatementList_1", "df/d6b/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StatementList__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StatementList_2", "dc/d0a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StatementList__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.StatementList_2", "dc/d0a/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1StatementList__2.html", null ]
     ] ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.StateQueueItem", "d4/d5b/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1StateQueueItem.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.States", "da/de2/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1States.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.States_1", "d6/d1d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1States__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.States_1", "d6/d1d/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1States__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.States_2", "d6/d9c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1States__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.States_2", "d6/d9c/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1States__2.html", null ]
     ] ],
     [ "Aurora.Modules.Monitoring.BinaryLoggingModule.StatLogger", "d3/d3f/classAurora_1_1Modules_1_1Monitoring_1_1BinaryLoggingModule_1_1StatLogger.html", null ],
@@ -2297,18 +2107,11 @@ var hierarchy =
     [ "Triangle", "d2/d51/classTriangle.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename", "d7/d60/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_1", "de/d47/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_1", "de/d47/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_2", "d5/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_2", "d5/d91/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_3", "dd/db9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_3", "dd/db9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__3.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_4", "dd/d83/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_4", "dd/d83/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__4.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_5", "db/dc9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__5.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_5", "db/dc9/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__5.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_6", "df/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__6.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_6", "df/dd0/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__6.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_7", "dc/dd7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__7.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.Typename_7", "dc/dd7/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1Typename__7.html", null ]
     ] ],
     [ "OpenSim.Region.ClientStack.LindenUDP.UDPprioQueue", "dd/d30/classOpenSim_1_1Region_1_1ClientStack_1_1LindenUDP_1_1UDPprioQueue.html", null ],
@@ -2327,8 +2130,8 @@ var hierarchy =
     [ "Aurora.Framework.Util", "d1/d30/classAurora_1_1Framework_1_1Util.html", null ],
     [ "Aurora.Framework.Utilities", "df/dca/classAurora_1_1Framework_1_1Utilities.html", null ],
     [ "PrimMesher.UVCoord", "d0/d7d/structPrimMesher_1_1UVCoord.html", null ],
-    [ "OdeAPI.d.Vector3", "d2/d60/structOdeAPI_1_1d_1_1Vector3.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.LSL_Types.Vector3", "d1/da9/structAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1LSL__Types_1_1Vector3.html", null ],
+    [ "OdeAPI.d.Vector3", "d2/d60/structOdeAPI_1_1d_1_1Vector3.html", null ],
     [ "OdeAPI.d.Vector4", "d5/dbb/structOdeAPI_1_1d_1_1Vector4.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.VECTOR_TYPE", "d4/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1VECTOR__TYPE.html", null ],
     [ "Aurora.Framework.VersionInfo", "d8/d72/classAurora_1_1Framework_1_1VersionInfo.html", null ],
@@ -2346,8 +2149,6 @@ var hierarchy =
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WHILE", "da/d31/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WHILE.html", null ],
     [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WhileStatement", "d1/d66/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WhileStatement.html", [
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WhileStatement_1", "d0/db4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WhileStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WhileStatement_1", "d0/db4/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WhileStatement__1.html", null ],
-      [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WhileStatement_2", "d1/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WhileStatement__2.html", null ],
       [ "Aurora.ScriptEngine.AuroraDotNetEngine.CompilerTools.WhileStatement_2", "d1/d26/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1CompilerTools_1_1WhileStatement__2.html", null ]
     ] ],
     [ "Amib.Threading.WIGStartInfo", "d3/daf/classAmib_1_1Threading_1_1WIGStartInfo.html", [

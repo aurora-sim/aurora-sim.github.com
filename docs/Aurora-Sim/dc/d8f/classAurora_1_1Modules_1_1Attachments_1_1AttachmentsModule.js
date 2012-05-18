@@ -19,6 +19,7 @@ var classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule =
     [ "RemoveRegion", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#a195218c8e43a6b44b05d70892b8add45", null ],
     [ "ResumeAvatar", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#a609881e8e2931268db29a660a585eb5a", null ],
     [ "RezSingleAttachmentFromInventory", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#aaaf313d8ece15961bdcae9adf2f6c68f", null ],
+    [ "SendAttachmentsToPresence", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#acebd2b72f1f07289f83477a46ec76bb5", null ],
     [ "SendKillEntity", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#a5f8ddf4256c02369c01cefc21ad8ead2", null ],
     [ "SendScriptEventToAttachments", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#aed71364b834f1acd325f1ebf49f76686", null ],
     [ "SubscribeToClientEvents", "dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#aa3b43540149186f8860537b0bb1b4be9", null ],

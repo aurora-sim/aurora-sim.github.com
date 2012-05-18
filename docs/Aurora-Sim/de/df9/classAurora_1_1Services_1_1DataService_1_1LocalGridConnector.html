@@ -162,6 +162,8 @@ List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces
 List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Get</b> (uint start, uint count, uint estateID, RegionFlags flags, Dictionary&lt; string, bool &gt; sort)</td></tr>
 <tr class="memitem:a0246dae3bb69575715aa95b6cc511aa3"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a0246dae3bb69575715aa95b6cc511aa3"></a>
 List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>Get</b> (RegionFlags includeFlags, RegionFlags excludeFlags, uint?start, uint?count, Dictionary&lt; string, bool &gt; sort)</td></tr>
+<tr class="memitem:aebda1db6b6cceaf14ae91fbad01779bf"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#aebda1db6b6cceaf14ae91fbad01779bf">Get</a> (UUID scopeID, UUID excludeRegion, float centerX, float centerY, uint squareRangeFromCenterInMeters)</td></tr>
+<tr class="memdesc:aebda1db6b6cceaf14ae91fbad01779bf"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets all regions within squareRangeFromCenterInMeters meters of centerX and centerY.  <a href="#aebda1db6b6cceaf14ae91fbad01779bf"></a><br/></td></tr>
 <tr class="memitem:ad6959beed91b320f28e45d8b0ac9f341"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad6959beed91b320f28e45d8b0ac9f341"></a>
 List&lt; <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GetDefaultRegions</b> (UUID scopeID)</td></tr>
 <tr class="memitem:ab9006352f067c97872cce4c36fa09bd5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab9006352f067c97872cce4c36fa09bd5"></a>
@@ -222,6 +224,64 @@ Properties</h2></td></tr>
 <dl class="section return"><dt>Returns:</dt><dd></dd></dl>
 
 <p>Implements <a class="el" href="../../d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#aa49262972e44cf74632411ee63c6365a">Aurora.Framework.IRegionData</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="aebda1db6b6cceaf14ae91fbad01779bf"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a>&gt; Aurora.Services.DataService.LocalGridConnector.Get </td>
+          <td>(</td>
+          <td class="paramtype">UUID&#160;</td>
+          <td class="paramname"><em>scopeID</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">UUID&#160;</td>
+          <td class="paramname"><em>excludeRegion</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>centerX</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>centerY</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">uint&#160;</td>
+          <td class="paramname"><em>squareRangeFromCenterInMeters</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Gets all regions within squareRangeFromCenterInMeters meters of centerX and centerY. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">centerX</td><td></td></tr>
+    <tr><td class="paramname">centerY</td><td></td></tr>
+    <tr><td class="paramname">squareRangeFromCenterInMeters</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+
+<p>Implements <a class="el" href="../../d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#a3f8cd7d1ed5d0a5989ce249b6b867040">Aurora.Framework.IRegionData</a>.</p>
 
 </div>
 </div>

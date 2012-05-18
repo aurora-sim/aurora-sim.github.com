@@ -129,6 +129,7 @@ var classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence =
     [ "AgentControlFlags", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a93e3b7a6ffe27d089cad4e41f5b43194", null ],
     [ "AllowMovement", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a75a69bc91fcd818af42457e833c03d2e", null ],
     [ "Animator", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a8479d3481a31bf88e470aca9e0d4e3c3", null ],
+    [ "AttachmentsLoaded", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a6d7cb6a8c1899b83f173ec7e02cccc1e", null ],
     [ "CallbackURI", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a83c9b88404409906945ea9ee5de94dc7", null ],
     [ "CameraAtAxis", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#a3b87ce95d3b9b0d061dc03c326d88c23", null ],
     [ "CameraLeftAxis", "d2/d61/classOpenSim_1_1Region_1_1Framework_1_1Scenes_1_1ScenePresence.html#abe4ef4f04101f3265048b3559c7f3802", null ],

@@ -9,7 +9,7 @@ var interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModu
     [ "IncomingCreateObject", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a430633ff4b8010a05ba51e7f485ad089", null ],
     [ "IncomingCreateObject", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a1b380ee4a7527099453ccc0bcae1547d", null ],
     [ "IncomingRetrieveRootAgent", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a5f1c4de2b321832a15f74eb1856ce940", null ],
-    [ "MakeChildAgent", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a092541fad8e539b3e10aa0364fc519e5", null ],
+    [ "MakeChildAgent", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a0857636c904ab8c2c8d0cd74646c081a", null ],
     [ "NewUserConnection", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a8718584741918acef8d8bd7a1350f94d", null ],
     [ "RequestTeleportLocation", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a8082ad26e081700f047331f603774947", null ],
     [ "RequestTeleportLocation", "d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a7d29e8f11d924fae9577c69e02cc12fd", null ],

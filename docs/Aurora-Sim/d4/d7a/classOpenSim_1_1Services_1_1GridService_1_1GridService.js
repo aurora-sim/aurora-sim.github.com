@@ -14,6 +14,7 @@ var classOpenSim_1_1Services_1_1GridService_1_1GridService =
     [ "GetRegionByUUID", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a0625cc4e2e613f1ed22b0bc1be466626", null ],
     [ "GetRegionFlags", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a6bcf7f22250c0732dff349af8c770bc6", null ],
     [ "GetRegionRange", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a360704ffc4e11443a9c3a00a6c679eae", null ],
+    [ "GetRegionRange", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#ab1e465763049cf5c7d68047cacbbb19f", null ],
     [ "GetRegionsByName", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a74763241589b0e611b51c5cfae9035ae", null ],
     [ "GetRegionViewSize", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a47b6b5bf37987c069ad20a21a760835a", null ],
     [ "GetSafeRegions", "d4/d7a/classOpenSim_1_1Services_1_1GridService_1_1GridService.html#a7b878e557bb0964e0c119e188ad90ecf", null ],

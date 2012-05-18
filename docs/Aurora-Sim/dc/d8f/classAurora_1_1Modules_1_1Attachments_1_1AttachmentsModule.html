@@ -161,6 +161,8 @@ Public Member Functions</h2></td></tr>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>ResumeAvatar</b> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> presence)</td></tr>
 <tr class="memitem:aaaf313d8ece15961bdcae9adf2f6c68f"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d3/d0c/interfaceAurora_1_1Framework_1_1ISceneEntity.html">ISceneEntity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#aaaf313d8ece15961bdcae9adf2f6c68f">RezSingleAttachmentFromInventory</a> (<a class="el" href="../../d6/d22/interfaceAurora_1_1Framework_1_1IClientAPI.html">IClientAPI</a> remoteClient, UUID itemID, UUID assetID, int AttachmentPt, bool updateUUIDs)</td></tr>
 <tr class="memdesc:aaaf313d8ece15961bdcae9adf2f6c68f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Rez an attachment from user inventory.  <a href="#aaaf313d8ece15961bdcae9adf2f6c68f"></a><br/></td></tr>
+<tr class="memitem:acebd2b72f1f07289f83477a46ec76bb5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#acebd2b72f1f07289f83477a46ec76bb5">SendAttachmentsToPresence</a> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> receiver, <a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> sender)</td></tr>
+<tr class="memdesc:acebd2b72f1f07289f83477a46ec76bb5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send updates for all attachments to the given presences.  <a href="#acebd2b72f1f07289f83477a46ec76bb5"></a><br/></td></tr>
 <tr class="memitem:aed71364b834f1acd325f1ebf49f76686"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#aed71364b834f1acd325f1ebf49f76686">SendScriptEventToAttachments</a> (UUID avatarID, string eventName, Object[] args)</td></tr>
 <tr class="memdesc:aed71364b834f1acd325f1ebf49f76686"><td class="mdescLeft">&#160;</td><td class="mdescRight">Send a script event to this scene presence's attachments.  <a href="#aed71364b834f1acd325f1ebf49f76686"></a><br/></td></tr>
 <tr class="memitem:a142b8926e7159aa0e4ffe85402a3bc03"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a142b8926e7159aa0e4ffe85402a3bc03"></a>
@@ -630,6 +632,44 @@ Properties</h2></td></tr>
 </dl>
 
 <p>Implements <a class="el" href="../../d0/d47/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IAttachmentsModule.html#a7882f56a9290392d8ae00b0329c0ad26">OpenSim.Region.Framework.Interfaces.IAttachmentsModule</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="acebd2b72f1f07289f83477a46ec76bb5"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../dc/d8f/classAurora_1_1Modules_1_1Attachments_1_1AttachmentsModule.html#acebd2b72f1f07289f83477a46ec76bb5">Aurora.Modules.Attachments.AttachmentsModule.SendAttachmentsToPresence</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a>&#160;</td>
+          <td class="paramname"><em>receiver</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a>&#160;</td>
+          <td class="paramname"><em>sender</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Send updates for all attachments to the given presences. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">receiver</td><td></td></tr>
+    <tr><td class="paramname">sender</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Implements <a class="el" href="../../d0/d47/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IAttachmentsModule.html#a727a85a22430d9214a9e6f2e3fb6d01f">OpenSim.Region.Framework.Interfaces.IAttachmentsModule</a>.</p>
 
 </div>
 </div>

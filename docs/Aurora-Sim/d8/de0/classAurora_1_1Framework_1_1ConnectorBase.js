@@ -11,6 +11,8 @@ var classAurora_1_1Framework_1_1ConnectorBase =
     [ "m_doRemoteCalls", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a87124a97c129a6d1c2dc09712327f81f", null ],
     [ "m_doRemoteOnly", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#adafddb844d17b0f6ce8277fafb011b0a", null ],
     [ "m_name", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#aaa7bff5328ada57c1a45c590a44ea351", null ],
+    [ "m_OSDRequestTimeout", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a11b0cfbbcbc3bfc7499478c49d9724f5", null ],
+    [ "m_OSDRequestTryCount", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a3186e75064c74d32804c78c1918ffeb3", null ],
     [ "m_registry", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a160fd7f89079a07b872ec2bd11b6aa56", null ],
     [ "Enabled", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a4896aa3c45af0cccedfde6fcb03ec2e4", null ],
     [ "m_configService", "d8/de0/classAurora_1_1Framework_1_1ConnectorBase.html#a3eb88c0bef99158715a4f0cac543d94e", null ],

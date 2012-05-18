@@ -13,6 +13,7 @@ var classAurora_1_1Modules_1_1IWCGridConnector =
     [ "GetRegionByUUID", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#ad88844318de3acec55caac248a8c846b", null ],
     [ "GetRegionFlags", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#aefd35ff0c3167530cf5c23e4adc50d57", null ],
     [ "GetRegionRange", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#af94eb23d3b50fe72ec7a83570a273ecc", null ],
+    [ "GetRegionRange", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#a1496fb2b2e8dc3b5fbc2dc8e20485d50", null ],
     [ "GetRegionsByName", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#a70c5b13ec40d7243d0446d4d1d51f8c4", null ],
     [ "GetRegionViewSize", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#ada7bbdb8824bd933b1ecfab70558fdeb", null ],
     [ "GetSafeRegions", "d5/d40/classAurora_1_1Modules_1_1IWCGridConnector.html#a3d59bb24abb70cc34727aaeb6c3f5ee3", null ],

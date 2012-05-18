@@ -138,14 +138,18 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a7b63f3f4742f906c28afaca084c0a553"><td class="mdescLeft">&#160;</td><td class="mdescRight">All modules have started up and it is ready to run.  <a href="#a7b63f3f4742f906c28afaca084c0a553"></a><br/></td></tr>
 <tr class="memitem:a102e8d1414cf42926dc1bca38769e83e"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a102e8d1414cf42926dc1bca38769e83e">GetAbuseReport</a> (int Number, string Password)</td></tr>
 <tr class="memdesc:a102e8d1414cf42926dc1bca38769e83e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the abuse report associated with the number and uses the pass to authenticate.  <a href="#a102e8d1414cf42926dc1bca38769e83e"></a><br/></td></tr>
-<tr class="memitem:ab7dadb08bb6f4dc9d71e02ee33846a30"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#ab7dadb08bb6f4dc9d71e02ee33846a30">GetAbuseReports</a> (int start, int count, string filter)</td></tr>
-<tr class="memdesc:ab7dadb08bb6f4dc9d71e02ee33846a30"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets a collection of abuse reports.  <a href="#ab7dadb08bb6f4dc9d71e02ee33846a30"></a><br/></td></tr>
+<tr class="memitem:a25c56b5db912d4b3bba143b4ca5ad4a1"><td class="memItemLeft" align="right" valign="top"><a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a25c56b5db912d4b3bba143b4ca5ad4a1">GetAbuseReport</a> (int Number)</td></tr>
+<tr class="memdesc:a25c56b5db912d4b3bba143b4ca5ad4a1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Cannot be reflected on purpose, so it can only be used locally. Gets the abuse report associated with the number without authentication.  <a href="#a25c56b5db912d4b3bba143b4ca5ad4a1"></a><br/></td></tr>
+<tr class="memitem:a0e51a469ef7d5da728c3bae3b9e8377f"><td class="memItemLeft" align="right" valign="top">List&lt; <a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a> &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a0e51a469ef7d5da728c3bae3b9e8377f">GetAbuseReports</a> (int start, int count, bool active)</td></tr>
+<tr class="memdesc:a0e51a469ef7d5da728c3bae3b9e8377f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets a collection of abuse reports.  <a href="#a0e51a469ef7d5da728c3bae3b9e8377f"></a><br/></td></tr>
 <tr class="memitem:aad6841b7b153813bec3771ddff11eae1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#aad6841b7b153813bec3771ddff11eae1">Initialize</a> (IConfigSource config, <a class="el" href="../../d0/dda/interfaceAurora_1_1Framework_1_1IRegistryCore.html">IRegistryCore</a> registry)</td></tr>
 <tr class="memdesc:aad6841b7b153813bec3771ddff11eae1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set up and register the module NOTE: Do NOT load module interfaces from this method, wait until PostInit runs NOTE: This is normally used to set up the 'base' services, ones that should be used in standalone or <a class="el" href="../../d2/d50/namespaceAurora_1_1Server.html">Aurora.Server</a>.  <a href="#aad6841b7b153813bec3771ddff11eae1"></a><br/></td></tr>
 <tr class="memitem:af3c28e00ac7af7b8de1a77cb9489a30d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#af3c28e00ac7af7b8de1a77cb9489a30d">Start</a> (IConfigSource config, <a class="el" href="../../d0/dda/interfaceAurora_1_1Framework_1_1IRegistryCore.html">IRegistryCore</a> registry)</td></tr>
 <tr class="memdesc:af3c28e00ac7af7b8de1a77cb9489a30d"><td class="mdescLeft">&#160;</td><td class="mdescRight">Load other IService modules now that this is set up NOTE: This is normally used to load remote connectors for remote grid mode.  <a href="#af3c28e00ac7af7b8de1a77cb9489a30d"></a><br/></td></tr>
 <tr class="memitem:a3fad6052ac3c4a43b65baf5947973764"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a3fad6052ac3c4a43b65baf5947973764">UpdateAbuseReport</a> (<a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a> report, string Password)</td></tr>
 <tr class="memdesc:a3fad6052ac3c4a43b65baf5947973764"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates an abuse report and authenticates with the password.  <a href="#a3fad6052ac3c4a43b65baf5947973764"></a><br/></td></tr>
+<tr class="memitem:a0408365bec04fe807c54f0ca80591927"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a0408365bec04fe807c54f0ca80591927">UpdateAbuseReport</a> (<a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a> report)</td></tr>
+<tr class="memdesc:a0408365bec04fe807c54f0ca80591927"><td class="mdescLeft">&#160;</td><td class="mdescRight">Updates an abuse report without authentication.  <a href="#a0408365bec04fe807c54f0ca80591927"></a><br/></td></tr>
 <tr><td colspan="2"><h2><a name="properties"></a>
 Properties</h2></td></tr>
 <tr class="memitem:aadcb11e2526957456a368f451f23788a"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aadcb11e2526957456a368f451f23788a"></a>
@@ -239,12 +243,40 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><code> [get
 
 </div>
 </div>
-<a class="anchor" id="ab7dadb08bb6f4dc9d71e02ee33846a30"></a>
+<a class="anchor" id="a25c56b5db912d4b3bba143b4ca5ad4a1"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">List&lt;<a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a>&gt; <a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#ab7dadb08bb6f4dc9d71e02ee33846a30">OpenSim.Services.AbuseReports.AbuseReportsService.GetAbuseReports</a> </td>
+          <td class="memname"><a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a> <a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a102e8d1414cf42926dc1bca38769e83e">OpenSim.Services.AbuseReports.AbuseReportsService.GetAbuseReport</a> </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>Number</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Cannot be reflected on purpose, so it can only be used locally. Gets the abuse report associated with the number without authentication. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">Number</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns:</dt><dd></dd></dl>
+
+<p>Implements <a class="el" href="../../d5/d9e/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAbuseReports.html#adc372be3e0c18763b6df52049a2bd082">OpenSim.Services.Interfaces.IAbuseReports</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a0e51a469ef7d5da728c3bae3b9e8377f"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">List&lt;<a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a>&gt; <a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a0e51a469ef7d5da728c3bae3b9e8377f">OpenSim.Services.AbuseReports.AbuseReportsService.GetAbuseReports</a> </td>
           <td>(</td>
           <td class="paramtype">int&#160;</td>
           <td class="paramname"><em>start</em>, </td>
@@ -258,8 +290,8 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><code> [get
         <tr>
           <td class="paramkey"></td>
           <td></td>
-          <td class="paramtype">string&#160;</td>
-          <td class="paramname"><em>filter</em>&#160;</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>active</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -281,7 +313,7 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><code> [get
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd></dd></dl>
 
-<p>Implements <a class="el" href="../../d5/d9e/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAbuseReports.html#aef3a7b372d0e9caddd0f2bf9a594e38c">OpenSim.Services.Interfaces.IAbuseReports</a>.</p>
+<p>Implements <a class="el" href="../../d5/d9e/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAbuseReports.html#a885809c3b11ea9b512f3847db8634599">OpenSim.Services.Interfaces.IAbuseReports</a>.</p>
 
 </div>
 </div>
@@ -396,6 +428,33 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><code> [get
 </dl>
 
 <p>Implements <a class="el" href="../../d5/d9e/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAbuseReports.html#af9412ea1b48e13fda4deb786a9fe4faf">OpenSim.Services.Interfaces.IAbuseReports</a>.</p>
+
+</div>
+</div>
+<a class="anchor" id="a0408365bec04fe807c54f0ca80591927"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d7/d16/classOpenSim_1_1Services_1_1AbuseReports_1_1AbuseReportsService.html#a3fad6052ac3c4a43b65baf5947973764">OpenSim.Services.AbuseReports.AbuseReportsService.UpdateAbuseReport</a> </td>
+          <td>(</td>
+          <td class="paramtype"><a class="el" href="../../d7/d8b/classOpenSim_1_1Services_1_1Interfaces_1_1AbuseReport.html">AbuseReport</a>&#160;</td>
+          <td class="paramname"><em>report</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>Updates an abuse report without authentication. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">report</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+
+<p>Implements <a class="el" href="../../d5/d9e/interfaceOpenSim_1_1Services_1_1Interfaces_1_1IAbuseReports.html#a89b4f2f1e24c298cde01f964b068fa1b">OpenSim.Services.Interfaces.IAbuseReports</a>.</p>
 
 </div>
 </div>

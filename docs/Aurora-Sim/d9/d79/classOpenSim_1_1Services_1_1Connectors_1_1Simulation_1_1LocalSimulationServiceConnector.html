@@ -154,7 +154,7 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsLocalRegion</b> (ul
 <tr class="memitem:a9552592e1a33fc6066c519d9c47c4a71"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a9552592e1a33fc6066c519d9c47c4a71"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsLocalRegion</b> (UUID id)</td></tr>
 <tr class="memitem:ad3a8d4fef272ace2a23d285b8e5f8199"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/classOpenSim_1_1Services_1_1Connectors_1_1Simulation_1_1LocalSimulationServiceConnector.html#ad3a8d4fef272ace2a23d285b8e5f8199">MakeChildAgent</a> (UUID AgentID, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> destination)</td></tr>
-<tr class="memdesc:ad3a8d4fef272ace2a23d285b8e5f8199"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes a root agent into a child agent in the given region.  <a href="#ad3a8d4fef272ace2a23d285b8e5f8199"></a><br/></td></tr>
+<tr class="memdesc:ad3a8d4fef272ace2a23d285b8e5f8199"><td class="mdescLeft">&#160;</td><td class="mdescRight">Makes a root agent into a child agent in the given region DOES mark the agent as leaving (removes attachments among other things)  <a href="#ad3a8d4fef272ace2a23d285b8e5f8199"></a><br/></td></tr>
 <tr class="memitem:a8d8a6482106ed5cf36a619fca6f9cbc1"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/classOpenSim_1_1Services_1_1Connectors_1_1Simulation_1_1LocalSimulationServiceConnector.html#a8d8a6482106ed5cf36a619fca6f9cbc1">RemoveScene</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene)</td></tr>
 <tr class="memdesc:a8d8a6482106ed5cf36a619fca6f9cbc1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Can be called from other modules.  <a href="#a8d8a6482106ed5cf36a619fca6f9cbc1"></a><br/></td></tr>
 <tr class="memitem:a7bc0a84074c71485fca31469b68daa2b"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d79/classOpenSim_1_1Services_1_1Connectors_1_1Simulation_1_1LocalSimulationServiceConnector.html#a7bc0a84074c71485fca31469b68daa2b">RetrieveAgent</a> (<a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> destination, UUID id, bool agentIsLeaving, out <a class="el" href="../../d2/d7d/classAurora_1_1Framework_1_1AgentData.html">AgentData</a> agent, out <a class="el" href="../../d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html">AgentCircuitData</a> circuitData)</td></tr>
@@ -537,7 +537,7 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>Name</b><code> [get
 </div>
 <div class="memdoc">
 
-<p>Makes a root agent into a child agent in the given region. </p>
+<p>Makes a root agent into a child agent in the given region DOES mark the agent as leaving (removes attachments among other things) </p>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
     <tr><td class="paramname">AgentID</td><td></td></tr>

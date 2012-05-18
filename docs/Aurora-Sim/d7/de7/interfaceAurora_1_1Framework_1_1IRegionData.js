@@ -12,6 +12,7 @@ var interfaceAurora_1_1Framework_1_1IRegionData =
     [ "Get", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#ae8481bb540d4e150fa8eea8a758681ff", null ],
     [ "Get", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#a26467446a8c518a1643658918d7d4709", null ],
     [ "Get", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#a26cea9f4cc1aa40f61e91c5225772fe0", null ],
+    [ "Get", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#a3f8cd7d1ed5d0a5989ce249b6b867040", null ],
     [ "GetDefaultRegions", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#a952f242da436ff859d25e066b11d9549", null ],
     [ "GetFallbackRegions", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#afe0f42f7b4e1fa1fd43b79a217093da4", null ],
     [ "GetNeighbours", "d7/de7/interfaceAurora_1_1Framework_1_1IRegionData.html#adef264d0bc3933ac797ba047313b58cb", null ],

@@ -122,10 +122,10 @@ var searchBox = new SearchBox("searchBox", "../../search",false,'Search');
 <table class="memberdecls">
 <tr><td colspan="2"><h2><a name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:a6f6dc904dfd08242222fcb410cff46a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1ScriptData.html#a6f6dc904dfd08242222fcb410cff46a7">CloseAndDispose</a> (bool shouldbackup)</td></tr>
-<tr class="memdesc:a6f6dc904dfd08242222fcb410cff46a7"><td class="mdescLeft">&#160;</td><td class="mdescRight">This closes the scrpit, removes it from any known spots, and disposes of itself.  <a href="#a6f6dc904dfd08242222fcb410cff46a7"></a><br/></td></tr>
 <tr class="memitem:a9e4bc827b4b23c8f19b0a06cca44fad5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1ScriptData.html#a9e4bc827b4b23c8f19b0a06cca44fad5">CloseAndDispose</a> (bool Silent)</td></tr>
 <tr class="memdesc:a9e4bc827b4b23c8f19b0a06cca44fad5"><td class="mdescLeft">&#160;</td><td class="mdescRight">This closes the scrpit, removes it from any known spots, and disposes of itself.  <a href="#a9e4bc827b4b23c8f19b0a06cca44fad5"></a><br/></td></tr>
+<tr class="memitem:a6f6dc904dfd08242222fcb410cff46a7"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d7/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1ScriptData.html#a6f6dc904dfd08242222fcb410cff46a7">CloseAndDispose</a> (bool shouldbackup)</td></tr>
+<tr class="memdesc:a6f6dc904dfd08242222fcb410cff46a7"><td class="mdescLeft">&#160;</td><td class="mdescRight">This closes the scrpit, removes it from any known spots, and disposes of itself.  <a href="#a6f6dc904dfd08242222fcb410cff46a7"></a><br/></td></tr>
 <tr class="memitem:a4fec40bf415efc4f9860de893a0598ea"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4fec40bf415efc4f9860de893a0598ea"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>DisplayUserNotification</b> (string message, string stage, bool postScriptCAPSError, bool IsError)</td></tr>
 <tr class="memitem:a4fec40bf415efc4f9860de893a0598ea"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4fec40bf415efc4f9860de893a0598ea"></a>
@@ -164,6 +164,10 @@ Dictionary&lt; string, <a class="el" href="../../d6/d3b/interfaceAurora_1_1Scrip
 AppDomain&#160;</td><td class="memItemRight" valign="bottom"><b>AppDomain</b></td></tr>
 <tr class="memitem:ab8c269a73abf711a4fa747d5275303d6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ab8c269a73abf711a4fa747d5275303d6"></a>
 string&#160;</td><td class="memItemRight" valign="bottom"><b>AssemblyName</b></td></tr>
+<tr class="memitem:a7d3eefb4793c78ed6e41fa135b92383b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a7d3eefb4793c78ed6e41fa135b92383b"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AtRotTargetInQueue</b></td></tr>
+<tr class="memitem:a89d74b1a19287af8099cc4a70ffb94c4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a89d74b1a19287af8099cc4a70ffb94c4"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>AtTargetInQueue</b></td></tr>
 <tr class="memitem:a4cf78fb0592a76d17dda7e90deac3179"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a4cf78fb0592a76d17dda7e90deac3179"></a>
 List&lt; Changed &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>ChangedInQueue</b> = new List&lt;Changed&gt;()</td></tr>
 <tr class="memitem:a772bf499a1543628257097e94918edfc"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a772bf499a1543628257097e94918edfc"></a>
@@ -196,6 +200,12 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>Loading</b> = true</t
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>MovingInQueue</b> = false</td></tr>
 <tr class="memitem:aac0954c6a2436b564314263cd806bfa2"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="aac0954c6a2436b564314263cd806bfa2"></a>
 long&#160;</td><td class="memItemRight" valign="bottom"><b>NextEventTimeTicks</b> = 0</td></tr>
+<tr class="memitem:ad0f43f8caea902ce7c3f64be43d063f6"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="ad0f43f8caea902ce7c3f64be43d063f6"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>NoSensorInQueue</b></td></tr>
+<tr class="memitem:a787f38b7cc960b98e6dd4798e5908eb1"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a787f38b7cc960b98e6dd4798e5908eb1"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>NotAtRotTargetInQueue</b></td></tr>
+<tr class="memitem:a84f71419f83bda9fe3cbc29d54c7c685"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a84f71419f83bda9fe3cbc29d54c7c685"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>NotAtTargetInQueue</b></td></tr>
 <tr class="memitem:a89f791470a6e0b9cd4494d2264c309f8"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a89f791470a6e0b9cd4494d2264c309f8"></a>
 <a class="el" href="../../d2/d22/interfaceAurora_1_1Framework_1_1ISceneChildEntity.html">ISceneChildEntity</a>&#160;</td><td class="memItemRight" valign="bottom"><b>Part</b></td></tr>
 <tr class="memitem:adac8f01198572410ad9bc558856dee4b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="adac8f01198572410ad9bc558856dee4b"></a>
@@ -218,6 +228,8 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>Running</b> = true</t
 object&#160;</td><td class="memItemRight" valign="bottom"><b>ScriptEventLock</b> = new object()</td></tr>
 <tr class="memitem:a482db751df52e50bda95c3e32c846766"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a482db751df52e50bda95c3e32c846766"></a>
 int&#160;</td><td class="memItemRight" valign="bottom"><b>ScriptScore</b> = 0</td></tr>
+<tr class="memitem:a57e014e382d8999615f916eed10b8a0f"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a57e014e382d8999615f916eed10b8a0f"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>SensorInQueue</b></td></tr>
 <tr class="memitem:a68f65883deafacdb3ab8bb1f7937d2fb"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a68f65883deafacdb3ab8bb1f7937d2fb"></a>
 string&#160;</td><td class="memItemRight" valign="bottom"><b>Source</b> = &quot;&quot;</td></tr>
 <tr class="memitem:a846d20121dad7ba897ab6957906db956"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a846d20121dad7ba897ab6957906db956"></a>
@@ -232,7 +244,9 @@ StateSource&#160;</td><td class="memItemRight" valign="bottom"><b>stateSource</b
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>Suspended</b> = false</td></tr>
 <tr class="memitem:a66eda93cc59c1eb731846a8a2c7d61fe"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a66eda93cc59c1eb731846a8a2c7d61fe"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>TargetOmegaWasSet</b> = false</td></tr>
-<tr class="memitem:a41eb04ade0114017b23632ace2b8113b"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a41eb04ade0114017b23632ace2b8113b"></a>
+<tr class="memitem:a1132be58e0384c7d13740c8366e2f693"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a1132be58e0384c7d13740c8366e2f693"></a>
+bool&#160;</td><td class="memItemRight" valign="bottom"><b>TimerInQueue</b></td></tr>
+<tr class="memitem:a630afe093be25a550f6f29717a17a5d5"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a630afe093be25a550f6f29717a17a5d5"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>TimerQueued</b> = false</td></tr>
 <tr class="memitem:a6c29738d22a104b80365ba391e2b7791"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a6c29738d22a104b80365ba391e2b7791"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>TouchInQueue</b> = false</td></tr>
@@ -260,31 +274,6 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>ChangeState</b> (stri
 <tr class="memdesc:a34a774dd3eefa6079fe2344144a4bd45"><td class="mdescLeft">&#160;</td><td class="mdescRight">Sets up the <a class="el" href="../../d7/d59/namespaceAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1APIs.html">APIs</a> for the script.  <a href="#a34a774dd3eefa6079fe2344144a4bd45"></a><br/></td></tr>
 </table>
 <hr/><h2>Member Function Documentation</h2>
-<a class="anchor" id="a6f6dc904dfd08242222fcb410cff46a7"></a>
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">void <a class="el" href="../../d7/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1ScriptData.html#a6f6dc904dfd08242222fcb410cff46a7">Aurora.ScriptEngine.AuroraDotNetEngine.ScriptData.CloseAndDispose</a> </td>
-          <td>(</td>
-          <td class="paramtype">bool&#160;</td>
-          <td class="paramname"><em>shouldbackup</em></td><td>)</td>
-          <td></td>
-        </tr>
-      </table>
-</div>
-<div class="memdoc">
-
-<p>This closes the scrpit, removes it from any known spots, and disposes of itself. </p>
-<dl class="params"><dt><b>Parameters:</b></dt><dd>
-  <table class="params">
-    <tr><td class="paramname">shouldbackup</td><td>Should we back up this script and fire state_exit?</td></tr>
-  </table>
-  </dd>
-</dl>
-
-</div>
-</div>
 <a class="anchor" id="a9e4bc827b4b23c8f19b0a06cca44fad5"></a>
 <div class="memitem">
 <div class="memproto">
@@ -304,6 +293,31 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>ChangeState</b> (stri
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
     <tr><td class="paramname">Silent</td><td>Should we back up this script and fire state_exit?</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a class="anchor" id="a6f6dc904dfd08242222fcb410cff46a7"></a>
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void <a class="el" href="../../d7/dbf/classAurora_1_1ScriptEngine_1_1AuroraDotNetEngine_1_1ScriptData.html#a6f6dc904dfd08242222fcb410cff46a7">Aurora.ScriptEngine.AuroraDotNetEngine.ScriptData.CloseAndDispose</a> </td>
+          <td>(</td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>shouldbackup</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div>
+<div class="memdoc">
+
+<p>This closes the scrpit, removes it from any known spots, and disposes of itself. </p>
+<dl class="params"><dt><b>Parameters:</b></dt><dd>
+  <table class="params">
+    <tr><td class="paramname">shouldbackup</td><td>Should we back up this script and fire state_exit?</td></tr>
   </table>
   </dd>
 </dl>

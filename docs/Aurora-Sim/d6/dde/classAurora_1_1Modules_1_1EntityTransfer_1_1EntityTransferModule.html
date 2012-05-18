@@ -165,8 +165,8 @@ virtual void&#160;</td><td class="memItemRight" valign="bottom"><b>DoTeleport</b
 <tr class="memdesc:ae007f0026acd991d61b62e36cb9f8244"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get information about the given client from the given region.  <a href="#ae007f0026acd991d61b62e36cb9f8244"></a><br/></td></tr>
 <tr class="memitem:a827ae8ed09c207628412cbdff8671e8f"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a827ae8ed09c207628412cbdff8671e8f">Initialise</a> (IConfigSource source)</td></tr>
 <tr class="memdesc:a827ae8ed09c207628412cbdff8671e8f"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is called to initialize the region module. For shared modules, this is called exactly once, after creating the single (shared) instance. For non-shared modules, this is called once on each instance, after the instace for the region has been created.  <a href="#a827ae8ed09c207628412cbdff8671e8f"></a><br/></td></tr>
-<tr class="memitem:a17b915df31f9e6ff48a69c7fcb4d54cb"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a17b915df31f9e6ff48a69c7fcb4d54cb">MakeChildAgent</a> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> sp, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> finalDestination)</td></tr>
-<tr class="memdesc:a17b915df31f9e6ff48a69c7fcb4d54cb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Turn a former root child into a child agent (for when the agent leaves)  <a href="#a17b915df31f9e6ff48a69c7fcb4d54cb"></a><br/></td></tr>
+<tr class="memitem:aaef87ba16ba647d334fb8fdc82e592c6"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aaef87ba16ba647d334fb8fdc82e592c6">MakeChildAgent</a> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> sp, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> finalDestination, bool markAgentAsLeaving)</td></tr>
+<tr class="memdesc:aaef87ba16ba647d334fb8fdc82e592c6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Turn a former root child into a child agent (for when the agent leaves)  <a href="#aaef87ba16ba647d334fb8fdc82e592c6"></a><br/></td></tr>
 <tr class="memitem:abb5d626411e4f7f763ede809f8f72922"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#abb5d626411e4f7f763ede809f8f72922">NewUserConnection</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene, <a class="el" href="../../d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html">AgentCircuitData</a> agent, uint teleportFlags, out int UDPPort, out string reason)</td></tr>
 <tr class="memdesc:abb5d626411e4f7f763ede809f8f72922"><td class="mdescLeft">&#160;</td><td class="mdescRight">Do the work necessary to initiate a new user connection for a particular scene. At the moment, this consists of setting up the caps infrastructure The return bool should allow for connections to be refused, but as not all calling paths take proper notice of it let, we allowed banned users in still.  <a href="#abb5d626411e4f7f763ede809f8f72922"></a><br/></td></tr>
 <tr class="memitem:a119f56dbb5ed8a07f16bbae79df7f172"><td class="memItemLeft" align="right" valign="top">virtual void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a119f56dbb5ed8a07f16bbae79df7f172">PostInitialise</a> ()</td></tr>
@@ -881,12 +881,12 @@ Properties</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a17b915df31f9e6ff48a69c7fcb4d54cb"></a>
+<a class="anchor" id="aaef87ba16ba647d334fb8fdc82e592c6"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a17b915df31f9e6ff48a69c7fcb4d54cb">Aurora.Modules.EntityTransfer.EntityTransferModule.MakeChildAgent</a> </td>
+          <td class="memname">void <a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aaef87ba16ba647d334fb8fdc82e592c6">Aurora.Modules.EntityTransfer.EntityTransferModule.MakeChildAgent</a> </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a>&#160;</td>
           <td class="paramname"><em>sp</em>, </td>
@@ -895,7 +895,13 @@ Properties</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a>&#160;</td>
-          <td class="paramname"><em>finalDestination</em>&#160;</td>
+          <td class="paramname"><em>finalDestination</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>markAgentAsLeaving</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -911,11 +917,12 @@ Properties</h2></td></tr>
   <table class="params">
     <tr><td class="paramname">sp</td><td></td></tr>
     <tr><td class="paramname">finalDestination</td><td></td></tr>
+    <tr><td class="paramname">markAgentAsLeaving</td><td></td></tr>
   </table>
   </dd>
 </dl>
 
-<p>Implements <a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a092541fad8e539b3e10aa0364fc519e5">OpenSim.Region.Framework.Interfaces.IEntityTransferModule</a>.</p>
+<p>Implements <a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a0857636c904ab8c2c8d0cd74646c081a">OpenSim.Region.Framework.Interfaces.IEntityTransferModule</a>.</p>
 
 </div>
 </div>

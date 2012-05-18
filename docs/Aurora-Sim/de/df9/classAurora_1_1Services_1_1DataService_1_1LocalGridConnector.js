@@ -13,6 +13,7 @@ var classAurora_1_1Services_1_1DataService_1_1LocalGridConnector =
     [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#adc3fee1738023e7b75983550f2057fa3", null ],
     [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#afb8d83e3577ce22dd2f67866f34386f5", null ],
     [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a0246dae3bb69575715aa95b6cc511aa3", null ],
+    [ "Get", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#aebda1db6b6cceaf14ae91fbad01779bf", null ],
     [ "GetDefaultRegions", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ad6959beed91b320f28e45d8b0ac9f341", null ],
     [ "GetFallbackRegions", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#ab9006352f067c97872cce4c36fa09bd5", null ],
     [ "GetNeighbours", "de/df9/classAurora_1_1Services_1_1DataService_1_1LocalGridConnector.html#a1bb9f516c63aa179b9e38a31942c876c", null ],

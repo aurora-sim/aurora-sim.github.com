@@ -21,7 +21,7 @@ var classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule =
     [ "Initialise", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a827ae8ed09c207628412cbdff8671e8f", null ],
     [ "KillEntities", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aaf95cc2466c1bb699724b56fe92fb765", null ],
     [ "KillEntity", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a8c6a5a27a60b08c0f13616a8accb7a24", null ],
-    [ "MakeChildAgent", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a17b915df31f9e6ff48a69c7fcb4d54cb", null ],
+    [ "MakeChildAgent", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aaef87ba16ba647d334fb8fdc82e592c6", null ],
     [ "NewUserConnection", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#abb5d626411e4f7f763ede809f8f72922", null ],
     [ "OnClosingClient", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a1587517b12b4bcebede55c4909aa650b", null ],
     [ "OnNewClient", "d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aa9115f418eeca19c51691042f72c7045", null ],

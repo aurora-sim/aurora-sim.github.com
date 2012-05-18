@@ -146,8 +146,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a1b380ee4a7527099453ccc0bcae1547d"><td class="mdescLeft">&#160;</td><td class="mdescRight">A new object has come in from the SimulationHandlers, add it to the scene if we are able to.  <a href="#a1b380ee4a7527099453ccc0bcae1547d"></a><br/></td></tr>
 <tr class="memitem:a5f1c4de2b321832a15f74eb1856ce940"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a5f1c4de2b321832a15f74eb1856ce940">IncomingRetrieveRootAgent</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene, UUID id, bool agentIsLeaving, out <a class="el" href="../../d2/d7d/classAurora_1_1Framework_1_1AgentData.html">AgentData</a> agent, out <a class="el" href="../../d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html">AgentCircuitData</a> circuitData)</td></tr>
 <tr class="memdesc:a5f1c4de2b321832a15f74eb1856ce940"><td class="mdescLeft">&#160;</td><td class="mdescRight">Get information about the given client from the given region.  <a href="#a5f1c4de2b321832a15f74eb1856ce940"></a><br/></td></tr>
-<tr class="memitem:a092541fad8e539b3e10aa0364fc519e5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a092541fad8e539b3e10aa0364fc519e5">MakeChildAgent</a> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> sp, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> finalDestination)</td></tr>
-<tr class="memdesc:a092541fad8e539b3e10aa0364fc519e5"><td class="mdescLeft">&#160;</td><td class="mdescRight">Turn a former root child into a child agent (for when the agent leaves)  <a href="#a092541fad8e539b3e10aa0364fc519e5"></a><br/></td></tr>
+<tr class="memitem:a0857636c904ab8c2c8d0cd74646c081a"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a0857636c904ab8c2c8d0cd74646c081a">MakeChildAgent</a> (<a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a> sp, <a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a> finalDestination, bool markAgentAsLeaving)</td></tr>
+<tr class="memdesc:a0857636c904ab8c2c8d0cd74646c081a"><td class="mdescLeft">&#160;</td><td class="mdescRight">Turn a former root child into a child agent (for when the agent leaves)  <a href="#a0857636c904ab8c2c8d0cd74646c081a"></a><br/></td></tr>
 <tr class="memitem:a8718584741918acef8d8bd7a1350f94d"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a8718584741918acef8d8bd7a1350f94d">NewUserConnection</a> (<a class="el" href="../../db/dff/interfaceAurora_1_1Framework_1_1IScene.html">IScene</a> scene, <a class="el" href="../../d7/d65/classAurora_1_1Framework_1_1AgentCircuitData.html">AgentCircuitData</a> agent, uint teleportFlags, out int UDPPort, out string reason)</td></tr>
 <tr class="memdesc:a8718584741918acef8d8bd7a1350f94d"><td class="mdescLeft">&#160;</td><td class="mdescRight">A new user wants to enter the given region, return whether they are allowed to enter the region or not.  <a href="#a8718584741918acef8d8bd7a1350f94d"></a><br/></td></tr>
 <tr class="memitem:a8082ad26e081700f047331f603774947"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a8082ad26e081700f047331f603774947">RequestTeleportLocation</a> (<a class="el" href="../../d6/d22/interfaceAurora_1_1Framework_1_1IClientAPI.html">IClientAPI</a> client, ulong regionHandle, Vector3 position, Vector3 lookAt, uint teleportFlags)</td></tr>
@@ -552,12 +552,12 @@ Public Member Functions</h2></td></tr>
 
 </div>
 </div>
-<a class="anchor" id="a092541fad8e539b3e10aa0364fc519e5"></a>
+<a class="anchor" id="a0857636c904ab8c2c8d0cd74646c081a"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void <a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a092541fad8e539b3e10aa0364fc519e5">OpenSim.Region.Framework.Interfaces.IEntityTransferModule.MakeChildAgent</a> </td>
+          <td class="memname">void <a class="el" href="../../d9/d6c/interfaceOpenSim_1_1Region_1_1Framework_1_1Interfaces_1_1IEntityTransferModule.html#a0857636c904ab8c2c8d0cd74646c081a">OpenSim.Region.Framework.Interfaces.IEntityTransferModule.MakeChildAgent</a> </td>
           <td>(</td>
           <td class="paramtype"><a class="el" href="../../dd/dd6/interfaceAurora_1_1Framework_1_1IScenePresence.html">IScenePresence</a>&#160;</td>
           <td class="paramname"><em>sp</em>, </td>
@@ -566,7 +566,13 @@ Public Member Functions</h2></td></tr>
           <td class="paramkey"></td>
           <td></td>
           <td class="paramtype"><a class="el" href="../../dc/d50/classOpenSim_1_1Services_1_1Interfaces_1_1GridRegion.html">GridRegion</a>&#160;</td>
-          <td class="paramname"><em>finalDestination</em>&#160;</td>
+          <td class="paramname"><em>finalDestination</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>markAgentAsLeaving</em>&#160;</td>
         </tr>
         <tr>
           <td></td>
@@ -582,11 +588,12 @@ Public Member Functions</h2></td></tr>
   <table class="params">
     <tr><td class="paramname">sp</td><td></td></tr>
     <tr><td class="paramname">finalDestination</td><td></td></tr>
+    <tr><td class="paramname">markAgentAsLeaving</td><td></td></tr>
   </table>
   </dd>
 </dl>
 
-<p>Implemented in <a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#a17b915df31f9e6ff48a69c7fcb4d54cb">Aurora.Modules.EntityTransfer.EntityTransferModule</a>.</p>
+<p>Implemented in <a class="el" href="../../d6/dde/classAurora_1_1Modules_1_1EntityTransfer_1_1EntityTransferModule.html#aaef87ba16ba647d334fb8fdc82e592c6">Aurora.Modules.EntityTransfer.EntityTransferModule</a>.</p>
 
 </div>
 </div>
