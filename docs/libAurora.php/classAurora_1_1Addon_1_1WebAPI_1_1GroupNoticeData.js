@@ -1,0 +1,25 @@
+var classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData =
+[
+    [ "__construct", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#ae2316a4098ab5fa515281c77aaaa6488", null ],
+    [ "AssetType", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a18240d42e14938be9ac9839b18bebaf8", null ],
+    [ "FromName", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#aad7ad6a44740f333072806ed26d62511", null ],
+    [ "GroupID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#af38dca2402c63316b80489a5d4e0f2b9", null ],
+    [ "HasAttachment", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a8aa55935795711c516d18b6efce0e0af", null ],
+    [ "ItemID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a201c3367db642cf179cbe859bc1ca7a6", null ],
+    [ "ItemName", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a7583506354e1c5207cc6c27285a0964c", null ],
+    [ "Message", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#af1991e0448f9277f0939d142e4aa2c94", null ],
+    [ "NoticeID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#abc453f0be813d337f3728d26c24b38d5", null ],
+    [ "r", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a684dc81b72e0d7c81b1c2d41a26ec652", null ],
+    [ "Subject", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a50e15527fd1badb4f312f39d96cee5d1", null ],
+    [ "Timestamp", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a3ccb273b45fb16b1b14de8a4c8b44e3b", null ],
+    [ "$AssetType", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a2819b4fbefff3533e2aa4ff5e9139fd4", null ],
+    [ "$FromName", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a0338c56bfb2ac4229c555a97222f47c2", null ],
+    [ "$GroupID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a558a1e3447f354b195f8b498748a04a8", null ],
+    [ "$HasAttachment", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#acdef98583c4f2ffcae7e82936477c9df", null ],
+    [ "$ItemID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a569d93e811de8b5af1c63db49588c391", null ],
+    [ "$ItemName", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a40e923f167edd0099358b2c2fd438772", null ],
+    [ "$Message", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#ab23576849f64a6b190167099cfab7eae", null ],
+    [ "$NoticeID", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#aa741e7cd9ff0d97e1f7651344c950ebd", null ],
+    [ "$Subject", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a2b58ba25576b17f0a874336a68a44a62", null ],
+    [ "$Timestamp", "classAurora_1_1Addon_1_1WebAPI_1_1GroupNoticeData.html#a085ca2acd04c13cf0ef5b3861c49d364", null ]
+];
