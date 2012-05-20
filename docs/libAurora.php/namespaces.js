@@ -2,6 +2,7 @@ var namespaces =
 [
     [ "Aurora", "namespaceAurora.html", "namespaceAurora" ],
     [ "Aurora\\Addon", "namespaceAurora_1_1Addon.html", "namespaceAurora_1_1Addon" ],
+    [ "Aurora\\Addon\\WebAPI", "namespaceAurora_1_1Addon_1_1WebAPI.html", "namespaceAurora_1_1Addon_1_1WebAPI" ],
     [ "Aurora\\Addon\\WebUI", "namespaceAurora_1_1Addon_1_1WebUI.html", "namespaceAurora_1_1Addon_1_1WebUI" ],
     [ "Aurora\\Addon\\WebUI\\Template", "namespaceAurora_1_1Addon_1_1WebUI_1_1Template.html", "namespaceAurora_1_1Addon_1_1WebUI_1_1Template" ],
     [ "Aurora\\DataManager\\Migration", "namespaceAurora_1_1DataManager_1_1Migration.html", "namespaceAurora_1_1DataManager_1_1Migration" ],

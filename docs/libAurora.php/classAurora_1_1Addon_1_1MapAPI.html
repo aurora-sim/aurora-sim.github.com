@@ -139,6 +139,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memdesc:a601129bcf07368b296cbb79d010f6f43"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the formatting string for mapapi.js to generate tile urls.  <a href="#a601129bcf07368b296cbb79d010f6f43"></a><br/></td></tr>
 <tr class="memitem:a4f92eead3734c38d01a228d1854a3ccb"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a4f92eead3734c38d01a228d1854a3ccb">MonolithicRegionLookup</a> ()</td></tr>
 <tr class="memdesc:a4f92eead3734c38d01a228d1854a3ccb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Gets the monolithic lookup list for regions in the grid.  <a href="#a4f92eead3734c38d01a228d1854a3ccb"></a><br/></td></tr>
+<tr class="memitem:a3280b00e64a41693534510aa0ff503c4"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a3280b00e64a41693534510aa0ff503c4"></a>
+&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a3280b00e64a41693534510aa0ff503c4">RegionDetails</a> ($a, $b=null, $c=0)</td></tr>
+<tr class="memdesc:a3280b00e64a41693534510aa0ff503c4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Attempt to get region details. <br/></td></tr>
 <tr><td colspan="2"><h2><a name="pub-static-methods"></a>
 Static Public Member Functions</h2></td></tr>
 <tr class="memitem:a0737ffe1c36a43b8bbeeee9082784474"><td class="memItemLeft" align="right" valign="top">static&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a0737ffe1c36a43b8bbeeee9082784474">r</a> ($serviceURL)</td></tr>
@@ -147,8 +150,8 @@ Static Public Member Functions</h2></td></tr>
 Protected Member Functions</h2></td></tr>
 <tr class="memitem:acb9e6892b1d767373cdc20b785cff7be"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#acb9e6892b1d767373cdc20b785cff7be">__construct</a> ($serviceURL)</td></tr>
 <tr class="memdesc:acb9e6892b1d767373cdc20b785cff7be"><td class="mdescLeft">&#160;</td><td class="mdescRight">This is protected because we're going to use a registry method to access it.  <a href="#acb9e6892b1d767373cdc20b785cff7be"></a><br/></td></tr>
-<tr class="memitem:a3441c8721acb915e65d5dcdd201f7fce"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a3441c8721acb915e65d5dcdd201f7fce">makeCallToAPI</a> ($method, array $arguments=null, array $expectedResponse)</td></tr>
-<tr class="memdesc:a3441c8721acb915e65d5dcdd201f7fce"><td class="mdescLeft">&#160;</td><td class="mdescRight">makes a call to the <a class="el" href="classAurora_1_1Addon_1_1MapAPI.html" title="Acts as an interface to the mapapi.cs Aurora-Sim module.">MapAPI</a> API end point running on an instance of <a class="el" href="namespaceAurora.html" title="This file loads all the code.">Aurora</a>.  <a href="#a3441c8721acb915e65d5dcdd201f7fce"></a><br/></td></tr>
+<tr class="memitem:a5ad9abfda3a02457c8d38d3590ce7603"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a5ad9abfda3a02457c8d38d3590ce7603">makeCallToAPI</a> ($method, $readOnly=false, array $arguments=null, array $expectedResponse)</td></tr>
+<tr class="memdesc:a5ad9abfda3a02457c8d38d3590ce7603"><td class="mdescLeft">&#160;</td><td class="mdescRight">makes a call to the <a class="el" href="classAurora_1_1Addon_1_1MapAPI.html" title="Acts as an interface to the mapapi.cs Aurora-Sim module.">MapAPI</a> API end point running on an instance of <a class="el" href="namespaceAurora.html" title="This file loads all the code.">Aurora</a>.  <a href="#a5ad9abfda3a02457c8d38d3590ce7603"></a><br/></td></tr>
 <tr><td colspan="2"><h2><a name="pro-attribs"></a>
 Protected Attributes</h2></td></tr>
 <tr class="memitem:a9e612b03617c70ac9c8ee664edc04389"><td class="memItemLeft" align="right" valign="top"><a class="anchor" id="a9e612b03617c70ac9c8ee664edc04389"></a>
@@ -184,15 +187,21 @@ Protected Attributes</h2></td></tr>
 </div>
 </div>
 <hr/><h2>Member Function Documentation</h2>
-<a class="anchor" id="a3441c8721acb915e65d5dcdd201f7fce"></a>
+<a class="anchor" id="a5ad9abfda3a02457c8d38d3590ce7603"></a>
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a3441c8721acb915e65d5dcdd201f7fce">makeCallToAPI</a> </td>
+          <td class="memname"><a class="el" href="classAurora_1_1Addon_1_1MapAPI.html#a5ad9abfda3a02457c8d38d3590ce7603">makeCallToAPI</a> </td>
           <td>(</td>
           <td class="paramtype">$&#160;</td>
           <td class="paramname"><em>method</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">$&#160;</td>
+          <td class="paramname"><em>readOnly</em> = <code>false</code>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -220,6 +229,7 @@ Protected Attributes</h2></td></tr>
 <dl class="params"><dt><b>Parameters:</b></dt><dd>
   <table class="params">
     <tr><td class="paramtype">string</td><td class="paramname">$method</td><td>the API method to call </td></tr>
+    <tr><td class="paramtype">boolean</td><td class="paramname">$readOnly</td><td>TRUE if API method is read-only, FALSE otherwise </td></tr>
     <tr><td class="paramtype">mixed</td><td class="paramname">$arguments</td><td>NULL if a method is being called with no arguments or an array of named arguments </td></tr>
     <tr><td class="paramtype">array</td><td class="paramname">$expectedResponse</td><td>a specially-constructed array indicating the expected response format of the API call </td></tr>
   </table>
@@ -227,7 +237,7 @@ Protected Attributes</h2></td></tr>
 </dl>
 <dl class="section return"><dt>Returns:</dt><dd>mixed </dd></dl>
 
-<p>Reimplemented from <a class="el" href="classAurora_1_1Addon_1_1abstractAPI.html#a3441c8721acb915e65d5dcdd201f7fce">abstractAPI</a>.</p>
+<p>Reimplemented from <a class="el" href="classAurora_1_1Addon_1_1abstractAPI.html#a5ad9abfda3a02457c8d38d3590ce7603">abstractAPI</a>.</p>
 
 </div>
 </div>

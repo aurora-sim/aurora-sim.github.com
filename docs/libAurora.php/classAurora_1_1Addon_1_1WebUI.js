@@ -1,6 +1,5 @@
 var classAurora_1_1Addon_1_1WebUI =
 [
-    [ "__construct", "classAurora_1_1Addon_1_1WebUI.html#a8c7aed34f19ec3566f436bf9f301b3db", null ],
     [ "AbuseReportMarkComplete", "classAurora_1_1Addon_1_1WebUI.html#a82ce78597574da80908271c06d014d09", null ],
     [ "AbuseReportSaveNotes", "classAurora_1_1Addon_1_1WebUI.html#ac15d3e97133b205adbf9c99e96bdc036", null ],
     [ "ActivateAccount", "classAurora_1_1Addon_1_1WebUI.html#af3d5e6848c7af80a8c20ad3e7a0d2e11", null ],
@@ -21,7 +20,9 @@ var classAurora_1_1Addon_1_1WebUI =
     [ "foreknowledgeGetGroupRecords", "classAurora_1_1Addon_1_1WebUI.html#affa4c86e44898f6a0aee0161244ff8f0", null ],
     [ "ForgotPassword", "classAurora_1_1Addon_1_1WebUI.html#aa586fc27bb8224bf27b3b4e5ebe6aa76", null ],
     [ "get_grid_info", "classAurora_1_1Addon_1_1WebUI.html#a37de71a37de731938567b49129469765", null ],
+    [ "GetAbuseReport", "classAurora_1_1Addon_1_1WebUI.html#a4ed87d7e7a525de0bcbfbffa195a7f2e", null ],
     [ "GetAbuseReports", "classAurora_1_1Addon_1_1WebUI.html#ab859c47c72d1ec2921f437252ea4a2a3", null ],
+    [ "GetAbuseReportValidator", "classAurora_1_1Addon_1_1WebUI.html#a378b6e82425dace7147ac96fbc0ffcc0", null ],
     [ "GetAvatarArchives", "classAurora_1_1Addon_1_1WebUI.html#a6704b0868dc98d8a98c71d732a172713", null ],
     [ "GetEstate", "classAurora_1_1Addon_1_1WebUI.html#ad98214fc31c4ac47da51659b755f9efc", null ],
     [ "GetEstates", "classAurora_1_1Addon_1_1WebUI.html#a7f70ebcf4c29544955cf1565243de14d", null ],
@@ -49,13 +50,11 @@ var classAurora_1_1Addon_1_1WebUI =
     [ "GroupNotices", "classAurora_1_1Addon_1_1WebUI.html#a8780edcbbdc1524b05d57ba180ff5b74", null ],
     [ "GroupNoticeValidatorArray", "classAurora_1_1Addon_1_1WebUI.html#ad539d29b687323c9378b5226596ec8d4", null ],
     [ "Login", "classAurora_1_1Addon_1_1WebUI.html#a4a533e4b69f7790e6b74bff620275edc", null ],
-    [ "makeCallToAPI", "classAurora_1_1Addon_1_1WebUI.html#a3441c8721acb915e65d5dcdd201f7fce", null ],
     [ "MapTexture", "classAurora_1_1Addon_1_1WebUI.html#a102ab38bd50c6a4a899a59f42221294b", null ],
     [ "NewsFromGroupNotices", "classAurora_1_1Addon_1_1WebUI.html#a1491903062b105bceb182e360a99c49a", null ],
     [ "NumberOfRecentlyOnlineUsers", "classAurora_1_1Addon_1_1WebUI.html#a07dec5ccc5f24b32ee423aa6f954259b", null ],
     [ "OnlineStatus", "classAurora_1_1Addon_1_1WebUI.html#a5a8005e4a46e7e3787f23465802ddbe7", null ],
     [ "ParcelResultValidatorArray", "classAurora_1_1Addon_1_1WebUI.html#a5f3fe5985554595c1cb20f40bfbfb828", null ],
-    [ "r", "classAurora_1_1Addon_1_1WebUI.html#ad53920336f65274cb34cbf14e5560c56", null ],
     [ "RecentlyOnlineUsers", "classAurora_1_1Addon_1_1WebUI.html#a4b85c39e556a0404922aa961484b63da", null ],
     [ "RemoveGroupNotice", "classAurora_1_1Addon_1_1WebUI.html#a6da23e36f36acf6f31b109e73a6e27d0", null ],
     [ "ResetAvatar", "classAurora_1_1Addon_1_1WebUI.html#a1be7d290d18f4c1f967b46d43babeda1", null ],
@@ -65,7 +64,5 @@ var classAurora_1_1Addon_1_1WebUI =
     [ "TempBanUser", "classAurora_1_1Addon_1_1WebUI.html#aad1846e80e3ca412363c83dfa92e51ee", null ],
     [ "UnBanUser", "classAurora_1_1Addon_1_1WebUI.html#a98002344edb3c59e0e61a73bf8dff082", null ],
     [ "$GridInfo", "classAurora_1_1Addon_1_1WebUI.html#a89d5b470485363ed5bbc759d1e885227", null ],
-    [ "$password", "classAurora_1_1Addon_1_1WebUI.html#a607686ef9f99ea7c42f4f3dd3dbb2b0d", null ],
-    [ "$serviceURL", "classAurora_1_1Addon_1_1WebUI.html#a9e612b03617c70ac9c8ee664edc04389", null ],
     [ "regex_UUID", "classAurora_1_1Addon_1_1WebUI.html#af134c5a683b22a0c49f600a8b1bc85bd", null ]
 ];

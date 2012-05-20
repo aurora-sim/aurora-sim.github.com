@@ -21,11 +21,7 @@ var NAVTREE =
       ] ]
     ] ],
     [ "Files", null, [
-      [ "File List", "files.html", "files" ],
-      [ "Globals", "globals.html", [
-        [ "All", "globals.html", null ],
-        [ "Variables", "globals_vars.html", null ]
-      ] ]
+      [ "File List", "files.html", "files" ]
     ] ]
   ] ]
 ];
